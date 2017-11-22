@@ -1,0 +1,359 @@
+req_id:1495425229729492,date:2017-05-22 11:53:49,qt:login,msg:query info : null
+req_id:1495425229807617,date:2017-05-22 11:53:49,qt:login,msg:query info : null
+req_id:1495425240354492,date:2017-05-22 11:54:00,qt:login,msg:query info : null
+req_id:1495425243135742,date:2017-05-22 11:54:03,qt:login,msg:query info : null
+req_id:1495425244698242,date:2017-05-22 11:54:04,qt:login,msg:query info : null
+req_id:1495425359385742,date:2017-05-22 11:55:59,qt:login,msg:query info : null
+req_id:1495441538760742,date:2017-05-22 16:25:38,qt:default,msg:query info : null
+req_id:1495441579416992,date:2017-05-22 16:26:19,qt:result,msg:redis connect success
+req_id:1495441635307617,date:2017-05-22 16:27:15,qt:result,msg:redis connect success
+req_id:1495441635307617,date:2017-05-22 16:27:15,qt:result,msg:db_conf_key db1 Connect success !
+req_id:1495441635307617,date:2017-05-22 16:27:15,qt:result,msg:SELECT `id`, `name` FROM `eval_department` WHERE parent_id = '5' 
+req_id:1495441635307617,date:2017-05-22 16:27:15,qt:result,msg:db_conf_key db1 Connect success !
+req_id:1495441635307617,date:2017-05-22 16:27:15,qt:result,msg:SELECT `score`, `gender`, `test_times`, `edu_depart_id`, `school_id`, `grade`, `class`, `sno` FROM `eval_evaluation` WHERE edu_depart_id = 6  AND test_times = 1 
+req_id:1495441635307617,date:2017-05-22 16:27:15,qt:result,msg:db_conf_key db1 Connect success !
+req_id:1495441635307617,date:2017-05-22 16:27:15,qt:result,msg:SELECT `id`, `name` FROM `eval_department` WHERE parent_id = '5' 
+req_id:1495441635307617,date:2017-05-22 16:27:15,qt:result,msg:db_conf_key db1 Connect success !
+req_id:1495441635307617,date:2017-05-22 16:27:15,qt:result,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1495441635307617,date:2017-05-22 16:27:15,qt:result,msg:query info : null
+req_id:1495441703120117,date:2017-05-22 16:28:23,qt:login,msg:query info : null
+req_id:1495441705791992,date:2017-05-22 16:28:25,qt:login,msg:query info : null
+req_id:1495441707526367,date:2017-05-22 16:28:27,qt:login,msg:query info : null
+req_id:1495441709448242,date:2017-05-22 16:28:29,qt:login,msg:query info : null
+req_id:1495441716510742,date:2017-05-22 16:28:36,qt:login,msg:query info : null
+req_id:1495441719807617,date:2017-05-22 16:28:39,qt:login,msg:query info : null
+req_id:1495441731932617,date:2017-05-22 16:28:51,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1495441731932617,date:2017-05-22 16:28:51,qt:login,msg:SELECT `account`, `passwd`, `name` FROM `eval_student` WHERE account = '01010106' 
+req_id:1495441731932617,date:2017-05-22 16:28:52,qt:login,msg:query info : null
+req_id:149544173226367,date:2017-05-22 16:28:52,qt:login,msg:query info : null
+req_id:149544173288867,date:2017-05-22 16:28:52,qt:login,msg:query info : null
+req_id:1495441747885742,date:2017-05-22 16:29:07,qt:login,msg:query info : null
+req_id:1495441750323242,date:2017-05-22 16:29:10,qt:login,msg:query info : null
+req_id:1495441829213867,date:2017-05-22 16:30:29,qt:login,msg:query info : null
+req_id:1495441837182617,date:2017-05-22 16:30:37,qt:login,msg:query info : null
+req_id:1495441844323242,date:2017-05-22 16:30:44,qt:login,msg:query info : null
+req_id:1495441852698242,date:2017-05-22 16:30:52,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1495441852698242,date:2017-05-22 16:30:52,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `edu_depart_id` FROM `eval_school` WHERE account = 'szyz' 
+req_id:1495441852698242,date:2017-05-22 16:30:52,qt:login,msg:query info : null
+req_id:1495441853401367,date:2017-05-22 16:30:53,qt:login,msg:query info : null
+req_id:1495441853526367,date:2017-05-22 16:30:53,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1495441853526367,date:2017-05-22 16:30:53,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1495441853526367,date:2017-05-22 16:30:53,qt:list,msg:query info : null
+req_id:1495441853604492,date:2017-05-22 16:30:53,qt:navigate,msg:redis connect success
+req_id:1495441853604492,date:2017-05-22 16:30:53,qt:navigate,msg:db_conf_key db1 Connect success !
+req_id:1495441853604492,date:2017-05-22 16:30:53,qt:navigate,msg:SELECT `id`, `edu_depart_id` FROM `eval_school` WHERE id in  (12) 
+req_id:1495441853604492,date:2017-05-22 16:30:53,qt:navigate,msg:db_conf_key db1 Connect success !
+req_id:1495441853604492,date:2017-05-22 16:30:53,qt:navigate,msg:SELECT distinct `edu_depart_id`, `school_id`, `grade`, `class` FROM `eval_evaluation` WHERE edu_depart_id = '6'  AND school_id = '12' 
+req_id:1495441853604492,date:2017-05-22 16:30:53,qt:navigate,msg:query info : null
+req_id:1495441853760742,date:2017-05-22 16:30:53,qt:evaluation,msg:redis connect success
+req_id:1495441853760742,date:2017-05-22 16:30:53,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1495441853760742,date:2017-05-22 16:30:53,qt:evaluation,msg:SELECT `score`, `gender`, `test_times`, `edu_depart_id`, `school_id`, `grade`, `class`, `sno` FROM `eval_evaluation` WHERE edu_depart_id = '6'  AND school_id = '12'  AND test_times = '1' 
+req_id:1495441853760742,date:2017-05-22 16:30:53,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1495441853760742,date:2017-05-22 16:30:53,qt:evaluation,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1495441853760742,date:2017-05-22 16:30:53,qt:evaluation,msg:query info : null
+req_id:1495441855182617,date:2017-05-22 16:30:55,qt:login,msg:query info : null
+req_id:1495441856995117,date:2017-05-22 16:30:57,qt:login,msg:query info : null
+req_id:1495441863166992,date:2017-05-22 16:31:03,qt:evaluation,msg:redis connect success
+req_id:1495441863166992,date:2017-05-22 16:31:03,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1495441863166992,date:2017-05-22 16:31:03,qt:evaluation,msg:SELECT `score`, `gender`, `test_times`, `edu_depart_id`, `school_id`, `grade`, `class`, `sno` FROM `eval_evaluation` WHERE edu_depart_id = '6'  AND school_id = '12'  AND test_times = '1' 
+req_id:1495441863166992,date:2017-05-22 16:31:03,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1495441863166992,date:2017-05-22 16:31:03,qt:evaluation,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1495441863166992,date:2017-05-22 16:31:03,qt:evaluation,msg:query info : null
+req_id:1495441866229492,date:2017-05-22 16:31:06,qt:login,msg:query info : null
+req_id:1495441868307617,date:2017-05-22 16:31:08,qt:login,msg:query info : null
+req_id:1495441868666992,date:2017-05-22 16:31:08,qt:login,msg:query info : null
+req_id:1495441868823242,date:2017-05-22 16:31:08,qt:evaluation,msg:redis connect success
+req_id:1495441868823242,date:2017-05-22 16:31:08,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1495441868823242,date:2017-05-22 16:31:08,qt:evaluation,msg:SELECT `score`, `gender`, `test_times`, `edu_depart_id`, `school_id`, `grade`, `class`, `sno` FROM `eval_evaluation` WHERE edu_depart_id = '6'  AND school_id = '12'  AND test_times = '1' 
+req_id:1495441868823242,date:2017-05-22 16:31:08,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1495441868823242,date:2017-05-22 16:31:08,qt:evaluation,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1495441868823242,date:2017-05-22 16:31:08,qt:evaluation,msg:query info : null
+req_id:149544187310742,date:2017-05-22 16:31:13,qt:login,msg:query info : null
+req_id:149544187357617,date:2017-05-22 16:31:13,qt:list,msg:db_conf_key db1 Connect success !
+req_id:149544187357617,date:2017-05-22 16:31:13,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:149544187357617,date:2017-05-22 16:31:13,qt:list,msg:query info : null
+req_id:1495441873104492,date:2017-05-22 16:31:13,qt:evaluation,msg:redis connect success
+req_id:1495441873104492,date:2017-05-22 16:31:13,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1495441873104492,date:2017-05-22 16:31:13,qt:evaluation,msg:SELECT `score`, `gender`, `test_times`, `edu_depart_id`, `school_id`, `grade`, `class`, `sno` FROM `eval_evaluation` WHERE edu_depart_id = '6'  AND school_id = '12'  AND test_times = '1' 
+req_id:1495441873104492,date:2017-05-22 16:31:13,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1495441873104492,date:2017-05-22 16:31:13,qt:evaluation,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1495441873104492,date:2017-05-22 16:31:13,qt:evaluation,msg:query info : null
+req_id:1495441873307617,date:2017-05-22 16:31:13,qt:login,msg:query info : null
+req_id:1495441874713867,date:2017-05-22 16:31:14,qt:login,msg:query info : null
+req_id:1495441874745117,date:2017-05-22 16:31:14,qt:result,msg:redis connect success
+req_id:1495441874745117,date:2017-05-22 16:31:14,qt:result,msg:db_conf_key db1 Connect success !
+req_id:1495441874745117,date:2017-05-22 16:31:14,qt:result,msg:SELECT `id`, `edu_depart_id` FROM `eval_school` WHERE id in  (12) 
+req_id:1495441874745117,date:2017-05-22 16:31:14,qt:result,msg:db_conf_key db1 Connect success !
+req_id:1495441874745117,date:2017-05-22 16:31:14,qt:result,msg:SELECT `score`, `gender`, `test_times`, `edu_depart_id`, `school_id`, `grade`, `class`, `sno` FROM `eval_evaluation` WHERE edu_depart_id = '6'  AND test_times = 1 
+req_id:1495441874745117,date:2017-05-22 16:31:14,qt:result,msg:db_conf_key db1 Connect success !
+req_id:1495441874745117,date:2017-05-22 16:31:14,qt:result,msg:SELECT `id`, `name` FROM `eval_school`
+req_id:1495441874745117,date:2017-05-22 16:31:14,qt:result,msg:db_conf_key db1 Connect success !
+req_id:1495441874745117,date:2017-05-22 16:31:14,qt:result,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1495441874745117,date:2017-05-22 16:31:14,qt:result,msg:query info : null
+req_id:1495441874870117,date:2017-05-22 16:31:14,qt:login,msg:query info : null
+req_id:149544196188867,date:2017-05-22 16:32:41,qt:login,msg:query info : null
+req_id:1495441961182617,date:2017-05-22 16:32:41,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1495441961182617,date:2017-05-22 16:32:41,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1495441961182617,date:2017-05-22 16:32:41,qt:list,msg:query info : null
+req_id:1495441961245117,date:2017-05-22 16:32:41,qt:evaluation,msg:redis connect success
+req_id:1495441961245117,date:2017-05-22 16:32:41,qt:evaluation,msg:query info : null
+req_id:1495441961385742,date:2017-05-22 16:32:41,qt:login,msg:query info : null
+req_id:1495441963463867,date:2017-05-22 16:32:43,qt:login,msg:query info : null
+req_id:1495441963495117,date:2017-05-22 16:32:43,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1495441963495117,date:2017-05-22 16:32:43,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1495441963495117,date:2017-05-22 16:32:43,qt:list,msg:query info : null
+req_id:1495441963541992,date:2017-05-22 16:32:43,qt:navigate,msg:redis connect success
+req_id:1495441963541992,date:2017-05-22 16:32:43,qt:navigate,msg:query info : null
+req_id:1495441963573242,date:2017-05-22 16:32:43,qt:evaluation,msg:redis connect success
+req_id:1495441963573242,date:2017-05-22 16:32:43,qt:evaluation,msg:query info : null
+req_id:149544196426367,date:2017-05-22 16:32:44,qt:login,msg:query info : null
+req_id:1495441965698242,date:2017-05-22 16:32:45,qt:login,msg:query info : null
+req_id:1495441965713867,date:2017-05-22 16:32:45,qt:login,msg:query info : null
+req_id:1495441965932617,date:2017-05-22 16:32:45,qt:login,msg:query info : null
+req_id:1495441979760742,date:2017-05-22 16:32:59,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1495441979760742,date:2017-05-22 16:32:59,qt:login,msg:SELECT `account`, `passwd`, `name` FROM `eval_student` WHERE account = '01010106' 
+req_id:1495441979760742,date:2017-05-22 16:32:59,qt:login,msg:query info : null
+req_id:1495441979979492,date:2017-05-22 16:32:59,qt:login,msg:query info : null
+req_id:1495441980166992,date:2017-05-22 16:33:00,qt:login,msg:query info : null
+req_id:1495441985729492,date:2017-05-22 16:33:05,qt:login,msg:query info : null
+req_id:1495441989698242,date:2017-05-22 16:33:09,qt:login,msg:query info : null
+req_id:1495442003776367,date:2017-05-22 16:33:23,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1495442003776367,date:2017-05-22 16:33:23,qt:login,msg:SELECT `account`, `passwd`, `name` FROM `eval_student` WHERE account = '01010101' 
+req_id:1495442003776367,date:2017-05-22 16:33:23,qt:login,msg:query info : null
+req_id:1495442003963867,date:2017-05-22 16:33:23,qt:login,msg:query info : null
+req_id:1495442006932617,date:2017-05-22 16:33:26,qt:questionnaire,msg:redis connect success
+req_id:1495442006932617,date:2017-05-22 16:33:26,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1495442006932617,date:2017-05-22 16:33:26,qt:questionnaire,msg:SELECT `id`, `title` FROM `que_title` WHERE id = '1' 
+req_id:1495442006932617,date:2017-05-22 16:33:27,qt:questionnaire,msg:SELECT `questionnaire_id`, `question_id` FROM `que_title_question` WHERE questionnaire_id = '1' 
+req_id:1495442006932617,date:2017-05-22 16:33:27,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1495442006932617,date:2017-05-22 16:33:27,qt:questionnaire,msg:SELECT `id`, `content`, `type` FROM `que_question` WHERE id in (3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,75) 
+req_id:1495442006932617,date:2017-05-22 16:33:27,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1495442006932617,date:2017-05-22 16:33:27,qt:questionnaire,msg:SELECT `id`, `content`, `question_id`, `order` FROM `que_option` WHERE question_id in (3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,75) 
+req_id:1495442006932617,date:2017-05-22 16:33:27,qt:questionnaire,msg:query info : null
+req_id:1495442007135742,date:2017-05-22 16:33:27,qt:login,msg:query info : null
+req_id:1495442010338867,date:2017-05-22 16:33:30,qt:questionnaire,msg:redis connect success
+req_id:1495442010338867,date:2017-05-22 16:33:30,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1495442010338867,date:2017-05-22 16:33:30,qt:questionnaire,msg:SELECT `id`, `title` FROM `que_title` WHERE id = '2' 
+req_id:1495442010338867,date:2017-05-22 16:33:30,qt:questionnaire,msg:SELECT `questionnaire_id`, `question_id` FROM `que_title_question` WHERE questionnaire_id = '2' 
+req_id:1495442010338867,date:2017-05-22 16:33:30,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1495442010338867,date:2017-05-22 16:33:30,qt:questionnaire,msg:SELECT `id`, `content`, `type` FROM `que_question` WHERE id in (65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149) 
+req_id:1495442010338867,date:2017-05-22 16:33:30,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1495442010338867,date:2017-05-22 16:33:30,qt:questionnaire,msg:SELECT `id`, `content`, `question_id`, `order` FROM `que_option` WHERE question_id in (65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149) 
+req_id:1495442010338867,date:2017-05-22 16:33:30,qt:questionnaire,msg:query info : null
+req_id:1495442010401367,date:2017-05-22 16:33:30,qt:login,msg:query info : null
+req_id:1495442012198242,date:2017-05-22 16:33:32,qt:login,msg:query info : null
+req_id:1495442014229492,date:2017-05-22 16:33:34,qt:login,msg:query info : null
+req_id:1495442014260742,date:2017-05-22 16:33:34,qt:result,msg:redis connect success
+req_id:1495442014260742,date:2017-05-22 16:33:34,qt:result,msg:db_conf_key db1 Connect success !
+req_id:1495442014260742,date:2017-05-22 16:33:34,qt:result,msg:SELECT `answer`, `test_times` FROM `que_answer` WHERE sno = '01010101'  AND test_times = 1 
+req_id:1495442014260742,date:2017-05-22 16:33:34,qt:result,msg:db_conf_key db1 Connect success !
+req_id:1495442014260742,date:2017-05-22 16:33:34,qt:result,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1495442014260742,date:2017-05-22 16:33:34,qt:result,msg:SELECT `question_id`, `index_id` FROM `eval_question_index`
+req_id:1495442014260742,date:2017-05-22 16:33:34,qt:result,msg:db_conf_key db1 Connect success !
+req_id:1495442014260742,date:2017-05-22 16:33:34,qt:result,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1495442014260742,date:2017-05-22 16:33:34,qt:result,msg:SELECT `question_id`, `index_id` FROM `eval_question_index`
+req_id:1495442014260742,date:2017-05-22 16:33:34,qt:result,msg:query info : null
+req_id:1495442014573242,date:2017-05-22 16:33:34,qt:login,msg:query info : null
+req_id:149544201726367,date:2017-05-22 16:33:37,qt:login,msg:query info : null
+req_id:1495442069479492,date:2017-05-22 16:34:29,qt:login,msg:query info : null
+req_id:1495442189948242,date:2017-05-22 16:36:29,qt:login,msg:query info : null
+req_id:1495442189979492,date:2017-05-22 16:36:29,qt:login,msg:query info : null
+req_id:149544219088867,date:2017-05-22 16:36:30,qt:login,msg:query info : null
+req_id:1495442689182617,date:2017-05-22 16:44:49,qt:login,msg:query info : null
+req_id:1495442700120117,date:2017-05-22 16:45:00,qt:login,msg:query info : null
+req_id:1495442702104492,date:2017-05-22 16:45:02,qt:login,msg:query info : null
+req_id:1495442712604492,date:2017-05-22 16:45:12,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1495442712604492,date:2017-05-22 16:45:12,qt:login,msg:SELECT `account`, `passwd`, `name`, `level` FROM `eval_admin` WHERE account = 'admin' 
+req_id:1495442712604492,date:2017-05-22 16:45:12,qt:login,msg:query info : null
+req_id:1495442712807617,date:2017-05-22 16:45:12,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1495442712807617,date:2017-05-22 16:45:12,qt:list,msg:SELECT `id`, `title` FROM `que_title` limit 0, 20
+req_id:1495442712807617,date:2017-05-22 16:45:12,qt:list,msg:query info : null
+req_id:1495442712823242,date:2017-05-22 16:45:12,qt:status,msg:db_conf_key db1 Connect success !
+req_id:1495442712823242,date:2017-05-22 16:45:12,qt:status,msg:SELECT count(*) num FROM que_question
+req_id:1495442712823242,date:2017-05-22 16:45:12,qt:status,msg:db_conf_key db1 Connect success !
+req_id:1495442712823242,date:2017-05-22 16:45:12,qt:status,msg:SELECT count(*) num FROM que_title
+req_id:1495442712823242,date:2017-05-22 16:45:12,qt:status,msg:query info : null
+req_id:1495442712932617,date:2017-05-22 16:45:12,qt:login,msg:query info : null
+req_id:1495442714651367,date:2017-05-22 16:45:14,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1495442714651367,date:2017-05-22 16:45:14,qt:list,msg:SELECT `id`, `content`, `type` FROM `que_question` limit 0, 10
+req_id:1495442714651367,date:2017-05-22 16:45:14,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1495442714651367,date:2017-05-22 16:45:14,qt:list,msg:SELECT `id`, `content`, `question_id`, `order` FROM `que_option` WHERE question_id in (1,2,3,4,5,6,7,8,9,10) 
+req_id:1495442714651367,date:2017-05-22 16:45:14,qt:list,msg:query info : null
+req_id:1495442714666992,date:2017-05-22 16:45:14,qt:status,msg:db_conf_key db1 Connect success !
+req_id:1495442714666992,date:2017-05-22 16:45:14,qt:status,msg:SELECT count(*) num FROM que_question
+req_id:1495442714666992,date:2017-05-22 16:45:14,qt:status,msg:db_conf_key db1 Connect success !
+req_id:1495442714666992,date:2017-05-22 16:45:14,qt:status,msg:SELECT count(*) num FROM que_title
+req_id:1495442714666992,date:2017-05-22 16:45:14,qt:status,msg:query info : null
+req_id:1495442714807617,date:2017-05-22 16:45:14,qt:login,msg:query info : null
+req_id:1495442716510742,date:2017-05-22 16:45:16,qt:login,msg:query info : null
+req_id:1495442716526367,date:2017-05-22 16:45:16,qt:login,msg:query info : null
+req_id:1495442716573242,date:2017-05-22 16:45:16,qt:login,msg:query info : null
+req_id:1495442744807617,date:2017-05-22 16:45:44,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1495442744807617,date:2017-05-22 16:45:44,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'suzhou' 
+req_id:1495442744807617,date:2017-05-22 16:45:44,qt:login,msg:query info : null
+req_id:1495442744916992,date:2017-05-22 16:45:44,qt:login,msg:query info : null
+req_id:1495442744916992,date:2017-05-22 16:45:44,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1495442744916992,date:2017-05-22 16:45:44,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1495442744916992,date:2017-05-22 16:45:44,qt:list,msg:query info : null
+req_id:1495442744948242,date:2017-05-22 16:45:44,qt:navigate,msg:redis connect success
+req_id:1495442744948242,date:2017-05-22 16:45:44,qt:navigate,msg:db_conf_key db1 Connect success !
+req_id:1495442744948242,date:2017-05-22 16:45:44,qt:navigate,msg:SELECT `id`, `name` FROM `eval_department` WHERE parent_id = '5' 
+req_id:1495442744948242,date:2017-05-22 16:45:44,qt:navigate,msg:db_conf_key db1 Connect success !
+req_id:1495442744948242,date:2017-05-22 16:45:44,qt:navigate,msg:SELECT `id`, `name` FROM `eval_school`
+req_id:1495442744948242,date:2017-05-22 16:45:44,qt:navigate,msg:db_conf_key db1 Connect success !
+req_id:1495442744948242,date:2017-05-22 16:45:44,qt:navigate,msg:SELECT distinct `edu_depart_id`, `school_id`, `grade`, `class` FROM `eval_evaluation` WHERE edu_depart_id = '6' 
+req_id:1495442744948242,date:2017-05-22 16:45:44,qt:navigate,msg:query info : null
+req_id:1495442744995117,date:2017-05-22 16:45:44,qt:login,msg:query info : null
+req_id:1495442744995117,date:2017-05-22 16:45:45,qt:evaluation,msg:redis connect success
+req_id:1495442744995117,date:2017-05-22 16:45:45,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1495442744995117,date:2017-05-22 16:45:45,qt:evaluation,msg:SELECT `id`, `name` FROM `eval_department` WHERE parent_id = '5' 
+req_id:1495442744995117,date:2017-05-22 16:45:45,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1495442744995117,date:2017-05-22 16:45:45,qt:evaluation,msg:SELECT `score`, `gender`, `test_times`, `edu_depart_id`, `school_id`, `grade`, `class`, `sno` FROM `eval_evaluation` WHERE edu_depart_id = 6  AND test_times = '1' 
+req_id:1495442744995117,date:2017-05-22 16:45:45,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1495442744995117,date:2017-05-22 16:45:45,qt:evaluation,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1495442744995117,date:2017-05-22 16:45:45,qt:evaluation,msg:query info : null
+req_id:1495442745416992,date:2017-05-22 16:45:45,qt:login,msg:query info : null
+req_id:1495442750526367,date:2017-05-22 16:45:50,qt:login,msg:query info : null
+req_id:1495442750541992,date:2017-05-22 16:45:50,qt:evaluation,msg:redis connect success
+req_id:1495442750541992,date:2017-05-22 16:45:50,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1495442750541992,date:2017-05-22 16:45:50,qt:evaluation,msg:SELECT `id`, `name` FROM `eval_department` WHERE parent_id = '5' 
+req_id:1495442750541992,date:2017-05-22 16:45:50,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1495442750541992,date:2017-05-22 16:45:50,qt:evaluation,msg:SELECT `score`, `gender`, `test_times`, `edu_depart_id`, `school_id`, `grade`, `class`, `sno` FROM `eval_evaluation` WHERE edu_depart_id = 6  AND test_times = '1' 
+req_id:1495442750541992,date:2017-05-22 16:45:50,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1495442750541992,date:2017-05-22 16:45:50,qt:evaluation,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1495442750541992,date:2017-05-22 16:45:50,qt:evaluation,msg:query info : null
+req_id:1495442753682617,date:2017-05-22 16:45:53,qt:login,msg:query info : null
+req_id:1495442753698242,date:2017-05-22 16:45:53,qt:login,msg:query info : null
+req_id:1495442753776367,date:2017-05-22 16:45:53,qt:login,msg:query info : null
+req_id:1495442763198242,date:2017-05-22 16:46:03,qt:login,msg:query info : null
+req_id:1495442773416992,date:2017-05-22 16:46:13,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1495442773416992,date:2017-05-22 16:46:13,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `edu_depart_id` FROM `eval_school` WHERE account = 'szyz' 
+req_id:1495442773416992,date:2017-05-22 16:46:13,qt:login,msg:query info : null
+req_id:1495442773495117,date:2017-05-22 16:46:13,qt:login,msg:query info : null
+req_id:1495442773495117,date:2017-05-22 16:46:13,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1495442773495117,date:2017-05-22 16:46:13,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1495442773495117,date:2017-05-22 16:46:13,qt:list,msg:query info : null
+req_id:1495442773526367,date:2017-05-22 16:46:13,qt:navigate,msg:redis connect success
+req_id:1495442773526367,date:2017-05-22 16:46:13,qt:navigate,msg:query info : null
+req_id:1495442773557617,date:2017-05-22 16:46:13,qt:evaluation,msg:redis connect success
+req_id:1495442773557617,date:2017-05-22 16:46:13,qt:evaluation,msg:query info : null
+req_id:1495442773760742,date:2017-05-22 16:46:13,qt:login,msg:query info : null
+req_id:1495442778166992,date:2017-05-22 16:46:18,qt:evaluation,msg:redis connect success
+req_id:1495442778166992,date:2017-05-22 16:46:18,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1495442778166992,date:2017-05-22 16:46:18,qt:evaluation,msg:SELECT `score`, `gender`, `test_times`, `edu_depart_id`, `school_id`, `grade`, `class`, `sno` FROM `eval_evaluation` WHERE edu_depart_id = '6'  AND school_id = '12'  AND test_times = '1' 
+req_id:1495442778166992,date:2017-05-22 16:46:18,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1495442778166992,date:2017-05-22 16:46:18,qt:evaluation,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1495442778166992,date:2017-05-22 16:46:18,qt:evaluation,msg:query info : null
+req_id:1495442782666992,date:2017-05-22 16:46:22,qt:evaluation,msg:redis connect success
+req_id:1495442782666992,date:2017-05-22 16:46:22,qt:evaluation,msg:query info : null
+req_id:1495442785666992,date:2017-05-22 16:46:25,qt:evaluation,msg:redis connect success
+req_id:1495442785666992,date:2017-05-22 16:46:25,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1495442785666992,date:2017-05-22 16:46:25,qt:evaluation,msg:SELECT `score`, `gender`, `test_times`, `edu_depart_id`, `school_id`, `grade`, `class`, `sno` FROM `eval_evaluation` WHERE edu_depart_id = '6'  AND school_id = '12'  AND test_times = '1' 
+req_id:1495442785666992,date:2017-05-22 16:46:25,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1495442785666992,date:2017-05-22 16:46:25,qt:evaluation,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1495442785666992,date:2017-05-22 16:46:25,qt:evaluation,msg:query info : null
+req_id:1495442962401367,date:2017-05-22 16:49:22,qt:login,msg:query info : null
+req_id:1495442976463867,date:2017-05-22 16:49:36,qt:login,msg:query info : null
+req_id:1495442978963867,date:2017-05-22 16:49:38,qt:login,msg:query info : null
+req_id:1495442980479492,date:2017-05-22 16:49:40,qt:login,msg:query info : null
+req_id:1495442988682617,date:2017-05-22 16:49:48,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1495442988682617,date:2017-05-22 16:49:48,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'suzhou' 
+req_id:1495442988682617,date:2017-05-22 16:49:48,qt:login,msg:query info : null
+req_id:1495442988776367,date:2017-05-22 16:49:48,qt:login,msg:query info : null
+req_id:1495442988791992,date:2017-05-22 16:49:48,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1495442988791992,date:2017-05-22 16:49:48,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1495442988791992,date:2017-05-22 16:49:48,qt:list,msg:query info : null
+req_id:1495442988854492,date:2017-05-22 16:49:48,qt:navigate,msg:redis connect success
+req_id:1495442988854492,date:2017-05-22 16:49:48,qt:navigate,msg:query info : null
+req_id:1495442988901367,date:2017-05-22 16:49:48,qt:login,msg:query info : null
+req_id:1495442988932617,date:2017-05-22 16:49:48,qt:evaluation,msg:redis connect success
+req_id:1495442988932617,date:2017-05-22 16:49:48,qt:evaluation,msg:query info : null
+req_id:1495442989510742,date:2017-05-22 16:49:49,qt:login,msg:query info : null
+req_id:1495442994666992,date:2017-05-22 16:49:54,qt:login,msg:query info : null
+req_id:1495442994682617,date:2017-05-22 16:49:54,qt:evaluation,msg:redis connect success
+req_id:1495442994682617,date:2017-05-22 16:49:54,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1495442994682617,date:2017-05-22 16:49:54,qt:evaluation,msg:SELECT `id`, `name` FROM `eval_department` WHERE parent_id = '5' 
+req_id:1495442994682617,date:2017-05-22 16:49:54,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1495442994682617,date:2017-05-22 16:49:54,qt:evaluation,msg:SELECT `score`, `gender`, `test_times`, `edu_depart_id`, `school_id`, `grade`, `class`, `sno` FROM `eval_evaluation` WHERE edu_depart_id = 6  AND test_times = '1' 
+req_id:1495442994682617,date:2017-05-22 16:49:54,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1495442994682617,date:2017-05-22 16:49:54,qt:evaluation,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1495442994682617,date:2017-05-22 16:49:54,qt:evaluation,msg:query info : null
+req_id:149544299873242,date:2017-05-22 16:49:58,qt:login,msg:query info : null
+req_id:1495442998120117,date:2017-05-22 16:49:58,qt:login,msg:query info : null
+req_id:1495442998229492,date:2017-05-22 16:49:58,qt:login,msg:query info : null
+req_id:1495443013495117,date:2017-05-22 16:50:13,qt:login,msg:query info : null
+req_id:1495443165666992,date:2017-05-22 16:52:45,qt:login,msg:query info : null
+req_id:1495443169323242,date:2017-05-22 16:52:49,qt:login,msg:query info : null
+req_id:1495443179448242,date:2017-05-22 16:52:59,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1495443179448242,date:2017-05-22 16:52:59,qt:login,msg:SELECT `account`, `passwd`, `name` FROM `eval_student` WHERE account = '01010101' 
+req_id:1495443179448242,date:2017-05-22 16:52:59,qt:login,msg:query info : null
+req_id:1495443179729492,date:2017-05-22 16:52:59,qt:login,msg:query info : null
+req_id:1495443189166992,date:2017-05-22 16:53:09,qt:questionnaire,msg:redis connect success
+req_id:1495443189166992,date:2017-05-22 16:53:09,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1495443189166992,date:2017-05-22 16:53:09,qt:questionnaire,msg:SELECT `id`, `title` FROM `que_title` WHERE id = '1' 
+req_id:1495443189166992,date:2017-05-22 16:53:09,qt:questionnaire,msg:SELECT `questionnaire_id`, `question_id` FROM `que_title_question` WHERE questionnaire_id = '1' 
+req_id:1495443189166992,date:2017-05-22 16:53:09,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1495443189166992,date:2017-05-22 16:53:09,qt:questionnaire,msg:SELECT `id`, `content`, `type` FROM `que_question` WHERE id in (3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,75) 
+req_id:1495443189166992,date:2017-05-22 16:53:09,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1495443189166992,date:2017-05-22 16:53:09,qt:questionnaire,msg:SELECT `id`, `content`, `question_id`, `order` FROM `que_option` WHERE question_id in (3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,75) 
+req_id:1495443189166992,date:2017-05-22 16:53:09,qt:questionnaire,msg:query info : null
+req_id:1495443189198242,date:2017-05-22 16:53:09,qt:login,msg:query info : null
+req_id:1495443193588867,date:2017-05-22 16:53:13,qt:login,msg:query info : null
+req_id:1495443195401367,date:2017-05-22 16:53:15,qt:questionnaire,msg:redis connect success
+req_id:1495443195401367,date:2017-05-22 16:53:15,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1495443195401367,date:2017-05-22 16:53:15,qt:questionnaire,msg:SELECT `id`, `title` FROM `que_title` WHERE id = '2' 
+req_id:1495443195401367,date:2017-05-22 16:53:15,qt:questionnaire,msg:SELECT `questionnaire_id`, `question_id` FROM `que_title_question` WHERE questionnaire_id = '2' 
+req_id:1495443195401367,date:2017-05-22 16:53:15,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1495443195401367,date:2017-05-22 16:53:15,qt:questionnaire,msg:SELECT `id`, `content`, `type` FROM `que_question` WHERE id in (65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149) 
+req_id:1495443195401367,date:2017-05-22 16:53:15,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1495443195401367,date:2017-05-22 16:53:15,qt:questionnaire,msg:SELECT `id`, `content`, `question_id`, `order` FROM `que_option` WHERE question_id in (65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149) 
+req_id:1495443195401367,date:2017-05-22 16:53:15,qt:questionnaire,msg:query info : null
+req_id:1495443195432617,date:2017-05-22 16:53:15,qt:login,msg:query info : null
+req_id:1495443196745117,date:2017-05-22 16:53:16,qt:login,msg:query info : null
+req_id:1495443227651367,date:2017-05-22 16:53:47,qt:login,msg:query info : null
+req_id:1495443227666992,date:2017-05-22 16:53:47,qt:login,msg:query info : null
+req_id:1495443227791992,date:2017-05-22 16:53:47,qt:login,msg:query info : null
+req_id:1495443241151367,date:2017-05-22 16:54:01,qt:login,msg:query info : null
+req_id:1495443250573242,date:2017-05-22 16:54:10,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1495443250573242,date:2017-05-22 16:54:10,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'suzhou' 
+req_id:1495443250573242,date:2017-05-22 16:54:10,qt:login,msg:query info : null
+req_id:1495443250760742,date:2017-05-22 16:54:10,qt:login,msg:query info : null
+req_id:1495443250776367,date:2017-05-22 16:54:10,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1495443250776367,date:2017-05-22 16:54:10,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1495443250776367,date:2017-05-22 16:54:10,qt:list,msg:query info : null
+req_id:1495443250823242,date:2017-05-22 16:54:10,qt:navigate,msg:redis connect success
+req_id:1495443250823242,date:2017-05-22 16:54:10,qt:navigate,msg:query info : null
+req_id:1495443250854492,date:2017-05-22 16:54:10,qt:login,msg:query info : null
+req_id:1495443250870117,date:2017-05-22 16:54:10,qt:evaluation,msg:redis connect success
+req_id:1495443250870117,date:2017-05-22 16:54:10,qt:evaluation,msg:query info : null
+req_id:1495443251370117,date:2017-05-22 16:54:11,qt:login,msg:query info : null
+req_id:1495443274995117,date:2017-05-22 16:54:35,qt:login,msg:query info : null
+req_id:149544327510742,date:2017-05-22 16:54:35,qt:evaluation,msg:redis connect success
+req_id:149544327510742,date:2017-05-22 16:54:35,qt:evaluation,msg:query info : null
+req_id:149544327888867,date:2017-05-22 16:54:38,qt:login,msg:query info : null
+req_id:1495443278104492,date:2017-05-22 16:54:38,qt:login,msg:query info : null
+req_id:1495443278245117,date:2017-05-22 16:54:38,qt:login,msg:query info : null
+req_id:1495443325260742,date:2017-05-22 16:55:25,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1495443325260742,date:2017-05-22 16:55:25,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'wuzhong' 
+req_id:1495443325260742,date:2017-05-22 16:55:25,qt:login,msg:query info : null
+req_id:1495443325416992,date:2017-05-22 16:55:25,qt:login,msg:query info : null
+req_id:1495443325432617,date:2017-05-22 16:55:25,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1495443325432617,date:2017-05-22 16:55:25,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1495443325432617,date:2017-05-22 16:55:25,qt:list,msg:query info : null
+req_id:1495443325463867,date:2017-05-22 16:55:25,qt:navigate,msg:redis connect success
+req_id:1495443325463867,date:2017-05-22 16:55:25,qt:navigate,msg:db_conf_key db1 Connect success !
+req_id:1495443325463867,date:2017-05-22 16:55:25,qt:navigate,msg:SELECT `id`, `name` FROM `eval_department` WHERE parent_id = '6' 
+req_id:1495443325463867,date:2017-05-22 16:55:25,qt:navigate,msg:db_conf_key db1 Connect success !
+req_id:1495443325463867,date:2017-05-22 16:55:25,qt:navigate,msg:SELECT `id`, `name` FROM `eval_school`
+req_id:1495443325463867,date:2017-05-22 16:55:25,qt:navigate,msg:db_conf_key db1 Connect success !
+req_id:1495443325463867,date:2017-05-22 16:55:25,qt:navigate,msg:SELECT distinct `edu_depart_id`, `school_id`, `grade`, `class` FROM `eval_evaluation` WHERE edu_depart_id = '6' 
+req_id:1495443325463867,date:2017-05-22 16:55:25,qt:navigate,msg:query info : null
+req_id:1495443325557617,date:2017-05-22 16:55:25,qt:evaluation,msg:redis connect success
+req_id:1495443325557617,date:2017-05-22 16:55:25,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1495443325557617,date:2017-05-22 16:55:25,qt:evaluation,msg:SELECT `score`, `gender`, `test_times`, `edu_depart_id`, `school_id`, `grade`, `class`, `sno` FROM `eval_evaluation` WHERE edu_depart_id = '6'  AND test_times = '1' 
+req_id:1495443325557617,date:2017-05-22 16:55:25,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1495443325557617,date:2017-05-22 16:55:25,qt:evaluation,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1495443325557617,date:2017-05-22 16:55:25,qt:evaluation,msg:query info : null
+req_id:149544332626367,date:2017-05-22 16:55:26,qt:login,msg:query info : null
+req_id:1495443334604492,date:2017-05-22 16:55:34,qt:evaluation,msg:redis connect success
+req_id:1495443334604492,date:2017-05-22 16:55:34,qt:evaluation,msg:query info : null

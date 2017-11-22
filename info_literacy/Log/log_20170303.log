@@ -1,0 +1,170 @@
+req_id:1488532239190562,date:2017-03-03 17:10:39,qt:default,msg:redis connect success
+req_id:1488532239190562,date:2017-03-03 17:10:39,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488532239190562,date:2017-03-03 17:10:39,qt:default,msg:SELECT `name`, `num` FROM `stu_info`
+req_id:1488532242636851,date:2017-03-03 17:10:42,qt:default,msg:redis connect success
+req_id:1488532242636851,date:2017-03-03 17:10:42,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488532242636851,date:2017-03-03 17:10:42,qt:default,msg:SELECT `name`, `num` FROM `stu_info`
+req_id:1488532362246226,date:2017-03-03 17:12:42,qt:default,msg:redis connect success
+req_id:1488532362246226,date:2017-03-03 17:12:42,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488532362246226,date:2017-03-03 17:12:42,qt:default,msg:SELECT `name`, `num` FROM `stu_info`
+req_id:1488532364453257,date:2017-03-03 17:12:44,qt:default,msg:redis connect success
+req_id:1488532364453257,date:2017-03-03 17:12:44,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488532364453257,date:2017-03-03 17:12:44,qt:default,msg:SELECT `name`, `num` FROM `stu_info`
+req_id:1488532519742320,date:2017-03-03 17:15:19,qt:default,msg:query info : null
+req_id:1488532603622203,date:2017-03-03 17:16:43,qt:default,msg:query info : null
+req_id:1488532608653453,date:2017-03-03 17:16:48,qt:default,msg:query info : null
+req_id:1488532671512828,date:2017-03-03 17:17:51,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1488532671512828,date:2017-03-03 17:17:51,qt:list,msg:SELECT `id`, `title` FROM `que_title` limit 0, 2
+req_id:1488532671512828,date:2017-03-03 17:17:51,qt:list,msg:query info : null
+req_id:1488532674778453,date:2017-03-03 17:17:54,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1488532674778453,date:2017-03-03 17:17:54,qt:list,msg:SELECT `id`, `title` FROM `que_title` limit 0, 2
+req_id:1488532674778453,date:2017-03-03 17:17:54,qt:list,msg:query info : null
+req_id:1488532676372203,date:2017-03-03 17:17:56,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1488532676372203,date:2017-03-03 17:17:56,qt:list,msg:SELECT `id`, `title` FROM `que_title` limit 0, 2
+req_id:1488532676372203,date:2017-03-03 17:17:56,qt:list,msg:query info : null
+req_id:148853267812828,date:2017-03-03 17:17:58,qt:list,msg:db_conf_key db1 Connect success !
+req_id:148853267812828,date:2017-03-03 17:17:58,qt:list,msg:SELECT `id`, `title` FROM `que_title` limit 0, 2
+req_id:148853267812828,date:2017-03-03 17:17:58,qt:list,msg:query info : null
+req_id:1488532679434703,date:2017-03-03 17:17:59,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1488532679434703,date:2017-03-03 17:17:59,qt:list,msg:SELECT `id`, `title` FROM `que_title` limit 0, 2
+req_id:1488532679434703,date:2017-03-03 17:17:59,qt:list,msg:query info : null
+req_id:1488532686497203,date:2017-03-03 17:18:06,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1488532686497203,date:2017-03-03 17:18:06,qt:list,msg:SELECT `id`, `content`, `type` FROM `que_question` limit 0, 2
+req_id:1488532686497203,date:2017-03-03 17:18:06,qt:list,msg:query info : null
+req_id:1488532688872203,date:2017-03-03 17:18:08,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1488532688872203,date:2017-03-03 17:18:08,qt:list,msg:SELECT `id`, `content`, `type` FROM `que_question` limit 0, 2
+req_id:1488532688872203,date:2017-03-03 17:18:08,qt:list,msg:query info : null
+req_id:1488532714731578,date:2017-03-03 17:18:34,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532714731578,date:2017-03-03 17:18:34,qt:questionnaire,msg:SELECT `id`, `title` FROM `que_title` WHERE id = '1' 
+req_id:1488532714731578,date:2017-03-03 17:18:34,qt:questionnaire,msg:SELECT `questionnaire_id`, `question_id` FROM `que_title_question` WHERE questionnaire_id = '1' 
+req_id:1488532714731578,date:2017-03-03 17:18:34,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532714731578,date:2017-03-03 17:18:34,qt:questionnaire,msg:SELECT `id`, `content`, `type` FROM `que_question` WHERE id in (1,2) 
+req_id:1488532714731578,date:2017-03-03 17:18:34,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532714731578,date:2017-03-03 17:18:34,qt:questionnaire,msg:SELECT `id`, `content`, `question_id`, `order` FROM `que_option` WHERE question_id in (1,2) 
+req_id:1488532714731578,date:2017-03-03 17:18:34,qt:questionnaire,msg:query info : null
+req_id:148853281436265,date:2017-03-03 17:20:14,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:148853281436265,date:2017-03-03 17:20:14,qt:questionnaire,msg:SELECT `id`, `title` FROM `que_title` WHERE id = '1' 
+req_id:148853281436265,date:2017-03-03 17:20:14,qt:questionnaire,msg:SELECT `questionnaire_id`, `question_id` FROM `que_title_question` WHERE questionnaire_id = '1' 
+req_id:148853281436265,date:2017-03-03 17:20:14,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:148853281436265,date:2017-03-03 17:20:14,qt:questionnaire,msg:SELECT `id`, `content`, `type` FROM `que_question` WHERE id in (1,2) 
+req_id:148853281436265,date:2017-03-03 17:20:14,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:148853281436265,date:2017-03-03 17:20:14,qt:questionnaire,msg:SELECT `id`, `content`, `question_id`, `order` FROM `que_option` WHERE question_id in (1,2) 
+req_id:148853281436265,date:2017-03-03 17:20:14,qt:questionnaire,msg:query info : null
+req_id:1488532913239390,date:2017-03-03 17:21:53,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532913239390,date:2017-03-03 17:21:53,qt:questionnaire,msg:SELECT `id`, `title` FROM `que_title` WHERE id = '1' 
+req_id:1488532913239390,date:2017-03-03 17:21:53,qt:questionnaire,msg:SELECT `questionnaire_id`, `question_id` FROM `que_title_question` WHERE questionnaire_id = '1' 
+req_id:1488532913239390,date:2017-03-03 17:21:53,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532913239390,date:2017-03-03 17:21:53,qt:questionnaire,msg:SELECT `id`, `content`, `type` FROM `que_question` WHERE id in (1,2) 
+req_id:1488532913239390,date:2017-03-03 17:21:53,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532913239390,date:2017-03-03 17:21:53,qt:questionnaire,msg:SELECT `id`, `content`, `question_id`, `order` FROM `que_option` WHERE question_id in (1,2) 
+req_id:1488532913239390,date:2017-03-03 17:21:53,qt:questionnaire,msg:query info : null
+req_id:148853291683140,date:2017-03-03 17:21:56,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:148853291683140,date:2017-03-03 17:21:56,qt:questionnaire,msg:SELECT `id`, `title` FROM `que_title` WHERE id = '1' 
+req_id:148853291683140,date:2017-03-03 17:21:56,qt:questionnaire,msg:SELECT `questionnaire_id`, `question_id` FROM `que_title_question` WHERE questionnaire_id = '1' 
+req_id:148853291683140,date:2017-03-03 17:21:56,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:148853291683140,date:2017-03-03 17:21:56,qt:questionnaire,msg:SELECT `id`, `content`, `type` FROM `que_question` WHERE id in (1,2) 
+req_id:148853291683140,date:2017-03-03 17:21:56,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:148853291683140,date:2017-03-03 17:21:56,qt:questionnaire,msg:SELECT `id`, `content`, `question_id`, `order` FROM `que_option` WHERE question_id in (1,2) 
+req_id:148853291683140,date:2017-03-03 17:21:56,qt:questionnaire,msg:query info : null
+req_id:148853291783140,date:2017-03-03 17:21:57,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:148853291783140,date:2017-03-03 17:21:57,qt:questionnaire,msg:SELECT `id`, `title` FROM `que_title` WHERE id = '1' 
+req_id:148853291783140,date:2017-03-03 17:21:57,qt:questionnaire,msg:SELECT `questionnaire_id`, `question_id` FROM `que_title_question` WHERE questionnaire_id = '1' 
+req_id:148853291783140,date:2017-03-03 17:21:57,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:148853291783140,date:2017-03-03 17:21:57,qt:questionnaire,msg:SELECT `id`, `content`, `type` FROM `que_question` WHERE id in (1,2) 
+req_id:148853291783140,date:2017-03-03 17:21:57,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:148853291783140,date:2017-03-03 17:21:57,qt:questionnaire,msg:SELECT `id`, `content`, `question_id`, `order` FROM `que_option` WHERE question_id in (1,2) 
+req_id:148853291783140,date:2017-03-03 17:21:57,qt:questionnaire,msg:query info : null
+req_id:1488532918130015,date:2017-03-03 17:21:58,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532918130015,date:2017-03-03 17:21:58,qt:questionnaire,msg:SELECT `id`, `title` FROM `que_title` WHERE id = '1' 
+req_id:1488532918130015,date:2017-03-03 17:21:58,qt:questionnaire,msg:SELECT `questionnaire_id`, `question_id` FROM `que_title_question` WHERE questionnaire_id = '1' 
+req_id:1488532918130015,date:2017-03-03 17:21:58,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532918130015,date:2017-03-03 17:21:58,qt:questionnaire,msg:SELECT `id`, `content`, `type` FROM `que_question` WHERE id in (1,2) 
+req_id:1488532918130015,date:2017-03-03 17:21:58,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532918130015,date:2017-03-03 17:21:58,qt:questionnaire,msg:SELECT `id`, `content`, `question_id`, `order` FROM `que_option` WHERE question_id in (1,2) 
+req_id:1488532918130015,date:2017-03-03 17:21:58,qt:questionnaire,msg:query info : null
+req_id:1488532919130015,date:2017-03-03 17:21:59,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532919130015,date:2017-03-03 17:21:59,qt:questionnaire,msg:SELECT `id`, `title` FROM `que_title` WHERE id = '1' 
+req_id:1488532919130015,date:2017-03-03 17:21:59,qt:questionnaire,msg:SELECT `questionnaire_id`, `question_id` FROM `que_title_question` WHERE questionnaire_id = '1' 
+req_id:1488532919130015,date:2017-03-03 17:21:59,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532919130015,date:2017-03-03 17:21:59,qt:questionnaire,msg:SELECT `id`, `content`, `type` FROM `que_question` WHERE id in (1,2) 
+req_id:1488532919130015,date:2017-03-03 17:21:59,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532919130015,date:2017-03-03 17:21:59,qt:questionnaire,msg:SELECT `id`, `content`, `question_id`, `order` FROM `que_option` WHERE question_id in (1,2) 
+req_id:1488532919130015,date:2017-03-03 17:21:59,qt:questionnaire,msg:query info : null
+req_id:1488532919973765,date:2017-03-03 17:21:59,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532919973765,date:2017-03-03 17:21:59,qt:questionnaire,msg:SELECT `id`, `title` FROM `que_title` WHERE id = '1' 
+req_id:1488532919973765,date:2017-03-03 17:21:59,qt:questionnaire,msg:SELECT `questionnaire_id`, `question_id` FROM `que_title_question` WHERE questionnaire_id = '1' 
+req_id:1488532919973765,date:2017-03-03 17:22:00,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532919973765,date:2017-03-03 17:22:00,qt:questionnaire,msg:SELECT `id`, `content`, `type` FROM `que_question` WHERE id in (1,2) 
+req_id:1488532919973765,date:2017-03-03 17:22:00,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532919973765,date:2017-03-03 17:22:00,qt:questionnaire,msg:SELECT `id`, `content`, `question_id`, `order` FROM `que_option` WHERE question_id in (1,2) 
+req_id:1488532919973765,date:2017-03-03 17:22:00,qt:questionnaire,msg:query info : null
+req_id:1488532920895640,date:2017-03-03 17:22:00,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532920895640,date:2017-03-03 17:22:00,qt:questionnaire,msg:SELECT `id`, `title` FROM `que_title` WHERE id = '1' 
+req_id:1488532920895640,date:2017-03-03 17:22:00,qt:questionnaire,msg:SELECT `questionnaire_id`, `question_id` FROM `que_title_question` WHERE questionnaire_id = '1' 
+req_id:1488532920895640,date:2017-03-03 17:22:00,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532920895640,date:2017-03-03 17:22:00,qt:questionnaire,msg:SELECT `id`, `content`, `type` FROM `que_question` WHERE id in (1,2) 
+req_id:1488532920895640,date:2017-03-03 17:22:00,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532920895640,date:2017-03-03 17:22:00,qt:questionnaire,msg:SELECT `id`, `content`, `question_id`, `order` FROM `que_option` WHERE question_id in (1,2) 
+req_id:1488532920895640,date:2017-03-03 17:22:00,qt:questionnaire,msg:query info : null
+req_id:1488532921755015,date:2017-03-03 17:22:01,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532921755015,date:2017-03-03 17:22:01,qt:questionnaire,msg:SELECT `id`, `title` FROM `que_title` WHERE id = '1' 
+req_id:1488532921755015,date:2017-03-03 17:22:01,qt:questionnaire,msg:SELECT `questionnaire_id`, `question_id` FROM `que_title_question` WHERE questionnaire_id = '1' 
+req_id:1488532921755015,date:2017-03-03 17:22:01,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532921755015,date:2017-03-03 17:22:01,qt:questionnaire,msg:SELECT `id`, `content`, `type` FROM `que_question` WHERE id in (1,2) 
+req_id:1488532921755015,date:2017-03-03 17:22:01,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532921755015,date:2017-03-03 17:22:01,qt:questionnaire,msg:SELECT `id`, `content`, `question_id`, `order` FROM `que_option` WHERE question_id in (1,2) 
+req_id:1488532921755015,date:2017-03-03 17:22:01,qt:questionnaire,msg:query info : null
+req_id:1488532970770640,date:2017-03-03 17:22:50,qt:default,msg:query info : null
+req_id:1488532975348765,date:2017-03-03 17:22:55,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532975348765,date:2017-03-03 17:22:55,qt:questionnaire,msg:SELECT `id`, `title` FROM `que_title` WHERE id = '1' 
+req_id:1488532975348765,date:2017-03-03 17:22:55,qt:questionnaire,msg:SELECT `questionnaire_id`, `question_id` FROM `que_title_question` WHERE questionnaire_id = '1' 
+req_id:1488532975348765,date:2017-03-03 17:22:55,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532975348765,date:2017-03-03 17:22:55,qt:questionnaire,msg:SELECT `id`, `content`, `type` FROM `que_question` WHERE id in (1,2) 
+req_id:1488532975348765,date:2017-03-03 17:22:55,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532975348765,date:2017-03-03 17:22:55,qt:questionnaire,msg:SELECT `id`, `content`, `question_id`, `order` FROM `que_option` WHERE question_id in (1,2) 
+req_id:1488532975348765,date:2017-03-03 17:22:55,qt:questionnaire,msg:query info : null
+req_id:1488532977333140,date:2017-03-03 17:22:57,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532977333140,date:2017-03-03 17:22:57,qt:questionnaire,msg:SELECT `id`, `title` FROM `que_title` WHERE id = '1' 
+req_id:1488532977333140,date:2017-03-03 17:22:57,qt:questionnaire,msg:SELECT `questionnaire_id`, `question_id` FROM `que_title_question` WHERE questionnaire_id = '1' 
+req_id:1488532977333140,date:2017-03-03 17:22:57,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532977333140,date:2017-03-03 17:22:57,qt:questionnaire,msg:SELECT `id`, `content`, `type` FROM `que_question` WHERE id in (1,2) 
+req_id:1488532977333140,date:2017-03-03 17:22:57,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532977333140,date:2017-03-03 17:22:57,qt:questionnaire,msg:SELECT `id`, `content`, `question_id`, `order` FROM `que_option` WHERE question_id in (1,2) 
+req_id:1488532977333140,date:2017-03-03 17:22:57,qt:questionnaire,msg:query info : null
+req_id:1488532982411265,date:2017-03-03 17:23:02,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532982411265,date:2017-03-03 17:23:02,qt:questionnaire,msg:SELECT `id`, `title` FROM `que_title` WHERE id = '1' 
+req_id:1488532982411265,date:2017-03-03 17:23:02,qt:questionnaire,msg:SELECT `questionnaire_id`, `question_id` FROM `que_title_question` WHERE questionnaire_id = '1' 
+req_id:1488532982411265,date:2017-03-03 17:23:02,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532982411265,date:2017-03-03 17:23:02,qt:questionnaire,msg:SELECT `id`, `content`, `type` FROM `que_question` WHERE id in (1,2) 
+req_id:1488532982411265,date:2017-03-03 17:23:02,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488532982411265,date:2017-03-03 17:23:02,qt:questionnaire,msg:SELECT `id`, `content`, `question_id`, `order` FROM `que_option` WHERE question_id in (1,2) 
+req_id:1488532982411265,date:2017-03-03 17:23:02,qt:questionnaire,msg:query info : null
+req_id:1488533058676890,date:2017-03-03 17:24:18,qt:default,msg:query info : null
+req_id:1488533059255015,date:2017-03-03 17:24:19,qt:default,msg:query info : null
+req_id:1488533059708140,date:2017-03-03 17:24:19,qt:default,msg:query info : null
+req_id:1488533059926890,date:2017-03-03 17:24:19,qt:default,msg:query info : null
+req_id:1488533060161265,date:2017-03-03 17:24:20,qt:default,msg:query info : null
+req_id:1488533060411265,date:2017-03-03 17:24:20,qt:default,msg:query info : null
+req_id:1488533060645640,date:2017-03-03 17:24:20,qt:default,msg:query info : null
+req_id:1488533060880015,date:2017-03-03 17:24:20,qt:default,msg:query info : null
+req_id:148853306198765,date:2017-03-03 17:24:21,qt:default,msg:query info : null
+req_id:1488533061317515,date:2017-03-03 17:24:21,qt:default,msg:query info : null
+req_id:1488533061536265,date:2017-03-03 17:24:21,qt:default,msg:query info : null
+req_id:1488533082942515,date:2017-03-03 17:24:42,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488533082942515,date:2017-03-03 17:24:42,qt:questionnaire,msg:SELECT `id`, `title` FROM `que_title` WHERE id = '1' 
+req_id:1488533082942515,date:2017-03-03 17:24:42,qt:questionnaire,msg:SELECT `questionnaire_id`, `question_id` FROM `que_title_question` WHERE questionnaire_id = '1' 
+req_id:1488533082942515,date:2017-03-03 17:24:42,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488533082942515,date:2017-03-03 17:24:42,qt:questionnaire,msg:SELECT `id`, `content`, `type` FROM `que_question` WHERE id in (1,2) 
+req_id:1488533082942515,date:2017-03-03 17:24:43,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488533082942515,date:2017-03-03 17:24:43,qt:questionnaire,msg:SELECT `id`, `content`, `question_id`, `order` FROM `que_option` WHERE question_id in (1,2) 
+req_id:1488533082942515,date:2017-03-03 17:24:43,qt:questionnaire,msg:query info : null
+req_id:1488540114473765,date:2017-03-03 19:21:54,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488540114473765,date:2017-03-03 19:21:54,qt:questionnaire,msg:SELECT `id`, `title` FROM `que_title` WHERE id = '1' 
+req_id:1488540114473765,date:2017-03-03 19:21:54,qt:questionnaire,msg:SELECT `questionnaire_id`, `question_id` FROM `que_title_question` WHERE questionnaire_id = '1' 
+req_id:1488540114473765,date:2017-03-03 19:21:54,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488540114473765,date:2017-03-03 19:21:54,qt:questionnaire,msg:SELECT `id`, `content`, `type` FROM `que_question` WHERE id in (1,2) 
+req_id:1488540114473765,date:2017-03-03 19:21:54,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488540114473765,date:2017-03-03 19:21:54,qt:questionnaire,msg:SELECT `id`, `content`, `question_id`, `order` FROM `que_option` WHERE question_id in (1,2) 
+req_id:1488540114473765,date:2017-03-03 19:21:54,qt:questionnaire,msg:query info : null
+req_id:1488543297255015,date:2017-03-03 20:14:57,qt:default,msg:query info : null
+req_id:1488543300395640,date:2017-03-03 20:15:00,qt:default,msg:query info : null

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="css/qu_base.css" />
+		<link rel="stylesheet" href="css/add_question.css" />
+		<script type="text/javascript" src="js/base.js" ></script>
+		<script type="text/javascript" src="js/jquery1.8.2.min.js" ></script>
+		<script type="text/javascript" src="js/trimpath.js" ></script>
+		<title>添加问题</title>
+	</head>
+	<body>
+		<div class="header">
+			<h1>高中生信息素养测评系统</h1>
+			<span class="nav"><a href="question_list.html" target="_self">问题列表</a></span>
+			<span class="nav nav_active"><a href="add_question.html" target="_self">添加问题</a></span>
+			<span id="go_cancel" onclick="goCancle()">退出</span>
+			<span id="type">欢迎您</span>
+		</div>
+		<div id="container">
+			<div class="tab_content2">
+				<div class="btn add_option">添加选项</div>
+				<div class="btn submit_que">提交问题</div>
+				<table id="tab">
+					<tr>
+						<td>类别：</td>
+						<td>
+							<select class="type">
+								<option value="1">单选</option>
+								<option value="2">多选</option>
+							</select>
+						</td>
+					</tr>
+					<tr>
+						<td>题目：</td>
+						<td><input class="title"></td>
+					</tr>
+					<tr>
+						<td>选项：</td>
+						<td class="content_all"><input class="order"><input class="content"><span class="del_btn" onclick="delOption(this)">删除</span></td>
+					</tr>
+					<tr>
+						<td>选项：</td>
+						<td class="content_all"><input class="order"><input class="content"><span class="del_btn" onclick="delOption(this)">删除</span></td>
+					</tr>
+				</table>
+				
+			</div>
+		</div>
+		<div id="footer">
+			<div style="line-height: 30px;text-align: center;color: #fff;padding-top: 20px;font-size:14px">
+			教育部教育信息化战略研究基地（华中） <br />
+			联系地址：湖北 武汉 珞喻路152号 华中师范大学科学会堂501 邮编：430079
+			</div>
+		</div>
+			<script type="text/javascript" src="js/add_question.js" ></script>
+	</body>
+</html>

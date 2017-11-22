@@ -1,0 +1,112 @@
+html, body, div, span, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, code,del, dfn, em, q, dl, dt, dd, ol, ul, li,fieldset, form, label, legend{margin: 0;padding: 0;border: 0;vertical-align:baseline;text-decoration:none;}
+table, caption, tbody, tfoot, thead, tr, th, td { margin: 0;padding: 0;border: 0;text-decoration:none;}
+body{font-size:12px;font-family:'Microsoft yahei';font-weight: normal;background-color:#C8E3EE;}
+ul,li{list-style-type:none; zoom: 1;}
+.clear{clear:both;}
+
+a{text-decoration:none;COLOR:black;}
+a:link{text-decoration:none;}
+a:hover{text-decoration:underline;}
+#main_body{
+	background: url(../images/background1.jpg) no-repeat 0 0 ;
+	width:1200px;
+	height: 574px; 
+	margin: 0 auto;
+}
+.right_box{
+	background: rgba(0, 0, 0, 0) url("../images/login.jpg") repeat scroll 0 0; 
+	width: 315px; 
+	height: 420px;
+	float:right;
+	margin-right: 30px;
+	margin-top: 110px;
+}
+
+#login_form{
+	margin: 95px auto 30px;
+	text-align: center;
+}
+
+.login_user,.login_pwd{
+	width: 265px;
+	height: 55px;
+	line-height: 55px;
+	font-size: 16px;
+	font-family: '寰蒋闆呴粦';
+	margin: 0 auto;
+	margin-bottom: 15px;
+}
+.login_user{
+	background: url("../images/username.jpg");
+}
+.login_pwd{
+	background: url("../images/password.jpg");
+	
+}
+
+.input_class{
+	border: none;
+	border: 0px;
+	height: 25px;
+	width: 180px;
+	margin-left: 15px;
+	font-size:16px;
+
+}
+/***********button******************/
+#button_form{
+	height: 125px;
+	width: 265px;
+	margin: 0 auto;
+}
+
+.login_btn ,.login_href{
+	background: #ffc300 none repeat padding-box;
+	background: #ffc300\9;
+	border-color: #ffcf33 #d7a400 ;
+    border-radius: 4px;
+    border-radius: 4px\9;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-style: solid;
+    border-style: solid\9;
+    border-width: 1px;
+    border-width: 1px\9;
+    box-shadow: 0 1px 10px 1px #d7a400 inset, 0 6px 0 #d7a400, 0 8px 4px 1px rgba(103, 79, 0, 0.55) ;
+    box-shadow: 0 1px 10px 1px #d7a400 inset, 0 6px 0 #d7a400, 0 8px 4px 1px rgba(103, 79, 0, 0.55)\9;
+    -webkit-box-shadow: 0 1px 10px 1px #d7a400 inset, 0 6px 0 #d7a400, 0 8px 4px 1px rgba(103, 79, 0, 0.55) ;
+    -moz-box-shadow: 0 1px 10px 1px #d7a400 inset, 0 6px 0 #d7a400, 0 8px 4px 1px rgba(103, 79, 0, 0.55) ;
+    color: #fff;
+    font: bold 20px/1 "helvetica neue",helvetica,arial,sans-serif;
+    margin-bottom: 20px;
+    padding: 10px 0 12px;
+    text-align: center;
+    text-shadow: 0 -1px 1px #e1ac00;
+    width: 265px;
+    
+}
+.login_btn:hover, .login_href:hover{
+	box-shadow: 0 0 20px 1px #ffcf33 inset, 0 6px 0 #d7a400 , 0 8px 4px 1px rgba(103, 79, 0, 0.55) ;
+	box-shadow: 0 0 20px 1px #ffcf33 inset, 0 6px 0 #d7a400 , 0 8px 4px 1px rgba(103, 79, 0, 0.55)\9;
+	-webkit-box-shadow: 0 0 20px 1px #ffcf33 inset, 0 6px 0 #d7a400 , 0 8px 4px 1px rgba(103, 79, 0, 0.55) ;
+	-moz-box-shadow: 0 0 20px 1px #ffcf33 inset, 0 6px 0 #d7a400 , 0 8px 4px 1px rgba(103, 79, 0, 0.55) ;
+	cursor: pointer;    	
+}
+.login_btn:active, .login_href:active{
+	box-shadow: 0 1px 10px 1px #e1ac00 inset, 0 1px 0 #d7a400, 0 2px 0 rgba(103, 79, 0, 0.75);
+    
+}
+
+.login_href a{
+	color: #FFFFFF;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+.login_key{
+	box-shadow: 0 1px 10px 1px #e1ac00 inset, 0 1px 0 #d7a400, 0 2px 0 rgba(103, 79, 0, 0.75);
+    
+}
+a:hover{
+	text-decoration: none;
+}

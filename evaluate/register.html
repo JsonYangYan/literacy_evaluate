@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="css/base.css" />
+		<link rel="stylesheet" href="css/register.css" />
+		<script type="text/javascript" src="js/base.js" ></script>
+		<script src="js/jquery1.8.2.min.js"></script>
+		<title>注册</title>
+	</head>
+	<body>
+		<div class="header">
+			高中生信息素养测评系统
+		</div>
+    <div id="main_admin">
+    	<div id="show">
+    		<img src="images/zhuce.jpg" id="zhuce"/>
+    		<div id="admin">
+    			<div class="lef" id="category">类别：
+    				<select id="category_name" class="select_option">
+    					<option value="0">请选类别</option>
+    					<option value="1">学生</option>
+    					<option value="2">学校</option>
+    				</select>
+    				<span id="category_name_new"></span>
+    			</div>
+    			
+	    		<div class="lef use_title">请输入用户名 *<label>必须填写</label><span id="usename_new"></span></div>
+	    		<div class="lef use_input padd"><input id="userName" type="text"/></div>
+	    		<div class="lef use_title ">请输入密码*<label>必须填写</label><span id="beflabel" class="befspan"></span></div>
+	    		<div class="lef padd pwd_input"><input type="password" id="password_one" /></div>
+
+	    		<div class="lef use_title">再次输入密码*<label>必须填写</label> <span id="one_pwd" class="befspan"></span> </div>
+	    		<div class="lef padd pwd_input"><input type="password" id="password_two"/></div>
+	    		
+	    		<div class="student_part" style="display: none;">
+	    			<div class="lef use_title">请输入姓名 *<label>必须填写</label><span id="name_span"></span></div>
+	    			<div class="lef use_input padd"><input id="name" type="text"/></div>
+	    			
+	    			<div id="radio_category">性别：
+	    				<input type="radio" value="男"  name="gender" /><span>男</span>
+	    				<input type="radio" value="女"  name="gender" /><span>女</span>
+    				</div>
+    				
+	    			<div class="lef font_size">学校:&nbsp;
+	    				<select id="school_name" class="select_option">
+	    					<option value="">请选择学校</option>
+	    					<option value="12">苏州一中</option>
+	    					<option value="16">苏州第三中学</option>
+	    					<option value="17">金阊实验中学校</option>
+	    				</select>
+	    			</div>
+	    			
+	    			<div class="lef font_size">年级:&nbsp;
+	    				<select id="grade_name" class="select_option">
+	    					<option value="0">请选择年级</option>
+	    					<option value="高一">高一</option>
+	    					<option value="高二">高二</option>
+	    					<option value="高三">高三</option>
+	    				</select>
+	    			</div>
+	    			
+	    			<div class="lef font_size">班级:&nbsp;
+	    				<select id="class_name" class="select_option">
+	    					<option>请选择班级</option>
+	    					<option value="高一(01)班">高一(01)班</option>
+	    					<option value="高一(02)班">高一(02)班</option>
+	    					<option value="高一(03)班">高一(03)班</option>
+	    				</select>
+	    			</div>
+    				
+	    		</div>
+	    		
+	    		<div class="teacher_part" style="display: none;">
+	    			
+	    			<div class="lef use_title">请输入学校全名 *<label>必须填写</label><span id="school_name_label"></span></div>
+	    			<div class="lef use_input padd"><input id="school_name_inp" type="text"/></div>
+	    			
+	    			<div class="lef font_size">所属教育局:&nbsp;
+	    				<select id="edu_depart_id" class="select_option">
+	    					<option value="">湖北省教育局</option>
+	    				</select>
+	    			</div>
+	    			
+	    			<div class="item lef font_size">
+						<div class="fl">
+							地址:
+							<select name="province" id="province" class="select_option"></select>
+							<select name="city" id="city" class="select_option"></select>
+							<select name="county" id="county" class="select_option"></select>
+							<div class="clear"> </div>
+						</div>
+					</div>
+				<div class="lef use_title">请输入具体地址*<label>必须填写</label><span id="detail_addr_span"></span></div>
+	    		<div class="lef use_input padd"><input id="detail_addr" type="text" /></div>
+				
+				<div class="lef use_title">请输入教师数量*<label>必须填写</label><span id="tea_count_span"></span></div>
+	    		<div class="lef use_input padd"><input id="tea_count" type="text" /></div>
+	    		
+	    		<div class="lef use_title">请输入学生数量*<label>必须填写</label><span id="stu_count_span"></span></div>
+	    		<div class="lef use_input padd"><input id="stu_count" type="text" /></div>
+	    		
+	    		<div class="lef use_title">请输入联系人*<label>必须填写</label><span id="contacter_span"></span></div>
+	    		<div class="lef use_input padd"><input id="contacter" type="text"/></div>
+				
+				<div class="lef use_title">请输入联系方式*<label>必须填写</label><span id="phone_span"></span></div>
+	    		<div class="lef use_input padd"><input id="phone" type="text"/></div>
+	    		</div>
+	    		
+	    		
+	    		
+	    		<div class="lef butto" id="login">注　　册</div>
+		    	
+   			</div>
+ 
+    	</div>
+	    
+    </div>
+	<div id="footer">
+			<div class="footer_content">
+			教育部教育信息化战略研究基地（华中） <br />
+			联系地址：湖北 武汉 珞喻路152号 华中师范大学科学会堂501 邮编：430079
+			<!--<br />联系电话：027-67867213  传真：027-67862995  -->
+			</div>
+	</div>
+	</body>
+	<script src="js/register.js"></script>
+	<script src="js/PCASClass.js"></script>
+	<script>
+		new PCAS("province","city","county");
+	</script>
+</html>

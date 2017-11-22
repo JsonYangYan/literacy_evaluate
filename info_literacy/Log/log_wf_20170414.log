@@ -1,0 +1,6 @@
+req_id:149214715263265,date:2017-04-14 13:19:13,qt:result,msg:redis connect failed . host:127.0.0.1 port:6379
+req_id:1492156086141390,date:2017-04-14 15:48:06,qt:questionnaire,msg:questionnaireId 5 questions do not exists
+req_id:1492174052985140,date:2017-04-14 20:47:32,qt:evaluation,msg:params are illegal
+req_id:1492174053297640,date:2017-04-14 20:47:33,qt:evaluation,msg:params are illegal
+req_id:1492174053485140,date:2017-04-14 20:47:33,qt:evaluation,msg:params are illegal
+req_id:1492174053688265,date:2017-04-14 20:47:33,qt:evaluation,msg:params are illegal

@@ -1,0 +1,11 @@
+req_id:1492586675446625,date:2017-04-19 15:24:35,qt:login,msg:query info : null
+req_id:1492586675540375,date:2017-04-19 15:24:35,qt:result,msg:redis connect success
+req_id:1492586675540375,date:2017-04-19 15:24:35,qt:result,msg:db_conf_key db1 Connect success !
+req_id:1492586675540375,date:2017-04-19 15:24:35,qt:result,msg:SELECT `answer`, `test_times` FROM `que_answer` WHERE sno = '01010106'  AND test_times = 1 
+req_id:1492586675540375,date:2017-04-19 15:24:35,qt:result,msg:db_conf_key db1 Connect success !
+req_id:1492586675540375,date:2017-04-19 15:24:35,qt:result,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1492586675540375,date:2017-04-19 15:24:35,qt:result,msg:SELECT `question_id`, `index_id` FROM `eval_question_index`
+req_id:1492586675540375,date:2017-04-19 15:24:35,qt:result,msg:db_conf_key db1 Connect success !
+req_id:1492586675540375,date:2017-04-19 15:24:35,qt:result,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1492586675540375,date:2017-04-19 15:24:35,qt:result,msg:SELECT `question_id`, `index_id` FROM `eval_question_index`
+req_id:1492586675540375,date:2017-04-19 15:24:35,qt:result,msg:query info : null

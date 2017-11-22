@@ -1,0 +1,77 @@
+.tab_content2{
+	font-size: 16px;
+	margin:20px auto 20px auto;
+	padding: 0 20px 20px;
+}
+.ques_contain{
+	width: 977px;
+	padding-bottom: 10px;
+}
+.ques_contain{
+	display:block;
+	margin:15px, auto;
+}
+.question_title{
+	margin-top: 10px;
+}
+.question_opt{
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+.question_title input[type="checkbox"]{
+	width: 15px;
+	height: 15px;
+}
+.btn{
+	background-color: #3bb2d0;
+	cursor: pointer;
+	color: white;
+	padding: 0 5px;
+}
+.del_all{
+	float: right;
+	margin-right: 20px;
+}
+.add_question{
+	margin-top: 10px;
+	margin-left: 20px;
+	color: white;
+	font-size: 20px;
+}
+.order,.option,.save,.cancel{
+	display: inline-block;
+	margin-right: 5px;
+}
+.btn_small{
+	background-color: #00677D;
+	cursor: pointer;
+	color: white;
+	font-size: 14px;
+	display: inline-block;
+	padding: 0px 5px;
+	margin-left: 10px;
+}
+.chlice{
+	display: inline-block;
+}
+.chlice{
+	margin-left: 40px;
+	display: inline-block;
+}
+.hide{
+	display: none;
+}
+.show{
+	display: inline-block;
+}
+
+.order input{
+	width: 40px;
+}
+.option input{
+	width: 300px;
+}
+.input_title{
+	width: 300px;
+}
+

@@ -1,0 +1,35 @@
+a{
+	color: white;
+}
+
+.title{
+	font-size: 20px;
+	width: 1024px;
+	text-align: center;
+	margin-top: 50px;
+}
+.find_score{
+	font-size: 16px;
+	width:110px;
+	text-align: center;
+	background: #3bb2d0;
+	margin: 10px auto 0px auto;
+	padding: 5px;
+}
+
+.question{
+	font-size: 16px;
+	width: 110px;
+	text-align: center;
+	margin: 10px auto 0px auto;
+	background: #3bb2d0;
+	padding: 5px;
+}
+.paper{
+	color: #000000;
+	text-align: center;
+	margin-top: 10px;
+}
+.paper a{
+	color: #000000;
+}

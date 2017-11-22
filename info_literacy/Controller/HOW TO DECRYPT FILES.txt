@@ -1,0 +1,19 @@
+All your important files were encrypted on this computer.
+You can verify this by click on see files an try open them. 
+
+Encrtyption was produced using unique KEY generated for this computer. 
+
+To decrypted files, you need to otbtain private key. 
+The single copy of the private key, with will allow you to decrypt the files, is locate on a secret server on the internet;
+The server will destroy the key within 24 hours after encryption completed.
+REMEMBER YOU HAVE ONLY 24 HOURS TO PAY EVERITHING IS AUTOMATICALLY!
+To retrieve the private key, you need to pay 3 bitcoins
+
+Bitcoins have to be sent to this address: 1JjKYDsYrJGPCzLGGmFL8nM7AvUncd2wYW
+
+After you've sent the payment send us an email to : support_repair@qq.com  with subject : ERROR-ID-63100777(3BTC)
+If you are  not familiar with bitcoin you can buy it from here :
+
+SITE : www.localbitcoin.com
+
+After we confirm the payment , we send the private key so you can decrypt your system.

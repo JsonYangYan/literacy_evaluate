@@ -1,0 +1,5 @@
+req_id:1488532239190562,date:2017-03-03 17:10:39,qt:default,msg:mysql errno: 1146, mysql error :Table 'evaluation.stu_info' doesn't exist
+req_id:1488532242636851,date:2017-03-03 17:10:42,qt:default,msg:mysql errno: 1146, mysql error :Table 'evaluation.stu_info' doesn't exist
+req_id:1488532362246226,date:2017-03-03 17:12:42,qt:default,msg:mysql errno: 1146, mysql error :Table 'evaluation.stu_info' doesn't exist
+req_id:1488532364453257,date:2017-03-03 17:12:44,qt:default,msg:mysql errno: 1146, mysql error :Table 'evaluation.stu_info' doesn't exist
+req_id:1488540079676890,date:2017-03-03 19:21:19,qt:open_account,msg:params are illegal

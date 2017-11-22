@@ -1,0 +1,107 @@
+req_id:1488337531993347,date:2017-03-01 11:05:32,qt:default,msg:mysql errno: 1062, mysql error :Duplicate entry '' for key 'account'
+req_id:1488337534985518,date:2017-03-01 11:05:34,qt:default,msg:mysql errno: 1062, mysql error :Duplicate entry '' for key 'account'
+req_id:1488339726715878,date:2017-03-01 11:42:06,qt:default,msg:mysql errno: 1062, mysql error :Duplicate entry '' for key 'account'
+req_id:1488339857773374,date:2017-03-01 11:44:17,qt:default,msg:mysql errno: 1062, mysql error :Duplicate entry '' for key 'account'
+req_id:1488340092158780,date:2017-03-01 11:48:12,qt:default,msg:mysql errno: 1062, mysql error :Duplicate entry 'huashi' for key 'account'
+req_id:1488340206250306,date:2017-03-01 11:50:06,qt:default,msg:mysql errno: 1062, mysql error :Duplicate entry 'huashi' for key 'account'
+req_id:1488340207423373,date:2017-03-01 11:50:07,qt:default,msg:mysql errno: 1062, mysql error :Duplicate entry 'huashi' for key 'account'
+req_id:1488340208517436,date:2017-03-01 11:50:08,qt:default,msg:mysql errno: 1062, mysql error :Duplicate entry 'huashi' for key 'account'
+req_id:1488340209282479,date:2017-03-01 11:50:09,qt:default,msg:mysql errno: 1062, mysql error :Duplicate entry 'huashi' for key 'account'
+req_id:1488340210351541,date:2017-03-01 11:50:10,qt:default,msg:mysql errno: 1062, mysql error :Duplicate entry 'huashi' for key 'account'
+req_id:1488340445236975,date:2017-03-01 11:54:05,qt:default,msg:mysql errno: 1062, mysql error :Duplicate entry 'huashi' for key 'account'
+req_id:1488340445236975,date:2017-03-01 11:54:05,qt:default,msg:params are illegal
+req_id:148834045123306,date:2017-03-01 11:54:11,qt:default,msg:mysql errno: 1062, mysql error :Duplicate entry 'huashi' for key 'account'
+req_id:148834045123306,date:2017-03-01 11:54:11,qt:default,msg:params are illegal
+req_id:1488340687175813,date:2017-03-01 11:58:07,qt:default,msg:params are illegal
+req_id:1488340690710016,date:2017-03-01 11:58:10,qt:default,msg:mysql errno: 1062, mysql error :Duplicate entry '' for key 'account'
+req_id:1488340690710016,date:2017-03-01 11:58:10,qt:default,msg:params are illegal
+req_id:1488340693537177,date:2017-03-01 11:58:13,qt:default,msg:mysql errno: 1062, mysql error :Duplicate entry '' for key 'account'
+req_id:1488340739296795,date:2017-03-01 11:58:59,qt:default,msg:mysql errno: 1062, mysql error :Duplicate entry '' for key 'account'
+req_id:1488340846314916,date:2017-03-01 12:00:46,qt:default,msg:params are illegal
+req_id:1488340850990183,date:2017-03-01 12:00:51,qt:default,msg:mysql errno: 1062, mysql error :Duplicate entry 'huashi' for key 'account'
+req_id:1488340850990183,date:2017-03-01 12:00:51,qt:default,msg:params are illegal
+req_id:148834085690475,date:2017-03-01 12:00:56,qt:default,msg:mysql errno: 1062, mysql error :Duplicate entry 'huashi' for key 'account'req_id:148835542685831,date:2017-03-01 16:03:46,qt:questionnaire,msg:params are illegal
+req_id:1488355427847932,date:2017-03-01 16:03:47,qt:questionnaire,msg:params are illegal
+req_id:1488355428785985,date:2017-03-01 16:03:48,qt:questionnaire,msg:params are illegal
+req_id:1488355526256560,date:2017-03-01 16:05:26,qt:questionnaire,msg:params are illegal
+req_id:1488355527563635,date:2017-03-01 16:05:27,qt:questionnaire,msg:params are illegal
+req_id:1488355645616387,date:2017-03-01 16:07:25,qt:questionnaire,msg:params are illegal
+req_id:1488358421677169,date:2017-03-01 16:53:41,qt:questionnaire,msg:params are illegal
+req_id:1488358428448556,date:2017-03-01 16:53:48,qt:questionnaire,msg:params are illegal
+req_id:148835843520932,date:2017-03-01 16:53:55,qt:questionnaire,msg:params are illegal
+req_id:1488358441156283,date:2017-03-01 16:54:01,qt:questionnaire,msg:params are illegal
+req_id:1488358453996017,date:2017-03-01 16:54:14,qt:questionnaire,msg:params are illegal
+req_id:1488358475922271,date:2017-03-01 16:54:35,qt:questionnaire,msg:params are illegal
+req_id:1488358492848240,date:2017-03-01 16:54:52,qt:questionnaire,msg:params are illegal
+req_id:1488358494174315,date:2017-03-01 16:54:54,qt:questionnaire,msg:params are illegal
+req_id:148835854412166,date:2017-03-01 16:55:44,qt:questionnaire,msg:params are illegal
+req_id:1488358610992997,date:2017-03-01 16:56:50,qt:questionnaire,msg:params are illegal
+req_id:1488358611940051,date:2017-03-01 16:56:51,qt:questionnaire,msg:params are illegal
+req_id:1488359778636782,date:2017-03-01 17:16:18,qt:questionnaire,msg:params are illegal
+req_id:1488359779686843,date:2017-03-01 17:16:19,qt:questionnaire,msg:params are illegal
+req_id:1488359817792022,date:2017-03-01 17:16:57,qt:questionnaire,msg:params are illegal
+req_id:1488359821177216,date:2017-03-01 17:17:01,qt:questionnaire,msg:params are illegal
+req_id:148836276547595,date:2017-03-01 18:06:05,qt:questionnaire,msg:db_conf_key  connect params are not apt for command
+req_id:1488363123401092,date:2017-03-01 18:12:03,qt:questionnaire,msg:params are illegal
+req_id:1488363127177308,date:2017-03-01 18:12:07,qt:questionnaire,msg:params are illegal
+req_id:1488363147104448,date:2017-03-01 18:12:27,qt:questionnaire,msg:params are illegal
+req_id:1488363165881522,date:2017-03-01 18:12:45,qt:questionnaire,msg:params are illegal
+req_id:148836437736796,date:2017-03-01 18:32:57,qt:questionnaire,msg:params are illegal
+req_id:1488364378704891,date:2017-03-01 18:32:58,qt:questionnaire,msg:params are illegal
+req_id:1488364390304555,date:2017-03-01 18:33:10,qt:questionnaire,msg:params are illegal
+req_id:1488364978461195,date:2017-03-01 18:42:58,qt:questionnaire,msg:params are illegal
+req_id:1488365001514514,date:2017-03-01 18:43:21,qt:questionnaire,msg:params are illegal
+req_id:1488365010427024,date:2017-03-01 18:43:30,qt:questionnaire,msg:params are illegal
+req_id:1488365075914769,date:2017-03-01 18:44:35,qt:questionnaire,msg:params are illegal
+req_id:1488365083167184,date:2017-03-01 18:44:43,qt:questionnaire,msg:params are illegal
+req_id:1488365253905950,date:2017-03-01 18:47:33,qt:questionnaire,msg:params are illegal
+req_id:1488365262175423,date:2017-03-01 18:47:42,qt:questionnaire,msg:params are illegal
+req_id:1488365263144478,date:2017-03-01 18:47:43,qt:questionnaire,msg:params are illegal
+req_id:14883652643528,date:2017-03-01 18:47:44,qt:questionnaire,msg:params are illegal
+req_id:1488365290434039,date:2017-03-01 18:48:10,qt:questionnaire,msg:params are illegal
+req_id:1488365291454098,date:2017-03-01 18:48:11,qt:questionnaire,msg:params are illegal
+req_id:1488365300638623,date:2017-03-01 18:48:20,qt:questionnaire,msg:params are illegal
+req_id:1488365308485072,date:2017-03-01 18:48:28,qt:questionnaire,msg:params are illegal
+req_id:1488365353438643,date:2017-03-01 18:49:13,qt:questionnaire,msg:params are illegal
+req_id:1488365354730717,date:2017-03-01 18:49:14,qt:questionnaire,msg:params are illegal
+req_id:1488365363677229,date:2017-03-01 18:49:23,qt:questionnaire,msg:params are illegal
+req_id:1488365471545398,date:2017-03-01 18:51:11,qt:questionnaire,msg:params are illegal
+req_id:1488365475778640,date:2017-03-01 18:51:15,qt:questionnaire,msg:params are illegal
+req_id:1488365479541856,date:2017-03-01 18:51:19,qt:questionnaire,msg:params are illegal
+req_id:1488365779606018,date:2017-03-01 18:56:19,qt:register,msg:mysql errno: 1062, mysql error :Duplicate entry 'huashi' for key 'account'
+req_id:148836579354788,date:2017-03-01 18:56:33,qt:register,msg:params are illegal
+req_id:1488365799211140,date:2017-03-01 18:56:39,qt:register,msg:params are illegal
+req_id:1488365800345205,date:2017-03-01 18:56:40,qt:register,msg:params are illegal
+req_id:1488365801202254,date:2017-03-01 18:56:41,qt:register,msg:params are illegal
+req_id:1488365840627509,date:2017-03-01 18:57:20,qt:register,msg:params are illegal
+req_id:1488365841771574,date:2017-03-01 18:57:21,qt:register,msg:params are illegal
+req_id:1488365844602736,date:2017-03-01 18:57:24,qt:register,msg:params are illegal
+req_id:1488365845502787,date:2017-03-01 18:57:25,qt:register,msg:params are illegal
+req_id:1488365847926926,date:2017-03-01 18:57:27,qt:register,msg:mysql errno: 1062, mysql error :Duplicate entry 'huashi1' for key 'account'
+req_id:1488365869278147,date:2017-03-01 18:57:49,qt:register,msg:mysql errno: 1062, mysql error :Duplicate entry 'huashi' for key 'account'
+req_id:1488365895477646,date:2017-03-01 18:58:15,qt:register,msg:params are illegal
+req_id:1488365901313980,date:2017-03-01 18:58:21,qt:register,msg:params are illegal
+req_id:1488365909928472,date:2017-03-01 18:58:29,qt:open_account,msg:mysql errno: 1062, mysql error :Duplicate entry 'xujian' for key 'account'
+req_id:1488365969104857,date:2017-03-01 18:59:29,qt:open_account,msg:params are illegal
+req_id:1488365973595114,date:2017-03-01 18:59:33,qt:open_account,msg:params are illegal
+req_id:1488366072142750,date:2017-03-01 19:01:12,qt:open_account,msg:mysql errno: 1062, mysql error :Duplicate entry 'zhoupeng' for key 'account'
+req_id:1488366218728135,date:2017-03-01 19:03:38,qt:open_account,msg:params are illegal
+req_id:1488366219634186,date:2017-03-01 19:03:39,qt:open_account,msg:params are illegal
+req_id:1488366222435347,date:2017-03-01 19:03:42,qt:open_account,msg:params are illegal
+req_id:1488366223250393,date:2017-03-01 19:03:43,qt:open_account,msg:params are illegal
+req_id:1488366238979293,date:2017-03-01 19:03:59,qt:open_account,msg:mysql errno: 1062, mysql error :Duplicate entry 'zhoupeng1' for key 'account'
+req_id:1488371948147839,date:2017-03-01 20:39:08,qt:questionnaire,msg:params are illegal
+req_id:1488371999435772,date:2017-03-01 20:39:59,qt:questionnaire,msg:params are illegal
+req_id:1488372003370997,date:2017-03-01 20:40:03,qt:questionnaire,msg:params are illegal
+req_id:1488372005753134,date:2017-03-01 20:40:05,qt:questionnaire,msg:params are illegal
+req_id:1488372026166301,date:2017-03-01 20:40:26,qt:questionnaire,msg:params are illegal
+req_id:1488372027310367,date:2017-03-01 20:40:27,qt:questionnaire,msg:params are illegal
+req_id:1488373000764045,date:2017-03-01 20:56:40,qt:questionnaire,msg:params are illegal
+req_id:1488373002230129,date:2017-03-01 20:56:42,qt:questionnaire,msg:params are illegal
+req_id:1488373003179183,date:2017-03-01 20:56:43,qt:questionnaire,msg:params are illegal
+req_id:148837300430232,date:2017-03-01 20:56:44,qt:questionnaire,msg:params are illegal
+req_id:1488374665642271,date:2017-03-01 21:24:25,qt:questionnaire,msg:params are illegal
+req_id:1488374669218475,date:2017-03-01 21:24:29,qt:questionnaire,msg:params are illegal
+req_id:1488374674733791,date:2017-03-01 21:24:34,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-2' for key 'que_title_option'
+req_id:1488374895876439,date:2017-03-01 21:28:15,qt:questionnaire,msg:params are illegal
+req_id:1488374898609595,date:2017-03-01 21:28:18,qt:questionnaire,msg:params are illegal

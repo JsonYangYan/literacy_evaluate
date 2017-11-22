@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>评估排名</title>
+		<link rel="stylesheet" href="css/base.css" />
+		<link rel="stylesheet" href="css/eval_ranking.css" />
+		<script type="text/javascript" src="js/jquery1.8.2.min.js"></script>
+		<script type="text/javascript" src="js/base.js"></script>
+		<script type="text/javascript" src="js/trimpath.js"></script>
+	</head>
+
+	<body>
+		<div class="header">
+			<h1>高中生信息素养测评系统</h1>
+			<span class="nav"><a href="evaluation.html">对比评估</a></span>
+			<span class="nav nav_active"><a href="eval_ranking.html">评估排名</a></span>
+			<span class="nav"><a href="view_score.html">查看成绩</a></span>
+			<span id="go_cancel" onclick="goCancle()">退出</span>
+			<span id="type">欢迎您</span>
+		</div>
+
+		<div id="container">
+			<div class="flex-container">
+
+			</div>
+			<div id="wrap">
+
+			</div>
+			<div id="ensure">确定</div>
+			<div>
+				<div>
+					<!--数据正文-->
+					<div class="tab">
+
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="footer">
+			<div class="footer_content">
+				教育部教育信息化战略研究基地（华中） <br /> 联系地址：湖北 武汉 珞喻路152号 华中师范大学科学会堂501 邮编：430079
+				<!--<br />联系电话：027-67867213  传真：027-67862995  -->
+			</div>
+		</div>
+		<textarea id="flex-container-tmpl" style="display: none;">
+				<div class="flex-item flex-item-active" index_id="overview">　概　　况　</div>
+				{for item in data}
+				<div class="flex-item flex-item-normal" index_id=${item.id} >${item.content}</div>
+				{/for}
+		</textarea>
+		<textarea id="list_template" style="display: none;">
+			<table style="border: #cccccc 1px solid; width: 80%;" id="tbValue" cellspacing="1" cellpadding="4">
+							<thead>
+								<tr class="maintable1">
+									<td style="width: 5%"  rowspan="2" nowrap>
+										排名
+									</td>
+									<td class="td_content" style="width: 9%" rowspan="2" nowrap>
+										名称<i class="i_content"></i>
+									</td>
+									{var i=2}
+									{for dat in nameContent}
+										
+										<td class="td_content" style="width: 9%" onclick="sortTable('tbValue', ${i++},'float',this)" rowspan="2" nowrap>
+											${dat}<i class="i_content"></i>
+										</td>
+									{/for}
+								</tr>
+
+							</thead>
+							{var i=1}
+							{for dat in scoresContent}
+								<tr height='40' bgcolor='#DCE9F9'>
+									<td>${i++}</td>
+									{for data in dat}
+									<td nowrap align='center'>
+										${data}
+									</td>
+									{/for}
+								</tr>
+							{/for}
+						</table>
+		</textarea>
+	</body>
+	<script type="text/javascript" src="js/eval_ranking.js"></script>
+
+</html>

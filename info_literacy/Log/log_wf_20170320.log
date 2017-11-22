@@ -1,0 +1,67 @@
+req_id:1489999195959500,date:2017-03-20 16:39:55,qt:questionnaire,msg:params are illegal
+req_id:1489999199881375,date:2017-03-20 16:39:59,qt:questionnaire,msg:params are illegal
+req_id:1490005968256375,date:2017-03-20 18:32:48,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '155-b' for key 'question_id_order'
+req_id:1490006097725125,date:2017-03-20 18:34:57,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '156-b' for key 'question_id_order'
+req_id:1490006164100125,date:2017-03-20 18:36:04,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '157-b' for key 'question_id_order'
+req_id:1490006240287625,date:2017-03-20 18:37:20,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '158-b' for key 'question_id_order'
+req_id:1490006309537625,date:2017-03-20 18:38:29,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '152-c' for key 'question_id_order'
+req_id:1490006796131375,date:2017-03-20 18:46:36,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '152-c' for key 'question_id_order'
+req_id:1490006825897000,date:2017-03-20 18:47:05,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '129-c' for key 'question_id_order'
+req_id:1490006939928250,date:2017-03-20 18:48:59,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '121-c' for key 'question_id_order'
+req_id:1490006955162625,date:2017-03-20 18:49:15,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '121-f' for key 'question_id_order'
+req_id:1490006964693875,date:2017-03-20 18:49:24,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '121-g' for key 'question_id_order'
+req_id:1490009531438015,date:2017-03-20 19:32:11,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '159-b' for key 'question_id_order'
+req_id:1490009597730007,date:2017-03-20 19:33:17,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '159-b' for key 'question_id_order'
+req_id:1490010057764187,date:2017-03-20 19:40:57,qt:questionnaire,msg:params are illegal
+req_id:149001011335671,date:2017-03-20 19:41:53,qt:questionnaire,msg:params are illegal
+req_id:1490010410792507,date:2017-03-20 19:46:50,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '160-b' for key 'question_id_order'
+req_id:1490010415863796,date:2017-03-20 19:46:55,qt:list,msg:questionnaireId Array options do not exists
+req_id:1490010421942898,date:2017-03-20 19:47:01,qt:list,msg:questionnaireId Array options do not exists
+req_id:1490010565973171,date:2017-03-20 19:49:25,qt:list,msg:questionnaireId Array options do not exists
+req_id:1490010784998562,date:2017-03-20 19:53:05,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '161-b' for key 'question_id_order'
+req_id:1490011029468289,date:2017-03-20 19:57:09,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '162-b' for key 'question_id_order'
+req_id:1490011351955593,date:2017-03-20 20:02:31,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '163-2' for key 'question_id_order'
+req_id:149001141361062,date:2017-03-20 20:03:33,qt:list,msg:questionnaireId Array options do not exists
+req_id:1490011752458523,date:2017-03-20 20:09:12,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '165-7' for key 'question_id_order'
+req_id:1490011892781765,date:2017-03-20 20:11:32,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '166-3' for key 'question_id_order'
+req_id:1490012245948757,date:2017-03-20 20:17:25,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '167-5' for key 'question_id_order'
+req_id:1490012503209500,date:2017-03-20 20:21:43,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '168-2' for key 'question_id_order'
+req_id:1490012573703640,date:2017-03-20 20:22:53,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '169-3' for key 'question_id_order'
+req_id:1490012632483914,date:2017-03-20 20:23:52,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '170-3' for key 'question_id_order'
+req_id:1490012719435085,date:2017-03-20 20:25:19,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '171-1' for key 'question_id_order'
+req_id:1490012773272976,date:2017-03-20 20:26:13,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '172-1' for key 'question_id_order'
+req_id:1490013040526882,date:2017-03-20 20:30:40,qt:questionnaire,msg:params are illegal
+req_id:1490013076922390,date:2017-03-20 20:31:16,qt:questionnaire,msg:params are illegal
+req_id:1490013081712429,date:2017-03-20 20:31:21,qt:list,msg:questionnaireId Array options do not exists
+req_id:1490013087823757,date:2017-03-20 20:31:27,qt:list,msg:questionnaireId Array options do not exists
+req_id:1490013123221218,date:2017-03-20 20:32:03,qt:questionnaire,msg:params are illegal
+req_id:1490013205460476,date:2017-03-20 20:33:25,qt:questionnaire,msg:params are illegal
+req_id:1490013533726101,date:2017-03-20 20:38:53,qt:questionnaire,msg:params are illegal
+req_id:149001361116140,date:2017-03-20 20:40:11,qt:questionnaire,msg:E:\WWW\info_literacy\Library\Db.php314 fields or tables or rows are empty
+req_id:1490013979907742,date:2017-03-20 20:46:19,qt:questionnaire,msg:E:\WWW\info_literacy\Library\Db.php314 fields or tables or rows are empty
+req_id:1490014016438992,date:2017-03-20 20:46:56,qt:questionnaire,msg:E:\WWW\info_literacy\Library\Db.php314 fields or tables or rows are empty
+req_id:1490014983451687,date:2017-03-20 21:03:03,qt:questionnaire,msg:E:\WWW\info_literacy\Library\Db.php314 fields or tables or rows are empty
+req_id:1490015025506375,date:2017-03-20 21:03:45,qt:questionnaire,msg:E:\WWW\info_literacy\Library\Db.php314 fields or tables or rows are empty
+req_id:1490015183481960,date:2017-03-20 21:06:23,qt:questionnaire,msg:E:\WWW\info_literacy\Library\Db.php314 fields or tables or rows are empty
+req_id:1490015331336453,date:2017-03-20 21:08:51,qt:questionnaire,msg:E:\WWW\info_literacy\Library\Db.php314 fields or tables or rows are empty
+req_id:1490015352294460,date:2017-03-20 21:09:12,qt:questionnaire,msg:E:\WWW\info_literacy\Library\Db.php314 fields or tables or rows are empty
+req_id:1490015367391140,date:2017-03-20 21:09:27,qt:list,msg:questionnaireId Array options do not exists
+req_id:1490015370152859,date:2017-03-20 21:09:30,qt:list,msg:questionnaireId Array options do not exists
+req_id:1490015449632351,date:2017-03-20 21:10:49,qt:questionnaire,msg:E:\WWW\info_literacy\Library\Db.php314 fields or tables or rows are empty
+req_id:1490015491996609,date:2017-03-20 21:11:32,qt:questionnaire,msg:E:\WWW\info_literacy\Library\Db.php314 fields or tables or rows are empty
+req_id:1490018119458523,date:2017-03-20 21:55:19,qt:questionnaire,msg:params are illegal
+req_id:1490018135649929,date:2017-03-20 21:55:35,qt:questionnaire,msg:params are illegal
+req_id:1490018177978054,date:2017-03-20 21:56:17,qt:questionnaire,msg:params are illegal
+req_id:1490018364558132,date:2017-03-20 21:59:24,qt:questionnaire,msg:params are illegal
+req_id:1490018499756375,date:2017-03-20 22:01:39,qt:questionnaire,msg:params are illegal
+req_id:1490018758962429,date:2017-03-20 22:05:58,qt:questionnaire,msg:params are illegal
+req_id:1490018824731960,date:2017-03-20 22:07:04,qt:questionnaire,msg:params are illegal
+req_id:1490018903564968,date:2017-03-20 22:08:23,qt:questionnaire,msg:params are illegal
+req_id:1490018984623562,date:2017-03-20 22:09:44,qt:questionnaire,msg:params are illegal
+req_id:1490019046315945,date:2017-03-20 22:10:46,qt:questionnaire,msg:params are illegal
+req_id:1490019080275906,date:2017-03-20 22:11:20,qt:questionnaire,msg:params are illegal
+req_id:149001915563015,date:2017-03-20 22:12:35,qt:questionnaire,msg:params are illegal
+req_id:1490019192834500,date:2017-03-20 22:13:12,qt:questionnaire,msg:params are illegal
+req_id:1490019241124539,date:2017-03-20 22:14:01,qt:questionnaire,msg:params are illegal
+req_id:1490019260267117,date:2017-03-20 22:14:20,qt:questionnaire,msg:params are illegal
+req_id:1490019282178250,date:2017-03-20 22:14:42,qt:questionnaire,msg:params are illegal

@@ -1,0 +1,190 @@
+req_id:1504228599360953,date:2017-09-01 09:16:39,qt:login,msg:query info : null
+req_id:1504228613110953,date:2017-09-01 09:16:53,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1504228613110953,date:2017-09-01 09:16:53,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1504228613110953,date:2017-09-01 09:16:53,qt:login,msg:query info : null
+req_id:1504228613298453,date:2017-09-01 09:16:53,qt:login,msg:query info : null
+req_id:1504228613298453,date:2017-09-01 09:16:53,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1504228613298453,date:2017-09-01 09:16:53,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1504228613298453,date:2017-09-01 09:16:53,qt:list,msg:query info : null
+req_id:1504228613360953,date:2017-09-01 09:16:53,qt:navigate,msg:redis connect success
+req_id:1504228613360953,date:2017-09-01 09:16:53,qt:navigate,msg:db_conf_key db1 Connect success !
+req_id:1504228613360953,date:2017-09-01 09:16:53,qt:navigate,msg:SELECT `id`, `name` FROM `eval_department` WHERE parent_id = '5' 
+req_id:1504228613360953,date:2017-09-01 09:16:53,qt:navigate,msg:db_conf_key db1 Connect success !
+req_id:1504228613360953,date:2017-09-01 09:16:53,qt:navigate,msg:SELECT `id`, `name` FROM `eval_school`
+req_id:1504228613360953,date:2017-09-01 09:16:53,qt:navigate,msg:db_conf_key db1 Connect success !
+req_id:1504228613360953,date:2017-09-01 09:16:53,qt:navigate,msg:SELECT distinct `edu_depart_id`, `school_id`, `grade`, `class` FROM `eval_evaluation` WHERE edu_depart_id = '6' 
+req_id:1504228613360953,date:2017-09-01 09:16:53,qt:navigate,msg:query info : null
+req_id:1504228613439078,date:2017-09-01 09:16:53,qt:login,msg:query info : null
+req_id:1504228613454703,date:2017-09-01 09:16:53,qt:evaluation,msg:redis connect success
+req_id:1504228613454703,date:2017-09-01 09:16:53,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1504228613454703,date:2017-09-01 09:16:53,qt:evaluation,msg:SELECT `id`, `name` FROM `eval_department` WHERE parent_id = '5' 
+req_id:1504228613454703,date:2017-09-01 09:16:53,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1504228613454703,date:2017-09-01 09:16:53,qt:evaluation,msg:SELECT `score`, `gender`, `test_times`, `edu_depart_id`, `school_id`, `grade`, `class`, `sno` FROM `eval_evaluation` WHERE edu_depart_id = 6  AND test_times = '1' 
+req_id:1504228613454703,date:2017-09-01 09:16:53,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1504228613454703,date:2017-09-01 09:16:53,qt:evaluation,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1504228613454703,date:2017-09-01 09:16:53,qt:evaluation,msg:query info : null
+req_id:1504228613907828,date:2017-09-01 09:16:53,qt:login,msg:query info : null
+req_id:1504228625939078,date:2017-09-01 09:17:05,qt:login,msg:query info : null
+req_id:1504228625954703,date:2017-09-01 09:17:05,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1504228625954703,date:2017-09-01 09:17:05,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1504228625954703,date:2017-09-01 09:17:05,qt:list,msg:query info : null
+req_id:1504228625985953,date:2017-09-01 09:17:06,qt:navigate,msg:redis connect success
+req_id:1504228625985953,date:2017-09-01 09:17:06,qt:navigate,msg:query info : null
+req_id:150422862617203,date:2017-09-01 09:17:06,qt:evaluation,msg:redis connect success
+req_id:150422862617203,date:2017-09-01 09:17:06,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:150422862617203,date:2017-09-01 09:17:06,qt:evaluation,msg:SELECT `id`, `name` FROM `eval_department` WHERE parent_id = '5' 
+req_id:150422862617203,date:2017-09-01 09:17:06,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:150422862617203,date:2017-09-01 09:17:06,qt:evaluation,msg:SELECT `score`, `gender`, `test_times`, `edu_depart_id`, `school_id`, `grade`, `class`, `sno` FROM `eval_evaluation` WHERE edu_depart_id = 6  AND test_times = '1' 
+req_id:150422862617203,date:2017-09-01 09:17:06,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:150422862617203,date:2017-09-01 09:17:06,qt:evaluation,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:150422862617203,date:2017-09-01 09:17:06,qt:evaluation,msg:query info : null
+req_id:1504228626173453,date:2017-09-01 09:17:06,qt:login,msg:query info : null
+req_id:1504228627235953,date:2017-09-01 09:17:07,qt:login,msg:query info : null
+req_id:1504228627251578,date:2017-09-01 09:17:07,qt:result,msg:redis connect success
+req_id:1504228627251578,date:2017-09-01 09:17:07,qt:result,msg:db_conf_key db1 Connect success !
+req_id:1504228627251578,date:2017-09-01 09:17:07,qt:result,msg:SELECT `id`, `name` FROM `eval_department` WHERE parent_id = '5' 
+req_id:1504228627251578,date:2017-09-01 09:17:07,qt:result,msg:db_conf_key db1 Connect success !
+req_id:1504228627251578,date:2017-09-01 09:17:07,qt:result,msg:SELECT `score`, `gender`, `test_times`, `edu_depart_id`, `school_id`, `grade`, `class`, `sno` FROM `eval_evaluation` WHERE edu_depart_id = 6  AND test_times = 1 
+req_id:1504228627251578,date:2017-09-01 09:17:07,qt:result,msg:db_conf_key db1 Connect success !
+req_id:1504228627251578,date:2017-09-01 09:17:07,qt:result,msg:SELECT `id`, `name` FROM `eval_department` WHERE parent_id = '5' 
+req_id:1504228627251578,date:2017-09-01 09:17:07,qt:result,msg:db_conf_key db1 Connect success !
+req_id:1504228627251578,date:2017-09-01 09:17:07,qt:result,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1504228627251578,date:2017-09-01 09:17:07,qt:result,msg:query info : null
+req_id:1504228627376578,date:2017-09-01 09:17:07,qt:login,msg:query info : null
+req_id:1504228628454703,date:2017-09-01 09:17:08,qt:login,msg:query info : null
+req_id:1504228628470328,date:2017-09-01 09:17:08,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1504228628470328,date:2017-09-01 09:17:08,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1504228628470328,date:2017-09-01 09:17:08,qt:list,msg:query info : null
+req_id:1504228628485953,date:2017-09-01 09:17:08,qt:navigate,msg:redis connect success
+req_id:1504228628485953,date:2017-09-01 09:17:08,qt:navigate,msg:query info : null
+req_id:1504228628517203,date:2017-09-01 09:17:08,qt:evaluation,msg:redis connect success
+req_id:1504228628517203,date:2017-09-01 09:17:08,qt:evaluation,msg:query info : null
+req_id:1504228628564078,date:2017-09-01 09:17:08,qt:login,msg:query info : null
+req_id:1504228629860953,date:2017-09-01 09:17:09,qt:login,msg:query info : null
+req_id:1504228629876578,date:2017-09-01 09:17:09,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1504228629876578,date:2017-09-01 09:17:09,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1504228629876578,date:2017-09-01 09:17:09,qt:list,msg:query info : null
+req_id:1504228629907828,date:2017-09-01 09:17:09,qt:navigate,msg:redis connect success
+req_id:1504228629907828,date:2017-09-01 09:17:09,qt:navigate,msg:query info : null
+req_id:1504228629939078,date:2017-09-01 09:17:09,qt:login,msg:query info : null
+req_id:1504228629954703,date:2017-09-01 09:17:09,qt:evaluation,msg:redis connect success
+req_id:1504228629954703,date:2017-09-01 09:17:09,qt:evaluation,msg:query info : null
+req_id:1504228630189078,date:2017-09-01 09:17:10,qt:login,msg:query info : null
+req_id:1504228632157828,date:2017-09-01 09:17:12,qt:login,msg:query info : null
+req_id:1504228632173453,date:2017-09-01 09:17:12,qt:result,msg:redis connect success
+req_id:1504228632173453,date:2017-09-01 09:17:12,qt:result,msg:query info : null
+req_id:1504228632220328,date:2017-09-01 09:17:12,qt:login,msg:query info : null
+req_id:1504228633501578,date:2017-09-01 09:17:13,qt:login,msg:query info : null
+req_id:1504228633532828,date:2017-09-01 09:17:13,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1504228633532828,date:2017-09-01 09:17:13,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1504228633532828,date:2017-09-01 09:17:13,qt:list,msg:query info : null
+req_id:1504228633548453,date:2017-09-01 09:17:13,qt:navigate,msg:redis connect success
+req_id:1504228633548453,date:2017-09-01 09:17:13,qt:navigate,msg:query info : null
+req_id:1504228633579703,date:2017-09-01 09:17:13,qt:evaluation,msg:redis connect success
+req_id:1504228633579703,date:2017-09-01 09:17:13,qt:evaluation,msg:query info : null
+req_id:1504228633626578,date:2017-09-01 09:17:13,qt:login,msg:query info : null
+req_id:1504228634423453,date:2017-09-01 09:17:14,qt:login,msg:query info : null
+req_id:1504228634423453,date:2017-09-01 09:17:14,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1504228634423453,date:2017-09-01 09:17:14,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1504228634423453,date:2017-09-01 09:17:14,qt:list,msg:query info : null
+req_id:1504228634454703,date:2017-09-01 09:17:14,qt:navigate,msg:redis connect success
+req_id:1504228634454703,date:2017-09-01 09:17:14,qt:navigate,msg:query info : null
+req_id:1504228634470328,date:2017-09-01 09:17:14,qt:login,msg:query info : null
+req_id:1504228634485953,date:2017-09-01 09:17:14,qt:evaluation,msg:redis connect success
+req_id:1504228634485953,date:2017-09-01 09:17:14,qt:evaluation,msg:query info : null
+req_id:1504228634704703,date:2017-09-01 09:17:14,qt:login,msg:query info : null
+req_id:1504228635970328,date:2017-09-01 09:17:15,qt:login,msg:query info : null
+req_id:1504228635970328,date:2017-09-01 09:17:16,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1504228635970328,date:2017-09-01 09:17:16,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1504228635970328,date:2017-09-01 09:17:16,qt:list,msg:query info : null
+req_id:15042286361578,date:2017-09-01 09:17:16,qt:navigate,msg:redis connect success
+req_id:15042286361578,date:2017-09-01 09:17:16,qt:navigate,msg:query info : null
+req_id:150422863617203,date:2017-09-01 09:17:16,qt:evaluation,msg:redis connect success
+req_id:150422863617203,date:2017-09-01 09:17:16,qt:evaluation,msg:query info : null
+req_id:150422863664078,date:2017-09-01 09:17:16,qt:login,msg:query info : null
+req_id:1504228637923453,date:2017-09-01 09:17:17,qt:login,msg:query info : null
+req_id:1504228637939078,date:2017-09-01 09:17:17,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1504228637939078,date:2017-09-01 09:17:17,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1504228637939078,date:2017-09-01 09:17:17,qt:list,msg:query info : null
+req_id:1504228637954703,date:2017-09-01 09:17:17,qt:navigate,msg:redis connect success
+req_id:1504228637954703,date:2017-09-01 09:17:17,qt:navigate,msg:query info : null
+req_id:1504228637970328,date:2017-09-01 09:17:17,qt:login,msg:query info : null
+req_id:1504228637985953,date:2017-09-01 09:17:18,qt:evaluation,msg:redis connect success
+req_id:1504228637985953,date:2017-09-01 09:17:18,qt:evaluation,msg:query info : null
+req_id:1504228638189078,date:2017-09-01 09:17:18,qt:login,msg:query info : null
+req_id:1504228779298453,date:2017-09-01 09:19:39,qt:login,msg:query info : null
+req_id:1504228779314078,date:2017-09-01 09:19:39,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1504228779314078,date:2017-09-01 09:19:39,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1504228779314078,date:2017-09-01 09:19:39,qt:list,msg:query info : null
+req_id:1504228779329703,date:2017-09-01 09:19:39,qt:navigate,msg:redis connect success
+req_id:1504228779329703,date:2017-09-01 09:19:39,qt:navigate,msg:query info : null
+req_id:1504228779360953,date:2017-09-01 09:19:39,qt:evaluation,msg:redis connect success
+req_id:1504228779360953,date:2017-09-01 09:19:39,qt:evaluation,msg:query info : null
+req_id:1504228781173453,date:2017-09-01 09:19:41,qt:login,msg:query info : null
+req_id:1504228781204703,date:2017-09-01 09:19:41,qt:login,msg:query info : null
+req_id:1504228781251578,date:2017-09-01 09:19:41,qt:login,msg:query info : null
+req_id:1504228833923453,date:2017-09-01 09:20:33,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1504228833923453,date:2017-09-01 09:20:33,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1504228833923453,date:2017-09-01 09:20:33,qt:login,msg:query info : null
+req_id:1504228833985953,date:2017-09-01 09:20:33,qt:login,msg:query info : null
+req_id:15042288341578,date:2017-09-01 09:20:34,qt:list,msg:db_conf_key db1 Connect success !
+req_id:15042288341578,date:2017-09-01 09:20:34,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:15042288341578,date:2017-09-01 09:20:34,qt:list,msg:query info : null
+req_id:150422883417203,date:2017-09-01 09:20:34,qt:navigate,msg:redis connect success
+req_id:150422883417203,date:2017-09-01 09:20:34,qt:navigate,msg:query info : null
+req_id:150422883432828,date:2017-09-01 09:20:34,qt:login,msg:query info : null
+req_id:150422883448453,date:2017-09-01 09:20:34,qt:evaluation,msg:redis connect success
+req_id:150422883448453,date:2017-09-01 09:20:34,qt:evaluation,msg:query info : null
+req_id:1504228834329703,date:2017-09-01 09:20:34,qt:login,msg:query info : null
+req_id:1504228840407828,date:2017-09-01 09:20:40,qt:login,msg:query info : null
+req_id:1504228840423453,date:2017-09-01 09:20:40,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1504228840423453,date:2017-09-01 09:20:40,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1504228840423453,date:2017-09-01 09:20:40,qt:list,msg:query info : null
+req_id:1504228840439078,date:2017-09-01 09:20:40,qt:navigate,msg:redis connect success
+req_id:1504228840439078,date:2017-09-01 09:20:40,qt:navigate,msg:query info : null
+req_id:1504228840454703,date:2017-09-01 09:20:40,qt:evaluation,msg:redis connect success
+req_id:1504228840454703,date:2017-09-01 09:20:40,qt:evaluation,msg:query info : null
+req_id:1504228840532828,date:2017-09-01 09:20:40,qt:login,msg:query info : null
+req_id:1504228841251578,date:2017-09-01 09:20:41,qt:login,msg:query info : null
+req_id:1504228841251578,date:2017-09-01 09:20:41,qt:result,msg:redis connect success
+req_id:1504228841251578,date:2017-09-01 09:20:41,qt:result,msg:query info : null
+req_id:1504228841314078,date:2017-09-01 09:20:41,qt:login,msg:query info : null
+req_id:1504228842470328,date:2017-09-01 09:20:42,qt:login,msg:query info : null
+req_id:1504228842485953,date:2017-09-01 09:20:42,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1504228842485953,date:2017-09-01 09:20:42,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1504228842485953,date:2017-09-01 09:20:42,qt:list,msg:query info : null
+req_id:1504228842501578,date:2017-09-01 09:20:42,qt:navigate,msg:redis connect success
+req_id:1504228842501578,date:2017-09-01 09:20:42,qt:navigate,msg:query info : null
+req_id:1504228842517203,date:2017-09-01 09:20:42,qt:evaluation,msg:redis connect success
+req_id:1504228842517203,date:2017-09-01 09:20:42,qt:evaluation,msg:query info : null
+req_id:1504228842564078,date:2017-09-01 09:20:42,qt:login,msg:query info : null
+req_id:1504228843173453,date:2017-09-01 09:20:43,qt:login,msg:query info : null
+req_id:1504228843189078,date:2017-09-01 09:20:43,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1504228843189078,date:2017-09-01 09:20:43,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1504228843189078,date:2017-09-01 09:20:43,qt:list,msg:query info : null
+req_id:1504228843189078,date:2017-09-01 09:20:43,qt:navigate,msg:redis connect success
+req_id:1504228843189078,date:2017-09-01 09:20:43,qt:navigate,msg:query info : null
+req_id:1504228843235953,date:2017-09-01 09:20:43,qt:login,msg:query info : null
+req_id:1504228843235953,date:2017-09-01 09:20:43,qt:evaluation,msg:redis connect success
+req_id:1504228843235953,date:2017-09-01 09:20:43,qt:evaluation,msg:query info : null
+req_id:1504228843470328,date:2017-09-01 09:20:43,qt:login,msg:query info : null
+req_id:1504228844407828,date:2017-09-01 09:20:44,qt:login,msg:query info : null
+req_id:1504228844407828,date:2017-09-01 09:20:44,qt:login,msg:query info : null
+req_id:1504228844470328,date:2017-09-01 09:20:44,qt:login,msg:query info : null
+req_id:1504230204845328,date:2017-09-01 09:43:24,qt:login,msg:query info : null
+req_id:1504230221595328,date:2017-09-01 09:43:41,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1504230221595328,date:2017-09-01 09:43:41,qt:login,msg:SELECT `account`, `passwd`, `name`, `level` FROM `eval_admin` WHERE account = 'yanshi' 
+req_id:1504230221595328,date:2017-09-01 09:43:41,qt:login,msg:query info : null
+req_id:1504230229954703,date:2017-09-01 09:43:49,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1504230229954703,date:2017-09-01 09:43:49,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1504230229954703,date:2017-09-01 09:43:49,qt:login,msg:query info : null
+req_id:1504230231720328,date:2017-09-01 09:43:51,qt:login,msg:query info : null
+req_id:1504230231751578,date:2017-09-01 09:43:51,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1504230231751578,date:2017-09-01 09:43:51,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1504230231751578,date:2017-09-01 09:43:51,qt:list,msg:query info : null
+req_id:1504230231860953,date:2017-09-01 09:43:51,qt:navigate,msg:redis connect success
+req_id:1504230231860953,date:2017-09-01 09:43:51,qt:navigate,msg:query info : null
+req_id:1504230232110953,date:2017-09-01 09:43:52,qt:login,msg:query info : null
+req_id:1504230232657828,date:2017-09-01 09:43:52,qt:evaluation,msg:redis connect success
+req_id:1504230232657828,date:2017-09-01 09:43:52,qt:evaluation,msg:query info : null
+req_id:1504230236110953,date:2017-09-01 09:43:56,qt:login,msg:query info : null

@@ -1,0 +1,11 @@
+req_id:1489543328173375,date:2017-03-15 10:02:08,qt:answers,msg:mysql errno: 1062, mysql error :Duplicate entry '1-0-1' for key 'index_que_sno_times'
+req_id:1489543605470250,date:2017-03-15 10:06:45,qt:answers,msg:mysql errno: 1062, mysql error :Duplicate entry '1-0-1' for key 'index_que_sno_times'
+req_id:1489543792345250,date:2017-03-15 10:09:52,qt:answers,msg:mysql errno: 1062, mysql error :Duplicate entry '1-0-1' for key 'index_que_sno_times'
+req_id:1489543827110875,date:2017-03-15 10:10:27,qt:answers,msg:mysql errno: 1062, mysql error :Duplicate entry '1-0-1' for key 'index_que_sno_times'
+req_id:148954460027867,date:2017-03-15 10:23:20,qt:answers,msg:mysql errno: 1062, mysql error :Duplicate entry '1-0-1' for key 'index_que_sno_times'
+req_id:1489572869315953,date:2017-03-15 18:14:29,qt:register,msg:params are illegal
+req_id:1489573056112828,date:2017-03-15 18:17:36,qt:register,msg:params are illegal
+req_id:1489573259675328,date:2017-03-15 18:20:59,qt:register,msg:params are illegal
+req_id:1489577394269078,date:2017-03-15 19:29:54,qt:answers,msg:mysql errno: 1062, mysql error :Duplicate entry '1-0-1' for key 'index_que_sno_times'
+req_id:1489584720706578,date:2017-03-15 21:32:00,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-2' for key 'que_title_option'
+req_id:148958492334703,date:2017-03-15 21:35:23,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-2' for key 'que_title_option'

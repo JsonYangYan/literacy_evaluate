@@ -1,0 +1,41 @@
+req_id:1492918981251843,date:2017-04-23 11:43:01,qt:login,msg:params are illegal
+req_id:149291898279968,date:2017-04-23 11:43:02,qt:login,msg:params are illegal
+req_id:149291997479968,date:2017-04-23 11:59:34,qt:login,msg:params are illegal
+req_id:1492920047267468,date:2017-04-23 12:00:48,qt:navigate,msg:redis connect failed . host:127.0.0.1 port:6379
+req_id:1492920049861218,date:2017-04-23 12:00:49,qt:evaluation,msg:params are illegal
+req_id:1492920073736218,date:2017-04-23 12:01:14,qt:navigate,msg:redis connect failed . host:127.0.0.1 port:6379
+req_id:1492920076423718,date:2017-04-23 12:01:16,qt:evaluation,msg:params are illegal
+req_id:1492920079673718,date:2017-04-23 12:01:19,qt:evaluation,msg:params are illegal
+req_id:1492920116517468,date:2017-04-23 12:01:57,qt:navigate,msg:redis connect failed . host:127.0.0.1 port:6379
+req_id:1492920119126843,date:2017-04-23 12:01:59,qt:evaluation,msg:params are illegal
+req_id:1492920136220593,date:2017-04-23 12:02:17,qt:navigate,msg:redis connect failed . host:127.0.0.1 port:6379
+req_id:1492920138642468,date:2017-04-23 12:02:18,qt:evaluation,msg:params are illegal
+req_id:1492920150501843,date:2017-04-23 12:02:31,qt:navigate,msg:redis connect failed . host:127.0.0.1 port:6379
+req_id:1492920152845593,date:2017-04-23 12:02:32,qt:evaluation,msg:params are illegal
+req_id:1492920192204968,date:2017-04-23 12:03:13,qt:navigate,msg:redis connect failed . host:127.0.0.1 port:6379
+req_id:1492920194470593,date:2017-04-23 12:03:14,qt:evaluation,msg:params are illegal
+req_id:1492920215829968,date:2017-04-23 12:03:36,qt:evaluation,msg:redis connect failed . host:127.0.0.1 port:6379
+req_id:1492920372486218,date:2017-04-23 12:06:12,qt:questionnaire,msg:params are illegal
+req_id:149292038348718,date:2017-04-23 12:06:24,qt:questionnaire,msg:redis connect failed . host:127.0.0.1 port:6379
+req_id:1492920767595593,date:2017-04-23 12:12:47,qt:questionnaire,msg:params are illegal
+req_id:1492921224923718,date:2017-04-23 12:20:25,qt:navigate,msg:redis connect failed . host:127.0.0.1 port:6379
+req_id:1492921225970593,date:2017-04-23 12:20:25,qt:evaluation,msg:params are illegal
+req_id:1492921460579968,date:2017-04-23 12:24:21,qt:navigate,msg:redis connect failed . host:127.0.0.1 port:6379
+req_id:1492921463126843,date:2017-04-23 12:24:23,qt:evaluation,msg:params are illegal
+req_id:1492922461439343,date:2017-04-23 12:41:02,qt:navigate,msg:redis connect failed . host:127.0.0.1 port:6379
+req_id:1492922463845593,date:2017-04-23 12:41:03,qt:evaluation,msg:params are illegal
+req_id:1492922466439343,date:2017-04-23 12:41:07,qt:questionnaire,msg:redis connect failed . host:127.0.0.1 port:6379
+req_id:14929226421843,date:2017-04-23 12:44:02,qt:register,msg:params are illegal
+req_id:1492925385533093,date:2017-04-23 13:29:46,qt:navigate,msg:redis connect failed . host:127.0.0.1 port:6379
+req_id:1492925389329968,date:2017-04-23 13:29:49,qt:evaluation,msg:params are illegal
+req_id:1492925422954968,date:2017-04-23 13:30:23,qt:navigate,msg:redis connect failed . host:127.0.0.1 port:6379
+req_id:1492925425783093,date:2017-04-23 13:30:25,qt:evaluation,msg:params are illegal
+req_id:1492925461251843,date:2017-04-23 13:31:02,qt:navigate,msg:redis connect failed . host:127.0.0.1 port:6379
+req_id:1492925463548718,date:2017-04-23 13:31:03,qt:evaluation,msg:params are illegal
+req_id:1492925484111218,date:2017-04-23 13:31:25,qt:evaluation,msg:redis connect failed . host:127.0.0.1 port:6379
+req_id:149292554448718,date:2017-04-23 13:32:25,qt:navigate,msg:redis connect failed . host:127.0.0.1 port:6379
+req_id:1492925546548718,date:2017-04-23 13:32:26,qt:evaluation,msg:params are illegal
+req_id:1492927525720593,date:2017-04-23 14:05:25,qt:evaluation,msg:params are illegal
+req_id:1492927597798718,date:2017-04-23 14:06:37,qt:evaluation,msg:params are illegal
+req_id:1492928487727429,date:2017-04-23 14:21:27,qt:register,msg:mysql errno: 1062, mysql error :Duplicate entry '01010105' for key 'account'
+req_id:1492928575847546,date:2017-04-23 14:22:55,qt:register,msg:mysql errno: 1062, mysql error :Duplicate entry '01010105' for key 'account'

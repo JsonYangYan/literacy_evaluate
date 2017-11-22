@@ -1,0 +1,36 @@
+
+/************page_menu**************/
+#page_numbers{
+	height: 20px;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.page_menu A {
+	color: #000000; 
+	text-decoration: none;
+}
+.page_menu A:hover {
+	color: red;
+}
+.page_menu A:active {
+	color: #666;
+}
+.page_menu .current {
+	font-weight: bold;  
+
+	color: #fff; 
+	background: #036cb4;
+}
+.page_menu .disabled {
+
+	color: #AAA;
+}
+
+#page_numbers_city{margin-top:12px;}
+#topTitle{
+	font: 38px/1.5 Tahoma,Helvetica,Arial,'宋体',sans-serif;
+	font-weight:bold;
+	margin-top:15px;
+	margin-left:20px;
+}

@@ -1,0 +1,38 @@
+req_id:1498616091180500,date:2017-06-28 10:14:51,qt:login,msg:query info : null
+req_id:1498616106539875,date:2017-06-28 10:15:06,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1498616106539875,date:2017-06-28 10:15:06,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'wuzhong' 
+req_id:1498616106539875,date:2017-06-28 10:15:06,qt:login,msg:query info : null
+req_id:1498616106805500,date:2017-06-28 10:15:06,qt:login,msg:query info : null
+req_id:1498616106821125,date:2017-06-28 10:15:06,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1498616106821125,date:2017-06-28 10:15:06,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1498616106821125,date:2017-06-28 10:15:06,qt:list,msg:query info : null
+req_id:1498616109649250,date:2017-06-28 10:15:09,qt:login,msg:query info : null
+req_id:1498616170477375,date:2017-06-28 10:16:10,qt:login,msg:query info : null
+req_id:1498616170524250,date:2017-06-28 10:16:10,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1498616170524250,date:2017-06-28 10:16:10,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1498616170524250,date:2017-06-28 10:16:10,qt:list,msg:query info : null
+req_id:1498616173211750,date:2017-06-28 10:16:13,qt:login,msg:query info : null
+req_id:1498616188664875,date:2017-06-28 10:16:28,qt:login,msg:query info : null
+req_id:1498616188680500,date:2017-06-28 10:16:28,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1498616188680500,date:2017-06-28 10:16:28,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1498616188680500,date:2017-06-28 10:16:28,qt:list,msg:query info : null
+req_id:149861619171125,date:2017-06-28 10:16:31,qt:login,msg:query info : null
+req_id:1498616194180500,date:2017-06-28 10:16:34,qt:login,msg:query info : null
+req_id:1498616194196125,date:2017-06-28 10:16:34,qt:login,msg:query info : null
+req_id:1498616194336750,date:2017-06-28 10:16:34,qt:login,msg:query info : null
+req_id:1498616217946125,date:2017-06-28 10:16:57,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1498616217946125,date:2017-06-28 10:16:57,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'szyz' 
+req_id:1498616217946125,date:2017-06-28 10:16:57,qt:login,msg:query info : null
+req_id:1498616240852375,date:2017-06-28 10:17:20,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1498616240852375,date:2017-06-28 10:17:20,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'suzhou' 
+req_id:1498616240852375,date:2017-06-28 10:17:20,qt:login,msg:query info : null
+req_id:1498616240930500,date:2017-06-28 10:17:20,qt:login,msg:query info : null
+req_id:1498616240946125,date:2017-06-28 10:17:20,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1498616240946125,date:2017-06-28 10:17:20,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1498616240946125,date:2017-06-28 10:17:20,qt:list,msg:query info : null
+req_id:1498616243586750,date:2017-06-28 10:17:23,qt:login,msg:query info : null
+req_id:1498616293164875,date:2017-06-28 10:18:13,qt:login,msg:query info : null
+req_id:1498616293164875,date:2017-06-28 10:18:13,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1498616293164875,date:2017-06-28 10:18:13,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1498616293164875,date:2017-06-28 10:18:13,qt:list,msg:query info : null
+req_id:1498616298399250,date:2017-06-28 10:18:18,qt:login,msg:query info : null

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>查看成绩</title>
+		<link rel="stylesheet" href="css/base.css" />
+		<link rel="stylesheet" href="css/view_score.css" />
+		<script type="text/javascript" src="js/jquery1.8.2.min.js"></script>
+		<script type="text/javascript" src="js/base.js"></script>
+		<script type="text/javascript" src="js/trimpath.js"></script>
+	</head>
+	<body>
+		<div class="header">
+			<h1>高中生信息素养测评系统</h1>
+			<span class="nav"><a href="evaluation.html">对比评估</a></span>
+			<span class="nav"><a href="eval_ranking.html">评估排名</a></span>
+			<span class="nav nav_active"><a href="view_score.html">查看成绩</a></span>
+			<span id="go_cancel" onclick="goCancle()">退出</span>
+			<span id="go_back" onclick="comeBack()" class="hide">返回</span>
+			<span id="type">欢迎您</span>
+		</div>
+		<div id="container">
+			
+		</div>
+		<div id="footer">
+			<div class="footer_content">
+			教育部教育信息化战略研究基地（华中） <br />
+			联系地址：湖北 武汉 珞喻路152号 华中师范大学科学会堂501 邮编：430079
+			<!--<br />联系电话：027-67867213  传真：027-67862995  -->
+			</div>
+		</div>
+		<textarea id="list_template" style="display: none;">
+			<table class="table">
+				<thead>
+					<tr>
+						<td>评分项目</td>
+						<td>得分</td>
+					</tr>
+				</thead>
+				{for content in data}
+				<tr>
+					<td>${content.content}</td>
+					<td>${content.score}</td>
+				</tr>
+				{/for}
+			</table>
+		</textarea>
+	</body>
+	<script type="text/javascript" src="js/view_score.js" ></script>
+</html>

@@ -1,0 +1,73 @@
+req_id:1505434159821171,date:2017-09-15 08:09:19,qt:login,msg:query info : null
+req_id:1505434159852421,date:2017-09-15 08:09:19,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1505434159852421,date:2017-09-15 08:09:19,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1505434159852421,date:2017-09-15 08:09:19,qt:list,msg:query info : null
+req_id:1505434159899296,date:2017-09-15 08:09:19,qt:navigate,msg:redis connect success
+req_id:1505434159899296,date:2017-09-15 08:09:19,qt:navigate,msg:query info : null
+req_id:15054341608671,date:2017-09-15 08:09:20,qt:login,msg:query info : null
+req_id:1505434194696171,date:2017-09-15 08:09:54,qt:login,msg:query info : null
+req_id:1505434194711796,date:2017-09-15 08:09:54,qt:login,msg:query info : null
+req_id:1505434194899296,date:2017-09-15 08:09:54,qt:login,msg:query info : null
+req_id:1505434197977421,date:2017-09-15 08:09:57,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505434197977421,date:2017-09-15 08:09:57,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505434197977421,date:2017-09-15 08:09:57,qt:login,msg:query info : null
+req_id:1505434198118046,date:2017-09-15 08:09:58,qt:login,msg:query info : null
+req_id:1505434198149296,date:2017-09-15 08:09:58,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1505434198149296,date:2017-09-15 08:09:58,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1505434198149296,date:2017-09-15 08:09:58,qt:list,msg:query info : null
+req_id:1505434198196171,date:2017-09-15 08:09:58,qt:navigate,msg:redis connect success
+req_id:1505434198196171,date:2017-09-15 08:09:58,qt:navigate,msg:db_conf_key db1 Connect success !
+req_id:1505434198196171,date:2017-09-15 08:09:58,qt:navigate,msg:SELECT `id`, `name` FROM `eval_department` WHERE parent_id = '5' 
+req_id:1505434198196171,date:2017-09-15 08:09:58,qt:navigate,msg:db_conf_key db1 Connect success !
+req_id:1505434198196171,date:2017-09-15 08:09:58,qt:navigate,msg:SELECT `id`, `name` FROM `eval_school`
+req_id:1505434198196171,date:2017-09-15 08:09:58,qt:navigate,msg:db_conf_key db1 Connect success !
+req_id:1505434198196171,date:2017-09-15 08:09:58,qt:navigate,msg:SELECT distinct `edu_depart_id`, `school_id`, `grade`, `class` FROM `eval_evaluation` WHERE edu_depart_id = '6' 
+req_id:1505434198196171,date:2017-09-15 08:09:58,qt:navigate,msg:query info : null
+req_id:1505434198274296,date:2017-09-15 08:09:58,qt:login,msg:query info : null
+req_id:1505434198289921,date:2017-09-15 08:09:58,qt:evaluation,msg:redis connect success
+req_id:1505434198289921,date:2017-09-15 08:09:58,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1505434198289921,date:2017-09-15 08:09:58,qt:evaluation,msg:SELECT `id`, `name` FROM `eval_department` WHERE parent_id = '5' 
+req_id:1505434198289921,date:2017-09-15 08:09:58,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1505434198289921,date:2017-09-15 08:09:58,qt:evaluation,msg:SELECT `score`, `gender`, `test_times`, `edu_depart_id`, `school_id`, `grade`, `class`, `sno` FROM `eval_evaluation` WHERE edu_depart_id = 6  AND test_times = '1' 
+req_id:1505434198289921,date:2017-09-15 08:09:58,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1505434198289921,date:2017-09-15 08:09:58,qt:evaluation,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1505434198289921,date:2017-09-15 08:09:58,qt:evaluation,msg:query info : null
+req_id:1505434198899296,date:2017-09-15 08:09:58,qt:login,msg:query info : null
+req_id:1505442960461796,date:2017-09-15 10:36:00,qt:login,msg:query info : null
+req_id:1505443987493046,date:2017-09-15 10:53:07,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505443987493046,date:2017-09-15 10:53:07,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505443987493046,date:2017-09-15 10:53:07,qt:login,msg:query info : null
+req_id:1505443987633671,date:2017-09-15 10:53:07,qt:login,msg:query info : null
+req_id:1505443987664921,date:2017-09-15 10:53:07,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1505443987664921,date:2017-09-15 10:53:07,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1505443987664921,date:2017-09-15 10:53:07,qt:list,msg:query info : null
+req_id:1505443987696171,date:2017-09-15 10:53:07,qt:navigate,msg:redis connect success
+req_id:1505443987696171,date:2017-09-15 10:53:07,qt:navigate,msg:db_conf_key db1 Connect success !
+req_id:1505443987696171,date:2017-09-15 10:53:07,qt:navigate,msg:SELECT `id`, `name` FROM `eval_department` WHERE parent_id = '5' 
+req_id:1505443987696171,date:2017-09-15 10:53:07,qt:navigate,msg:db_conf_key db1 Connect success !
+req_id:1505443987696171,date:2017-09-15 10:53:07,qt:navigate,msg:SELECT `id`, `name` FROM `eval_school`
+req_id:1505443987696171,date:2017-09-15 10:53:07,qt:navigate,msg:db_conf_key db1 Connect success !
+req_id:1505443987696171,date:2017-09-15 10:53:07,qt:navigate,msg:SELECT distinct `edu_depart_id`, `school_id`, `grade`, `class` FROM `eval_evaluation` WHERE edu_depart_id = '6' 
+req_id:1505443987696171,date:2017-09-15 10:53:07,qt:navigate,msg:query info : null
+req_id:1505443987758671,date:2017-09-15 10:53:07,qt:login,msg:query info : null
+req_id:1505443987774296,date:2017-09-15 10:53:07,qt:evaluation,msg:redis connect success
+req_id:1505443987774296,date:2017-09-15 10:53:07,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1505443987774296,date:2017-09-15 10:53:07,qt:evaluation,msg:SELECT `id`, `name` FROM `eval_department` WHERE parent_id = '5' 
+req_id:1505443987774296,date:2017-09-15 10:53:07,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1505443987774296,date:2017-09-15 10:53:07,qt:evaluation,msg:SELECT `score`, `gender`, `test_times`, `edu_depart_id`, `school_id`, `grade`, `class`, `sno` FROM `eval_evaluation` WHERE edu_depart_id = 6  AND test_times = '1' 
+req_id:1505443987774296,date:2017-09-15 10:53:07,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1505443987774296,date:2017-09-15 10:53:07,qt:evaluation,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1505443987774296,date:2017-09-15 10:53:07,qt:evaluation,msg:query info : null
+req_id:1505443988399296,date:2017-09-15 10:53:08,qt:login,msg:query info : null
+req_id:1505459150805546,date:2017-09-15 15:05:50,qt:login,msg:query info : null
+req_id:1505459150821171,date:2017-09-15 15:05:50,qt:evaluation,msg:redis connect success
+req_id:1505459150821171,date:2017-09-15 15:05:50,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1505459150821171,date:2017-09-15 15:05:50,qt:evaluation,msg:SELECT `id`, `name` FROM `eval_department` WHERE parent_id = '5' 
+req_id:1505459150821171,date:2017-09-15 15:05:50,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1505459150821171,date:2017-09-15 15:05:50,qt:evaluation,msg:SELECT `score`, `gender`, `test_times`, `edu_depart_id`, `school_id`, `grade`, `class`, `sno` FROM `eval_evaluation` WHERE edu_depart_id = 6  AND test_times = '1' 
+req_id:1505459150821171,date:2017-09-15 15:05:50,qt:evaluation,msg:db_conf_key db1 Connect success !
+req_id:1505459150821171,date:2017-09-15 15:05:50,qt:evaluation,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1505459150821171,date:2017-09-15 15:05:50,qt:evaluation,msg:query info : null
+req_id:1505459476555546,date:2017-09-15 15:11:16,qt:login,msg:query info : null
+req_id:1505459476571171,date:2017-09-15 15:11:16,qt:evaluation,msg:redis connect success
+req_id:1505459476571171,date:2017-09-15 15:11:16,qt:evaluation,msg:query info : null

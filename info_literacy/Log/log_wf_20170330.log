@@ -1,0 +1,142 @@
+req_id:1490854158105984,date:2017-03-30 14:09:18,qt:questionnaire,msg:params are illegal
+req_id:149085417116140,date:2017-03-30 14:09:31,qt:questionnaire,msg:params are illegal
+req_id:1490855513234890,date:2017-03-30 14:31:53,qt:questionnaire,msg:params are illegal
+req_id:1490855909125515,date:2017-03-30 14:38:29,qt:questionnaire,msg:params are illegal
+req_id:1490855912281765,date:2017-03-30 14:38:32,qt:questionnaire,msg:params are illegal
+req_id:1490856022375515,date:2017-03-30 14:40:22,qt:questionnaire,msg:params are illegal
+req_id:1490856074297390,date:2017-03-30 14:41:14,qt:questionnaire,msg:params are illegal
+req_id:1490856079234890,date:2017-03-30 14:41:19,qt:questionnaire,msg:params are illegal
+req_id:1490856190594265,date:2017-03-30 14:43:10,qt:questionnaire,msg:params are illegal
+req_id:149085619494265,date:2017-03-30 14:43:14,qt:questionnaire,msg:params are illegal
+req_id:1490856195203640,date:2017-03-30 14:43:15,qt:questionnaire,msg:params are illegal
+req_id:1490856195844265,date:2017-03-30 14:43:15,qt:questionnaire,msg:params are illegal
+req_id:1490856264515,date:2017-03-30 14:44:24,qt:questionnaire,msg:params are illegal
+req_id:1490856340688015,date:2017-03-30 14:45:40,qt:questionnaire,msg:params are illegal
+req_id:1490856391219265,date:2017-03-30 14:46:31,qt:questionnaire,msg:params are illegal
+req_id:1490856417453640,date:2017-03-30 14:46:57,qt:questionnaire,msg:params are illegal
+req_id:1490856462797390,date:2017-03-30 14:47:42,qt:questionnaire,msg:params are illegal
+req_id:1490873377750515,date:2017-03-30 19:29:37,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-1' for key 'que_title_option'
+req_id:1490873425516140,date:2017-03-30 19:30:25,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-1' for key 'que_title_option'
+req_id:1490873437969265,date:2017-03-30 19:30:37,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-1' for key 'que_title_option'
+req_id:1490873855826687,date:2017-03-30 19:37:35,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-1' for key 'que_title_option'
+req_id:1490873890690945,date:2017-03-30 19:38:10,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-1' for key 'que_title_option'
+req_id:149087392381570,date:2017-03-30 19:38:43,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-1' for key 'que_title_option'
+req_id:1490873930100125,date:2017-03-30 19:38:50,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-1' for key 'que_title_option'
+req_id:1490874003987820,date:2017-03-30 19:40:03,qt:status,msg:params are illegal
+req_id:1490874029667507,date:2017-03-30 19:40:29,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-1' for key 'que_title_option'
+req_id:1490874064819851,date:2017-03-30 19:41:04,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-1' for key 'que_title_option'
+req_id:1490874070278835,date:2017-03-30 19:41:10,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-1' for key 'que_title_option'
+req_id:1490874090876492,date:2017-03-30 19:41:30,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-1' for key 'que_title_option'
+req_id:1490874100664578,date:2017-03-30 19:41:40,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-1' for key 'que_title_option'
+req_id:1490874287857937,date:2017-03-30 19:44:47,qt:questionnaire,msg:questionnaireId 1 questions do not exists
+req_id:1490874296924343,date:2017-03-30 19:44:56,qt:questionnaire,msg:questionnaireId 1 questions do not exists
+req_id:149087431673757,date:2017-03-30 19:45:16,qt:status,msg:params are illegal
+req_id:14908743174421,date:2017-03-30 19:45:17,qt:status,msg:params are illegal
+req_id:1490874317521023,date:2017-03-30 19:45:17,qt:status,msg:params are illegal
+req_id:1490874318355007,date:2017-03-30 19:45:18,qt:status,msg:params are illegal
+req_id:1490874375798367,date:2017-03-30 19:46:15,qt:questionnaire,msg:questionnaireId 1 questions do not exists
+req_id:1490874381341335,date:2017-03-30 19:46:21,qt:questionnaire,msg:questionnaireId 1 questions do not exists
+req_id:1490874382410671,date:2017-03-30 19:46:22,qt:questionnaire,msg:questionnaireId 1 questions do not exists
+req_id:1490874383193875,date:2017-03-30 19:46:23,qt:questionnaire,msg:questionnaireId 1 questions do not exists
+req_id:1490874383714382,date:2017-03-30 19:46:23,qt:questionnaire,msg:questionnaireId 1 questions do not exists
+req_id:1490874387582546,date:2017-03-30 19:46:27,qt:questionnaire,msg:questionnaireId 3does not exists
+req_id:1490874388624539,date:2017-03-30 19:46:28,qt:questionnaire,msg:questionnaireId 3does not exists
+req_id:1490874389294460,date:2017-03-30 19:46:29,qt:questionnaire,msg:questionnaireId 3does not exists
+req_id:1490874437999539,date:2017-03-30 19:47:18,qt:questionnaire,msg:questionnaireId 3does not exists
+req_id:1490874439197781,date:2017-03-30 19:47:19,qt:questionnaire,msg:questionnaireId 3does not exists
+req_id:1490874470635281,date:2017-03-30 19:47:50,qt:questionnaire,msg:questionnaireId 1 questions do not exists
+req_id:1490874490998562,date:2017-03-30 19:48:11,qt:questionnaire,msg:questionnaireId 1 questions do not exists
+req_id:1490875103596218,date:2017-03-30 19:58:23,qt:questionnaire,msg:questionnaireId 1 questions do not exists
+req_id:1490875234257351,date:2017-03-30 20:00:34,qt:questionnaire,msg:questionnaireId 1 questions do not exists
+req_id:1490875258874539,date:2017-03-30 20:00:58,qt:questionnaire,msg:questionnaireId 1 questions do not exists
+req_id:1490875259882351,date:2017-03-30 20:00:59,qt:questionnaire,msg:questionnaireId 1 questions do not exists
+req_id:149087528116140,date:2017-03-30 20:01:21,qt:questionnaire,msg:questionnaireId 1 questions do not exists
+req_id:1490875548155789,date:2017-03-30 20:05:48,qt:questionnaire,msg:questionnaireId 1 questions do not exists
+req_id:1490875549200710,date:2017-03-30 20:05:49,qt:questionnaire,msg:questionnaireId 1 questions do not exists
+req_id:1490875569306179,date:2017-03-30 20:06:09,qt:questionnaire,msg:questionnaireId 1 questions do not exists
+req_id:1490875582199734,date:2017-03-30 20:06:22,qt:questionnaire,msg:questionnaireId 1 questions do not exists
+req_id:149087561269851,date:2017-03-30 20:06:52,qt:questionnaire,msg:questionnaireId 1 questions do not exists
+req_id:1490875651954617,date:2017-03-30 20:07:31,qt:questionnaire,msg:questionnaireId 2 questions do not exists
+req_id:14908756539304,date:2017-03-30 20:07:33,qt:questionnaire,msg:questionnaireId 2 questions do not exists
+req_id:1490875655554226,date:2017-03-30 20:07:35,qt:questionnaire,msg:questionnaireId 2 questions do not exists
+req_id:1490875665603054,date:2017-03-30 20:07:45,qt:questionnaire,msg:questionnaireId 2 questions do not exists
+req_id:1490875666544460,date:2017-03-30 20:07:46,qt:questionnaire,msg:questionnaireId 2 questions do not exists
+req_id:1490875682865750,date:2017-03-30 20:08:02,qt:questionnaire,msg:questionnaireId 2 questions do not exists
+req_id:1490875704466335,date:2017-03-30 20:08:24,qt:questionnaire,msg:questionnaireId 3does not exists
+req_id:1490875706463406,date:2017-03-30 20:08:26,qt:questionnaire,msg:questionnaireId 3does not exists
+req_id:1490875709172390,date:2017-03-30 20:08:29,qt:questionnaire,msg:questionnaireId 3does not exists
+req_id:1490875709858914,date:2017-03-30 20:08:29,qt:questionnaire,msg:questionnaireId 3does not exists
+req_id:1490875717473171,date:2017-03-30 20:08:37,qt:questionnaire,msg:questionnaireId 3does not exists
+req_id:1490875721750515,date:2017-03-30 20:08:41,qt:questionnaire,msg:questionnaireId 4does not exists
+req_id:1490875986572781,date:2017-03-30 20:13:06,qt:questionnaire,msg:questionnaireId 3does not exists
+req_id:1490875987633328,date:2017-03-30 20:13:07,qt:questionnaire,msg:questionnaireId 3does not exists
+req_id:1490876001217312,date:2017-03-30 20:13:21,qt:questionnaire,msg:questionnaireId 2does not exists
+req_id:1490876013459500,date:2017-03-30 20:13:33,qt:questionnaire,msg:questionnaireId 2does not exists
+req_id:1490876973820828,date:2017-03-30 20:29:33,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '2-65' for key 'que_title_question'
+req_id:1490876987437039,date:2017-03-30 20:29:47,qt:edit,msg:params are illegal
+req_id:1490877077267117,date:2017-03-30 20:31:17,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '2-1' for key 'que_title_question'
+req_id:1490877368376492,date:2017-03-30 20:36:08,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-1' for key 'que_title_question'
+req_id:1490877435397976,date:2017-03-30 20:37:15,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-1' for key 'que_title_question'
+req_id:1490877451525906,date:2017-03-30 20:37:31,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-1' for key 'que_title_question'
+req_id:1490877489479031,date:2017-03-30 20:38:09,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-1' for key 'que_title_question'
+req_id:1490877497805203,date:2017-03-30 20:38:17,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-3' for key 'que_title_question'
+req_id:1490877975649929,date:2017-03-30 20:46:15,qt:status,msg:params are illegal
+req_id:1490877977439968,date:2017-03-30 20:46:17,qt:status,msg:params are illegal
+req_id:1490878613652859,date:2017-03-30 20:56:53,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-65' for key 'que_title_question'
+req_id:1490881019548367,date:2017-03-30 21:36:59,qt:questionnaire,msg:questionnaireId 3 questions do not exists
+req_id:1490881024628445,date:2017-03-30 21:37:04,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881026396023,date:2017-03-30 21:37:06,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881026986843,date:2017-03-30 21:37:07,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:149088103499148,date:2017-03-30 21:37:14,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881041397000,date:2017-03-30 21:37:21,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881183527859,date:2017-03-30 21:39:43,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881189375515,date:2017-03-30 21:39:49,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881190195828,date:2017-03-30 21:39:50,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881190982937,date:2017-03-30 21:39:51,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881239272000,date:2017-03-30 21:40:39,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881240189968,date:2017-03-30 21:40:40,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881240756375,date:2017-03-30 21:40:40,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881240990750,date:2017-03-30 21:40:41,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881241222195,date:2017-03-30 21:40:41,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881260812039,date:2017-03-30 21:41:00,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881299841335,date:2017-03-30 21:41:39,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881300592312,date:2017-03-30 21:41:40,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881300805203,date:2017-03-30 21:41:40,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:149088130157156,date:2017-03-30 21:41:41,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881318993679,date:2017-03-30 21:41:59,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881335780789,date:2017-03-30 21:42:15,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881404216335,date:2017-03-30 21:43:24,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881405258328,date:2017-03-30 21:43:25,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881405590359,date:2017-03-30 21:43:25,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881427810085,date:2017-03-30 21:43:47,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881440242703,date:2017-03-30 21:44:00,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881462416531,date:2017-03-30 21:44:22,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881488388210,date:2017-03-30 21:44:48,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881491255398,date:2017-03-30 21:44:51,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881670590359,date:2017-03-30 21:47:50,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-65' for key 'que_title_question'
+req_id:1490881744846218,date:2017-03-30 21:49:04,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:149088174554226,date:2017-03-30 21:49:05,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:149088174686453,date:2017-03-30 21:49:06,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881747606960,date:2017-03-30 21:49:07,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881756207546,date:2017-03-30 21:49:16,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490881765437039,date:2017-03-30 21:49:25,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-65' for key 'que_title_question'
+req_id:1490881780460476,date:2017-03-30 21:49:40,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-65' for key 'que_title_question'
+req_id:1490881792238796,date:2017-03-30 21:49:52,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-65' for key 'que_title_question'
+req_id:1490881797599148,date:2017-03-30 21:49:57,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-65' for key 'que_title_question'
+req_id:1490881804897976,date:2017-03-30 21:50:04,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:149088183070828,date:2017-03-30 21:50:30,qt:questionnaire,msg:questionnaireId 8 questions do not exists
+req_id:1490881887408718,date:2017-03-30 21:51:27,qt:questionnaire,msg:params are illegal
+req_id:1490881887597195,date:2017-03-30 21:51:27,qt:questionnaire,msg:params are illegal
+req_id:1490881917635281,date:2017-03-30 21:51:57,qt:questionnaire,msg:params are illegal
+req_id:1490882003762234,date:2017-03-30 21:53:23,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '152-c' for key 'question_id_order'
+req_id:149088200839578,date:2017-03-30 21:53:28,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '155-c' for key 'question_id_order'
+req_id:1490882881894070,date:2017-03-30 22:08:01,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-65' for key 'que_title_question'
+req_id:1490882935895046,date:2017-03-30 22:08:55,qt:questionnaire,msg:questionnaireId 4 questions do not exists
+req_id:1490882944917507,date:2017-03-30 22:09:04,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-65' for key 'que_title_question'
+req_id:1490882987762234,date:2017-03-30 22:09:47,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-65' for key 'que_title_question'
+req_id:1490883033395046,date:2017-03-30 22:10:33,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-65' for key 'que_title_question'
+req_id:149088308493289,date:2017-03-30 22:11:24,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-65' for key 'que_title_question'
+req_id:1490883134302273,date:2017-03-30 22:12:14,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-2' for key 'que_title_question'
+req_id:1490883147989773,date:2017-03-30 22:12:28,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-65' for key 'que_title_question'
+req_id:149088315613210,date:2017-03-30 22:12:36,qt:questionnaire,msg:mysql errno: 1062, mysql error :Duplicate entry '1-65' for key 'que_title_question'
+req_id:1490883226425320,date:2017-03-30 22:13:46,qt:questionnaire,msg:questionnaireId 3 questions do not exists

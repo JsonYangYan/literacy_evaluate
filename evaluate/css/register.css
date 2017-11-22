@@ -1,0 +1,372 @@
+#num_nav{
+	display:inline-block;
+}
+#num_nav li{
+	float:left;
+	list-style: none;
+	border: 1px solid #3bb2d0;
+	color:#444444;
+	margin-left:2px;
+	min-width: 45px;
+	padding:4px;
+	width: auto;
+	font-size:16px;
+	text-align:center;
+}
+#num_nav li.over:hover{
+	color:white;
+	background-color:#3bb2d0;
+	cursor:pointer;
+}
+.header{
+	width: 1024px;
+	height: 80px;
+	font-size: 28px;
+	padding-top: 20px;
+	text-indent: 20px;
+}
+
+.bordered {
+	border: 3px solid lightblue;
+	font-family: Arial;
+	text-align: center;
+/*    *border-collapse: collapse; */
+/*    border-spacing: 0;*/
+    width: 500px;
+    height: auto;
+    margin: 0 auto;
+}
+.bordered td,th{
+	padding: 0.3em;
+	width: 60px;
+	height: 10px;
+	font-family: "寰蒋闆呴粦";
+	border: 6px solid lightblue;
+}
+.bordered td:last-child{
+	width: 150px;
+}
+.bordered td a{
+	cursor: pointer;
+	display: block;
+}
+.bordered td a:visited,.bordered td a:link{
+	text-decoration: none;
+	display: block;
+	color:#1C6A9E;
+}
+.bordered td a:hover,.bordered td a:active{
+	text-decoration: none;
+	display: block;
+	color:#33BBEE;
+}
+#nav_box {
+	width:80%;
+	margin:10px auto;
+	text-align:right;
+}
+#nav_box a{
+	text-decoration:none;
+}
+#nav_box a:hover{
+	color:#3AA7BE;
+}
+#adminManage{
+	
+	float:left;
+	width:119px;
+	height:45px;
+	
+}
+#admin{
+	margin:0 auto;
+	margin-left:30px;
+}
+.adminmg{
+	background:url(../images/updatepwd1.jpg) no-repeat;
+}
+.adminmg1{
+	background:url(../images/updpwd.png) no-repeat;
+}
+#adminManage:hover{
+	background:url(../images/updpwd.png) no-repeat;
+}
+#userManage{
+	float:left;
+	cursor:pointer;
+	
+	width:160px;
+	height:45px;
+}
+.usermg{
+	background:url(../images/usermg.png) no-repeat;
+}
+.usermg1{
+	background:url(../images/usermg1.png) no-repeat;
+}
+#userManage:hover{
+	background:url(../images/usermg1.png) no-repeat;
+}
+#schoolManage:hover{
+	background:url(../images/schoolmg1.png) no-repeat;
+}
+#main_admin{
+	width: 1024px;
+	border:1px solid #FFF;
+	margin: 0px auto;
+	padding-top:20px;
+	background-color:#fff;
+
+}
+#nav{
+	height:40px;
+	font-size:14px;
+	margin-top:20px;
+	margin-left:20px;
+}
+#show{
+	width:1024px;
+	margin:auto;
+	margin-bottom:20px;
+	padding-top:20px;
+}
+#schoolManage{
+	width:160px;
+	height:45px;
+	float:left;
+}
+.schoolmg{
+	background:url(../images/schoolmg.png) no-repeat;
+}
+.select_option{
+	min-width: 100px;
+	height: 30px;
+}
+.schoolmg1{
+	background:url(../images/schoolmg1.png) no-repeat;
+}
+
+.lef{
+	margin-left:358px;
+	
+}
+#admin input{
+	width:224px;
+	height:36px;
+	border: 0px;
+}
+
+#radio_category {
+	margin-left: 358px;
+	padding-top: 10px;
+	font-size: 16px;
+	
+}
+#radio_category input[type=radio] {
+	width: 15px;
+	height: 15px;
+}
+#radio_category span{
+	display: inline-block; 
+	width: 30px;;
+}
+
+.use_title{
+	font-size:16px;
+}
+.use_title label{
+	color:gray;
+	font-size:14px;
+	display:inline-block;
+	margin-left:10px;
+}
+.use_input{
+	border: 1px solid #3bb2d0;
+	width:280px;
+	height:40px;
+	margin-top:10px;
+}
+.padd{
+	padding-left:70px;
+}
+.pwd_input{
+	border: 1px solid #3bb2d0;
+	width:280px;
+	height:40px;
+	margin-top:10px;
+}
+
+.butto{
+	width: 200px;
+    height: 50px;
+    line-height: 40px;
+    border: none;
+    background-color: #ffc300;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+    margin-top:30px;
+    margin-bottom: 20px;
+}
+#submit{
+	float:left;
+	margin-left:25%;
+}
+#back{
+	float:left;
+	margin-left:12%;
+}
+#login{
+	cursor:pointer;
+	width:350px;
+	height:50px;
+	cursor:pointer;
+}
+.tabl{
+	width:950px;
+	margin:auto;
+	align:center;
+	font-size:14px;
+	line-height:47px;
+}
+.tabl thead{
+	font-size:16px;
+}
+.del{
+	background:url(../images/del.jpg) no-repeat;
+	width:120px;
+	height:34px;
+	float:left;
+	cursor:pointer;
+}
+.del_user{
+	background:url(../images/dels.jpg) no-repeat;
+	width:88px;
+	height:25px;
+	float:left;
+	cursor:pointer;
+	margin-left:5px;
+	margin-top:18px;
+}
+.reset{
+	background:url(../images/reset.jpg) no-repeat;
+	margin-left:20px;
+	width:145px;
+	height:34px;
+	float:left;
+	cursor:pointer;
+	
+}
+.reset_user{
+	background:url(../images/resets.jpg) no-repeat;
+	margin-left:0px;
+	width:108px;
+	height:25px;
+	float:left;
+	cursor:pointer;
+	margin-left:5px;
+	margin-top:18px;
+}
+.update{
+	background:url(../images/update.jpg) no-repeat;
+	float:left;
+	margin-left:20px;
+	width:120px;
+	height:34px;
+}
+.update_user{
+	background:url(../images/updates.jpg) no-repeat;
+	float:left;
+	margin-left:0px;
+	width:88px;
+	height:25px;
+	margin-left:5px;
+	margin-top:18px;
+}
+#selectSchool{
+	width:400px;
+	height:49px;
+	background:url(../images/search.jpg) no-repeat;
+	margin:auto;
+	padding-top:3px;
+	
+}
+#schoolName{
+	width:224px;
+	height:36px;
+}
+#search{
+	width:54px;
+	height:48px;
+	float:left;
+	margin-right:10px;
+	cursor:pointer;
+}
+
+.user_name{
+	float:left;
+	width:109px;
+	font-size:16px;
+	height:60px;
+	line-height:60px;
+	text-align:center;	
+}
+.dotted{
+	border-left:1px dotted #3bb2d0;
+}
+.user_area{
+	float:left;
+	width:110px;
+	font-size:16px;
+	height:60px;
+	line-height:60px;
+	text-align:center;
+}
+.user_action{
+	width:309px;
+	float:left;
+	font-size:16px;
+	height:60px;
+	line-height:60px;
+	text-align:center;
+}
+.befspan{
+	padding:0 10px;
+	color:red;
+	font-size:14px;
+}
+#school_name{
+	display:inline-block;
+}
+#school_ming{
+	font-size:16px;
+}
+#category{
+	font-size:16px;
+}
+#zhuce,#mima{
+	margin-top:-20px;
+}
+#usename_new{
+	padding: 0 10px;
+    color: red;
+    font-size: 14px;
+}
+#schoolname_new{
+    color: red;
+    font-size: 14px;
+    
+}
+#areaname_new{
+    color: red;
+    font-size: 14px;
+    
+}
+.font_size{
+	font-size: 16px;
+	margin-top: 10px;
+}
+#category_name_new{
+	color:red;
+}

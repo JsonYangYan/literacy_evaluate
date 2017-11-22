@@ -1,0 +1,219 @@
+req_id:1488256381161612,date:2017-02-28 12:33:01,qt:default,msg:redis connect success
+req_id:1488256381161612,date:2017-02-28 12:33:01,qt:default,msg:query info : []
+req_id:1488256400939743,date:2017-02-28 12:33:20,qt:default,msg:redis connect success
+req_id:1488256400939743,date:2017-02-28 12:33:20,qt:default,msg:query info : []
+req_id:1488256478280167,date:2017-02-28 12:34:38,qt:default,msg:redis connect success
+req_id:1488256478280167,date:2017-02-28 12:34:38,qt:default,msg:query info : []
+req_id:1488256483796482,date:2017-02-28 12:34:43,qt:default,msg:redis connect success
+req_id:1488256483796482,date:2017-02-28 12:34:43,qt:default,msg:query info : []
+req_id:1488256778257325,date:2017-02-28 12:39:38,qt:default,msg:redis connect success
+req_id:1488256778257325,date:2017-02-28 12:39:38,qt:default,msg:query info : []
+req_id:1488260811491012,date:2017-02-28 13:46:51,qt:default,msg:redis connect success
+req_id:1488260811491012,date:2017-02-28 13:46:51,qt:default,msg:query info : []
+req_id:1488260906221431,date:2017-02-28 13:48:26,qt:default,msg:redis connect success
+req_id:1488260906221431,date:2017-02-28 13:48:26,qt:default,msg:query info : []
+req_id:1488260954280179,date:2017-02-28 13:49:14,qt:default,msg:redis connect success
+req_id:1488260954280179,date:2017-02-28 13:49:14,qt:default,msg:query info : []
+req_id:1488260990653260,date:2017-02-28 13:49:50,qt:default,msg:redis connect success
+req_id:1488260990653260,date:2017-02-28 13:49:50,qt:default,msg:query info : []
+req_id:1488261702178957,date:2017-02-28 14:01:42,qt:register,msg:query info : null
+req_id:1488261724998262,date:2017-02-28 14:02:05,qt:register,msg:query info : null
+req_id:1488263416177992,date:2017-02-28 14:30:16,qt:open_account,msg:query info : null
+req_id:1488263808863452,date:2017-02-28 14:36:48,qt:default,msg:query info : {"type":"admin"}
+req_id:1488264114605940,date:2017-02-28 14:41:54,qt:default,msg:query info : {"type":"admin"}
+req_id:1488264136848212,date:2017-02-28 14:42:16,qt:default,msg:query info : {"type":"admin"}
+req_id:1488265474268708,date:2017-02-28 15:04:34,qt:default,msg:query info : {"type":"admin"}
+req_id:1488266299979936,date:2017-02-28 15:18:19,qt:default,msg:query info : {"type":"admin"}
+req_id:1488266312663661,date:2017-02-28 15:18:32,qt:default,msg:query info : {"type":"admin"}
+req_id:1488268424442448,date:2017-02-28 15:53:44,qt:default,msg:redis connect success
+req_id:1488268424442448,date:2017-02-28 15:53:44,qt:default,msg:query info : []
+req_id:14882685202914,date:2017-02-28 15:55:20,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488268575325078,date:2017-02-28 15:56:15,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488268591346995,date:2017-02-28 15:56:31,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:148826874928013,date:2017-02-28 15:59:09,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488268752231197,date:2017-02-28 15:59:12,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488268753668279,date:2017-02-28 15:59:13,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488269403573451,date:2017-02-28 16:10:03,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488270055298728,date:2017-02-28 16:20:55,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:148827008585432,date:2017-02-28 16:21:25,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488270163791933,date:2017-02-28 16:22:43,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","province":"\u5317\u4eac","city":"\u5317\u4eac","county":"\u6d77\u6dc0","parent_id":"1","type":"department"}
+req_id:1488270184813136,date:2017-02-28 16:23:04,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","province":"\u5317\u4eac","city":"\u5317\u4eac","county":"\u6d77\u6dc0","parent_id":"1","type":"department"}
+req_id:1488270185985203,date:2017-02-28 16:23:05,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","province":"\u5317\u4eac","city":"\u5317\u4eac","county":"\u6d77\u6dc0","parent_id":"1","type":"department"}
+req_id:1488270189556407,date:2017-02-28 16:23:09,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","province":"\u5317\u4eac","city":"\u5317\u4eac","county":"\u6d77\u6dc0","parent_id":"0","type":"department"}
+req_id:1488270190781477,date:2017-02-28 16:23:10,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","province":"\u5317\u4eac","city":"\u5317\u4eac","county":"\u6d77\u6dc0","parent_id":"0","type":"department"}
+req_id:1488270191522519,date:2017-02-28 16:23:11,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","province":"\u5317\u4eac","city":"\u5317\u4eac","county":"\u6d77\u6dc0","parent_id":"0","type":"department"}
+req_id:1488270353987812,date:2017-02-28 16:25:53,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","province":"\u5317\u4eac","city":"\u5317\u4eac","county":"\u6d77\u6dc0","type":"department"}
+req_id:1488270363927380,date:2017-02-28 16:26:03,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","province":"\u5317\u4eac","city":"\u5317\u4eac","county":"\u6d77\u6dc0","type":"department"}
+req_id:1488270372813889,date:2017-02-28 16:26:12,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","province":"\u5317\u4eac","city":"\u5317\u4eac","county":"\u6d77\u6dc0","type":"department"}
+req_id:1488270421172655,date:2017-02-28 16:27:01,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","province":"\u5317\u4eac","city":"\u5317\u4eac","county":"\u6d77\u6dc0","parent_id":"0","type":"department"}
+req_id:1488270434126396,date:2017-02-28 16:27:14,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","province":"\u5317\u4eac","city":"\u5317\u4eac","county":"\u6d77\u6dc0","parent_id":"0","type":"department"}
+req_id:1488270451693400,date:2017-02-28 16:27:31,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488274501346027,date:2017-02-28 17:35:01,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488274628772316,date:2017-02-28 17:37:08,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488274802578257,date:2017-02-28 17:40:02,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488274877609548,date:2017-02-28 17:41:17,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488274877609548,date:2017-02-28 17:41:17,qt:default,msg:INSERT INTO `eval_admin`(('xujian','xujian','xujian')
+req_id:1488274877609548,date:2017-02-28 17:41:17,qt:default,msg:mysql connection is closed!
+req_id:1488274877609548,date:2017-02-28 17:41:17,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488274931942656,date:2017-02-28 17:42:11,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488274931942656,date:2017-02-28 17:42:11,qt:default,msg:INSERT INTO `eval_admin`(('xujian','xujian','xujian')
+req_id:1488274931942656,date:2017-02-28 17:42:11,qt:default,msg:mysql connection is closed!
+req_id:1488274931942656,date:2017-02-28 17:42:11,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:148827495592980,date:2017-02-28 17:42:35,qt:default,msg:db_conf_key db1 Connect success !
+req_id:148827495592980,date:2017-02-28 17:42:35,qt:default,msg:INSERT INTO `eval_admin`(('xujian','xujian','xujian')
+req_id:148827495592980,date:2017-02-28 17:42:35,qt:default,msg:mysql connection is closed!
+req_id:148827495592980,date:2017-02-28 17:42:35,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488274972293964,date:2017-02-28 17:42:52,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488274972293964,date:2017-02-28 17:42:52,qt:default,msg:INSERT INTO `eval_admin`(('xujian','xujian','xujian')
+req_id:1488274972293964,date:2017-02-28 17:42:52,qt:default,msg:mysql connection is closed!
+req_id:1488274972293964,date:2017-02-28 17:42:52,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:148827531198342,date:2017-02-28 17:48:31,qt:default,msg:db_conf_key db1 Connect success !
+req_id:148827531198342,date:2017-02-28 17:48:31,qt:default,msg:INSERT INTO `eval_admin`(('xujian','xujian','xujian')
+req_id:148827531198342,date:2017-02-28 17:48:31,qt:default,msg:mysql connection is closed!
+req_id:148827531198342,date:2017-02-28 17:48:31,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488275326670233,date:2017-02-28 17:48:46,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488275326670233,date:2017-02-28 17:48:46,qt:default,msg:INSERT INTO `eval_admin`(('xujian','xujian','xujian')
+req_id:1488275326670233,date:2017-02-28 17:48:46,qt:default,msg:mysql connection is closed!
+req_id:1488275326670233,date:2017-02-28 17:48:46,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488275394915136,date:2017-02-28 17:49:54,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488275394915136,date:2017-02-28 17:49:54,qt:default,msg:INSERT INTO `eval_admin`(('xujian','xujian','xujian')
+req_id:1488275394915136,date:2017-02-28 17:49:54,qt:default,msg:mysql connection is closed!
+req_id:1488275394915136,date:2017-02-28 17:49:54,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488275541155501,date:2017-02-28 17:52:21,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488275541155501,date:2017-02-28 17:52:21,qt:default,msg:INSERT INTO `eval_admin`(('xujian','xujian','xujian')
+req_id:1488275541155501,date:2017-02-28 17:52:21,qt:default,msg:mysql connection is closed!
+req_id:1488275541155501,date:2017-02-28 17:52:21,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488275584377973,date:2017-02-28 17:53:04,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488275584377973,date:2017-02-28 17:53:04,qt:default,msg:INSERT INTO `eval_admin`(('xujian','xujian','xujian')
+req_id:1488275584377973,date:2017-02-28 17:53:04,qt:default,msg:mysql connection is closed!
+req_id:1488275584377973,date:2017-02-28 17:53:04,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488275605461179,date:2017-02-28 17:53:25,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488275605461179,date:2017-02-28 17:53:25,qt:default,msg:INSERT INTO `eval_admin`(('xujian','xujian','xujian')
+req_id:1488275605461179,date:2017-02-28 17:53:25,qt:default,msg:mysql connection is closed!
+req_id:1488275605461179,date:2017-02-28 17:53:25,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488275619471980,date:2017-02-28 17:53:39,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488275619471980,date:2017-02-28 17:53:39,qt:default,msg:INSERT INTO `eval_admin`(('xujian','xujian','xujian')
+req_id:1488275619471980,date:2017-02-28 17:53:39,qt:default,msg:mysql connection is closed!
+req_id:1488275619471980,date:2017-02-28 17:53:39,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488275648203624,date:2017-02-28 17:54:08,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488275648203624,date:2017-02-28 17:54:08,qt:default,msg:INSERT INTO `eval_admin`(('xujian','xujian','xujian')
+req_id:1488275648203624,date:2017-02-28 17:54:08,qt:default,msg:mysql connection is closed!
+req_id:1488275648203624,date:2017-02-28 17:54:08,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488275680602477,date:2017-02-28 17:54:40,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488275680602477,date:2017-02-28 17:54:40,qt:default,msg:INSERT INTO `eval_admin`(('xujian','xujian','xujian')
+req_id:1488275680602477,date:2017-02-28 17:54:40,qt:default,msg:mysql connection is closed!
+req_id:1488275680602477,date:2017-02-28 17:54:40,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488275813390072,date:2017-02-28 17:56:53,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488275813390072,date:2017-02-28 17:56:53,qt:default,msg:INSERT INTO `eval_admin`(`account`, `passwd`, `name`, `level`, `create_time`) VALUES('xujian','xujian','xujian')
+req_id:1488275813390072,date:2017-02-28 17:56:53,qt:default,msg:mysql connection is closed!
+req_id:1488275813390072,date:2017-02-28 17:56:53,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488275912151721,date:2017-02-28 17:58:32,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488275912151721,date:2017-02-28 17:58:32,qt:default,msg:INSERT INTO `eval_admin`(`account`, `passwd`, `name`, `level`, `create_time`) VALUES('xujian','xujian','xujian')
+req_id:1488275912151721,date:2017-02-28 17:58:32,qt:default,msg:mysql connection is closed!
+req_id:1488275912151721,date:2017-02-28 17:58:32,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488276575762677,date:2017-02-28 18:09:35,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488276575762677,date:2017-02-28 18:09:35,qt:default,msg:INSERT INTO `eval_admin`(`account`, `passwd`, `name`, `level`, `create_time`) VALUES('xujian','xujian','xujian',1,'2017-02-28 18:09:35')
+req_id:1488276575762677,date:2017-02-28 18:09:35,qt:default,msg:mysql connection is closed!
+req_id:1488276802358638,date:2017-02-28 18:13:22,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488276802358638,date:2017-02-28 18:13:22,qt:default,msg:INSERT INTO `eval_admin`(`account`, `passwd`, `name`, `level`) VALUES(),(),(),()
+req_id:1488276802358638,date:2017-02-28 18:13:22,qt:default,msg:mysql connection is closed!
+req_id:1488276863337125,date:2017-02-28 18:14:23,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488276863337125,date:2017-02-28 18:14:23,qt:default,msg:INSERT INTO `eval_admin`(`account`, `passwd`, `name`, `level`) VALUES('xujian','xujian','xujian',1)
+req_id:1488276863337125,date:2017-02-28 18:14:23,qt:default,msg:mysql connection is closed!
+req_id:148827725748644,date:2017-02-28 18:20:57,qt:default,msg:db_conf_key db1 Connect success !
+req_id:148827725748644,date:2017-02-28 18:20:57,qt:default,msg:INSERT INTO `eval_admin`(`account`, `passwd`, `name`, `level`) VALUES('xujian','xujian','xujian',1)
+req_id:148827725748644,date:2017-02-28 18:20:57,qt:default,msg:mysql connection is closed!
+req_id:148827725748644,date:2017-02-28 18:20:57,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:148827733010818,date:2017-02-28 18:22:10,qt:default,msg:db_conf_key db1 Connect success !
+req_id:148827733010818,date:2017-02-28 18:22:10,qt:default,msg:INSERT INTO `eval_admin`(`account`, `passwd`, `name`, `level`) VALUES('xujian','xujian','xujian',1)
+req_id:148827733010818,date:2017-02-28 18:22:10,qt:default,msg:mysql connection is closed!
+req_id:148827733010818,date:2017-02-28 18:22:10,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:14882774249194,date:2017-02-28 18:23:44,qt:default,msg:db_conf_key db1 Connect success !
+req_id:14882774249194,date:2017-02-28 18:23:44,qt:default,msg:INSERT INTO `eval_admin`(`account`, `passwd`, `name`, `level`) VALUES('xujian','xujian','xujian',1)
+req_id:14882774249194,date:2017-02-28 18:23:44,qt:default,msg:mysql connection is closed!
+req_id:14882774249194,date:2017-02-28 18:23:44,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488277435552854,date:2017-02-28 18:23:55,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488277435552854,date:2017-02-28 18:23:55,qt:default,msg:INSERT INTO `eval_admin`(`account`, `passwd`, `name`, `level`) VALUES('xujian','xujian','xujian',1)
+req_id:1488277435552854,date:2017-02-28 18:23:55,qt:default,msg:mysql connection is closed!
+req_id:1488277435552854,date:2017-02-28 18:23:55,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488277542520972,date:2017-02-28 18:25:42,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488277542520972,date:2017-02-28 18:25:42,qt:default,msg:INSERT INTO `eval_admin`(`account`, `passwd`, `name`, `level`) VALUES('xujian','xujian','xujian',1)
+req_id:1488277542520972,date:2017-02-28 18:25:42,qt:default,msg:mysql connection is closed!
+req_id:1488277542520972,date:2017-02-28 18:25:42,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488277571153610,date:2017-02-28 18:26:11,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488277571153610,date:2017-02-28 18:26:11,qt:default,msg:INSERT INTO `eval_admin`(`account`, `passwd`, `name`, `level`) VALUES('xujian','xujian','xujian',1)
+req_id:1488277571153610,date:2017-02-28 18:26:11,qt:default,msg:mysql connection is closed!
+req_id:1488277571153610,date:2017-02-28 18:26:11,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:148827758716517,date:2017-02-28 18:26:27,qt:default,msg:db_conf_key db1 Connect success !
+req_id:148827758716517,date:2017-02-28 18:26:27,qt:default,msg:INSERT INTO `eval_admin`(`account`, `passwd`, `name`, `level`) VALUES('xujian','xujian','xujian',1)
+req_id:148827758716517,date:2017-02-28 18:26:27,qt:default,msg:mysql connection is closed!
+req_id:148827758716517,date:2017-02-28 18:26:27,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488277701214049,date:2017-02-28 18:28:21,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488277701214049,date:2017-02-28 18:28:21,qt:default,msg:INSERT INTO `eval_admin`(`account`, `passwd`, `name`, `level`) VALUES('xujian','xujian','xujian',1)
+req_id:1488277701214049,date:2017-02-28 18:28:21,qt:default,msg:mysql connection is closed!
+req_id:1488277701214049,date:2017-02-28 18:28:21,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488277703658189,date:2017-02-28 18:28:23,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488277703658189,date:2017-02-28 18:28:23,qt:default,msg:INSERT INTO `eval_admin`(`account`, `passwd`, `name`, `level`) VALUES('xujian','xujian','xujian',1)
+req_id:1488277703658189,date:2017-02-28 18:28:23,qt:default,msg:mysql connection is closed!
+req_id:1488277703658189,date:2017-02-28 18:28:23,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488277704834256,date:2017-02-28 18:28:24,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488277704834256,date:2017-02-28 18:28:24,qt:default,msg:INSERT INTO `eval_admin`(`account`, `passwd`, `name`, `level`) VALUES('xujian','xujian','xujian',1)
+req_id:1488277704834256,date:2017-02-28 18:28:24,qt:default,msg:mysql connection is closed!
+req_id:1488277704834256,date:2017-02-28 18:28:24,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488277705643303,date:2017-02-28 18:28:25,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488277705643303,date:2017-02-28 18:28:25,qt:default,msg:INSERT INTO `eval_admin`(`account`, `passwd`, `name`, `level`) VALUES('xujian','xujian','xujian',1)
+req_id:1488277705643303,date:2017-02-28 18:28:25,qt:default,msg:mysql connection is closed!
+req_id:1488277705643303,date:2017-02-28 18:28:25,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:14882777089438,date:2017-02-28 18:28:28,qt:default,msg:db_conf_key db1 Connect success !
+req_id:14882777089438,date:2017-02-28 18:28:28,qt:default,msg:INSERT INTO `eval_admin`(`account`, `passwd`, `name`, `level`) VALUES('xujian','xujian','xujian',1)
+req_id:14882777089438,date:2017-02-28 18:28:28,qt:default,msg:mysql connection is closed!
+req_id:14882777089438,date:2017-02-28 18:28:28,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488277731374774,date:2017-02-28 18:28:51,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488277731374774,date:2017-02-28 18:28:51,qt:default,msg:INSERT INTO `eval_admin`(`account`, `passwd`, `name`, `level`) VALUES('xujian','xujian','xujian',1)
+req_id:1488277731374774,date:2017-02-28 18:28:51,qt:default,msg:mysql connection is closed!
+req_id:1488277731374774,date:2017-02-28 18:28:51,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488277752316972,date:2017-02-28 18:29:12,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488277752316972,date:2017-02-28 18:29:12,qt:default,msg:INSERT INTO `eval_admin`(`account`, `passwd`, `name`, `level`) VALUES('xujian','xujian','xujian',1)
+req_id:1488277752316972,date:2017-02-28 18:29:12,qt:default,msg:mysql connection is closed!
+req_id:1488277752316972,date:2017-02-28 18:29:12,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:148827775440071,date:2017-02-28 18:29:14,qt:default,msg:db_conf_key db1 Connect success !
+req_id:148827775440071,date:2017-02-28 18:29:14,qt:default,msg:INSERT INTO `eval_admin`(`account`, `passwd`, `name`, `level`) VALUES('xujian','xujian','xujian',1)
+req_id:148827775440071,date:2017-02-28 18:29:14,qt:default,msg:mysql connection is closed!
+req_id:148827775440071,date:2017-02-28 18:29:14,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:1488277755185136,date:2017-02-28 18:29:15,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488277755185136,date:2017-02-28 18:29:15,qt:default,msg:INSERT INTO `eval_admin`(`account`, `passwd`, `name`, `level`) VALUES('xujian','xujian','xujian',1)
+req_id:1488277755185136,date:2017-02-28 18:29:15,qt:default,msg:mysql connection is closed!
+req_id:1488277755185136,date:2017-02-28 18:29:15,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:148827777729386,date:2017-02-28 18:29:37,qt:default,msg:db_conf_key db1 Connect success !
+req_id:148827777729386,date:2017-02-28 18:29:37,qt:default,msg:INSERT INTO `eval_admin`(`account`, `passwd`, `name`, `level`) VALUES('xujian','xujian','xujian',1)
+req_id:148827777729386,date:2017-02-28 18:29:37,qt:default,msg:mysql connection is closed!
+req_id:148827777729386,date:2017-02-28 18:29:37,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","type":"admin"}
+req_id:148828167173112,date:2017-02-28 19:34:31,qt:default,msg:db_conf_key db1 Connect success !
+req_id:148828167173112,date:2017-02-28 19:34:31,qt:default,msg:INSERT INTO `eval_department`(`account`, `passwd`, `name`, `province`, `city`, `county`, `parent_id`, `create_time`) VALUES('xujian','xujian','xujian','北京','北京','海淀',0,'2017-02-28 19:34:31')
+req_id:148828167173112,date:2017-02-28 19:34:31,qt:default,msg:mysql connection is closed!
+req_id:148828167173112,date:2017-02-28 19:34:31,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","province":"\u5317\u4eac","city":"\u5317\u4eac","county":"\u6d77\u6dc0","parent_id":"0","type":"department"}
+req_id:1488281827540062,date:2017-02-28 19:37:07,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488281827540062,date:2017-02-28 19:37:07,qt:default,msg:INSERT INTO `eval_department`(`account`, `passwd`, `name`, `province`, `city`, `county`, `parent_id`, `create_time`) VALUES('xujian','xujian','xujian','北京','北京','海淀',0,'2017-02-28 19:37:07')
+req_id:1488281827540062,date:2017-02-28 19:37:07,qt:default,msg:mysql connection is closed!
+req_id:1488281827540062,date:2017-02-28 19:37:07,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","province":"\u5317\u4eac","city":"\u5317\u4eac","county":"\u6d77\u6dc0","parent_id":"0","type":"department"}
+req_id:14882818309203,date:2017-02-28 19:37:10,qt:default,msg:db_conf_key db1 Connect success !
+req_id:14882818309203,date:2017-02-28 19:37:10,qt:default,msg:INSERT INTO `eval_department`(`account`, `passwd`, `name`, `province`, `city`, `county`, `parent_id`, `create_time`) VALUES('xujian','xujian','xujian','北京','北京','海淀',0,'2017-02-28 19:37:10')
+req_id:14882818309203,date:2017-02-28 19:37:10,qt:default,msg:mysql connection is closed!
+req_id:14882818309203,date:2017-02-28 19:37:10,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","province":"\u5317\u4eac","city":"\u5317\u4eac","county":"\u6d77\u6dc0","parent_id":"0","type":"department"}
+req_id:1488281831270275,date:2017-02-28 19:37:11,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488281831270275,date:2017-02-28 19:37:11,qt:default,msg:INSERT INTO `eval_department`(`account`, `passwd`, `name`, `province`, `city`, `county`, `parent_id`, `create_time`) VALUES('xujian','xujian','xujian','北京','北京','海淀',0,'2017-02-28 19:37:11')
+req_id:1488281831270275,date:2017-02-28 19:37:11,qt:default,msg:mysql connection is closed!
+req_id:1488281831270275,date:2017-02-28 19:37:11,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","province":"\u5317\u4eac","city":"\u5317\u4eac","county":"\u6d77\u6dc0","parent_id":"0","type":"department"}
+req_id:1488281832505346,date:2017-02-28 19:37:12,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488281832505346,date:2017-02-28 19:37:12,qt:default,msg:INSERT INTO `eval_department`(`account`, `passwd`, `name`, `province`, `city`, `county`, `parent_id`, `create_time`) VALUES('xujian','xujian','xujian','北京','北京','海淀',0,'2017-02-28 19:37:12')
+req_id:1488281832505346,date:2017-02-28 19:37:12,qt:default,msg:mysql connection is closed!
+req_id:1488281832505346,date:2017-02-28 19:37:12,qt:default,msg:query info : {"account":"xujian","passwd":"xujian","name":"xujian","province":"\u5317\u4eac","city":"\u5317\u4eac","county":"\u6d77\u6dc0","parent_id":"0","type":"department"}
+req_id:1488282035473955,date:2017-02-28 19:40:35,qt:register,msg:query info : null
+req_id:1488282150423529,date:2017-02-28 19:42:30,qt:default,msg:query info : null
+req_id:1488282547266228,date:2017-02-28 19:49:07,qt:default,msg:query info : {"account":"huashi","passwd":"huashi","name":"ccb","type":"school"}
+req_id:1488290067320350,date:2017-02-28 21:54:27,qt:default,msg:query info : {"account":"huashi","passwd":"huashi","name":"\u534e\u5e08\u9644\u5c0f","province":"\u6e56\u5317","city":"\u6b66\u6c49","county":"\u6d2a\u5c71","detail_addr":"\u534e\u5e08","stu_count":"3000","tea_count":"200","contacter":"\u5e38\u6625\u6ce2","phone":"13545891316","edu_depart_id":"1","type":"school","create_time":"2017-02-28 21:54:27"}
+req_id:1488290177521653,date:2017-02-28 21:56:17,qt:default,msg:query info : {"account":"huashi","passwd":"huashi","name":"\u534e\u5e08\u9644\u5c0f","province":"\u6e56\u5317","city":"\u6b66\u6c49","county":"\u6d2a\u5c71","detail_addr":"\u534e\u5e08","stu_count":"3000","tea_count":"200","contacter":"\u5e38\u6625\u6ce2","phone":"13545891316","edu_depart_id":"1","type":"school","create_time":"2017-02-28 21:56:17"}
+req_id:1488290293528288,date:2017-02-28 21:58:13,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488290293528288,date:2017-02-28 21:58:13,qt:default,msg:INSERT INTO `eval_school`(`account`, `passwd`, `name`, `province`, `city`, `county`, `detail_addr`, `stu_count`, `tea_count`, `contacter`, `phone`, `edu_depart_id`, `create_time`) VALUES('','','','','','','','','','','','','')
+req_id:1488290293528288,date:2017-02-28 21:58:13,qt:default,msg:mysql connection is closed!
+req_id:1488290293528288,date:2017-02-28 21:58:13,qt:default,msg:query info : {"account":"huashi","passwd":"huashi","name":"\u534e\u5e08\u9644\u5c0f","province":"\u6e56\u5317","city":"\u6b66\u6c49","county":"\u6d2a\u5c71","detail_addr":"\u534e\u5e08","stu_count":"3000","tea_count":"200","contacter":"\u5e38\u6625\u6ce2","phone":"13545891316","edu_depart_id":"1","type":"school","create_time":"2017-02-28 21:58:13"}

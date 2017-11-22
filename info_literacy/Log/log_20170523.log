@@ -1,0 +1,27 @@
+req_id:1495517229932617,date:2017-05-23 13:27:09,qt:login,msg:query info : null
+req_id:149551761357617,date:2017-05-23 13:33:33,qt:login,msg:db_conf_key db1 Connect success !
+req_id:149551761357617,date:2017-05-23 13:33:33,qt:login,msg:SELECT `account`, `passwd`, `name`, `level` FROM `eval_admin` WHERE account = 'admin' 
+req_id:149551761357617,date:2017-05-23 13:33:33,qt:login,msg:query info : null
+req_id:1495517613432617,date:2017-05-23 13:33:33,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1495517613432617,date:2017-05-23 13:33:33,qt:list,msg:SELECT `id`, `title` FROM `que_title` limit 0, 20
+req_id:1495517613432617,date:2017-05-23 13:33:33,qt:list,msg:query info : null
+req_id:1495517613510742,date:2017-05-23 13:33:33,qt:status,msg:db_conf_key db1 Connect success !
+req_id:1495517613510742,date:2017-05-23 13:33:33,qt:status,msg:SELECT count(*) num FROM que_question
+req_id:1495517613510742,date:2017-05-23 13:33:33,qt:status,msg:db_conf_key db1 Connect success !
+req_id:1495517613510742,date:2017-05-23 13:33:33,qt:status,msg:SELECT count(*) num FROM que_title
+req_id:1495517613510742,date:2017-05-23 13:33:33,qt:status,msg:query info : null
+req_id:1495517613651367,date:2017-05-23 13:33:33,qt:login,msg:query info : null
+req_id:1495517615588867,date:2017-05-23 13:33:35,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1495517615588867,date:2017-05-23 13:33:35,qt:list,msg:SELECT `id`, `content`, `type` FROM `que_question` limit 0, 10
+req_id:1495517615588867,date:2017-05-23 13:33:35,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1495517615588867,date:2017-05-23 13:33:35,qt:list,msg:SELECT `id`, `content`, `question_id`, `order` FROM `que_option` WHERE question_id in (1,2,3,4,5,6,7,8,9,10) 
+req_id:1495517615588867,date:2017-05-23 13:33:35,qt:list,msg:query info : null
+req_id:1495517615666992,date:2017-05-23 13:33:35,qt:status,msg:db_conf_key db1 Connect success !
+req_id:1495517615666992,date:2017-05-23 13:33:35,qt:status,msg:SELECT count(*) num FROM que_question
+req_id:1495517615666992,date:2017-05-23 13:33:35,qt:status,msg:db_conf_key db1 Connect success !
+req_id:1495517615666992,date:2017-05-23 13:33:35,qt:status,msg:SELECT count(*) num FROM que_title
+req_id:1495517615666992,date:2017-05-23 13:33:35,qt:status,msg:query info : null
+req_id:1495517615791992,date:2017-05-23 13:33:35,qt:login,msg:query info : null
+req_id:1495518390729492,date:2017-05-23 13:46:30,qt:login,msg:query info : null
+req_id:1495518390745117,date:2017-05-23 13:46:30,qt:login,msg:query info : null
+req_id:1495518390870117,date:2017-05-23 13:46:30,qt:login,msg:query info : null

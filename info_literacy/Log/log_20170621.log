@@ -1,0 +1,4 @@
+req_id:1498034979712375,date:2017-06-21 16:49:39,qt:login,msg:query info : null
+req_id:1498034989306125,date:2017-06-21 16:49:49,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1498034989306125,date:2017-06-21 16:49:49,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `edu_depart_id` FROM `eval_school` WHERE account = '123456' 
+req_id:1498034989306125,date:2017-06-21 16:49:49,qt:login,msg:query info : null

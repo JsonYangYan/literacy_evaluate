@@ -1,0 +1,151 @@
+req_id:150586948166141,date:2017-09-20 09:04:41,qt:login,msg:query info : null
+req_id:1505869491979309,date:2017-09-20 09:04:52,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505869491979309,date:2017-09-20 09:04:52,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505869491979309,date:2017-09-20 09:04:52,qt:login,msg:query info : null
+req_id:1505869500121810,date:2017-09-20 09:05:00,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505869500121810,date:2017-09-20 09:05:00,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505869500121810,date:2017-09-20 09:05:00,qt:login,msg:query info : null
+req_id:1505869506794074,date:2017-09-20 09:05:06,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505869506794074,date:2017-09-20 09:05:06,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505869506794074,date:2017-09-20 09:05:06,qt:login,msg:query info : null
+req_id:1505869894105653,date:2017-09-20 09:11:34,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505869894105653,date:2017-09-20 09:11:34,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505869894105653,date:2017-09-20 09:11:34,qt:login,msg:query info : null
+req_id:1505870270736366,date:2017-09-20 09:17:50,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505870270736366,date:2017-09-20 09:17:50,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505870270736366,date:2017-09-20 09:17:50,qt:login,msg:query info : null
+req_id:1505870914478281,date:2017-09-20 09:28:34,qt:login,msg:query info : null
+req_id:1505870914509578,date:2017-09-20 09:28:34,qt:default,msg:query info : null
+req_id:1505870927302049,date:2017-09-20 09:28:48,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505870927302049,date:2017-09-20 09:28:48,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505870927302049,date:2017-09-20 09:28:48,qt:login,msg:query info : null
+req_id:150587118279414,date:2017-09-20 01:33:02,qt:login,msg:query info : null
+req_id:1505871192876855,date:2017-09-20 01:33:13,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505871192876855,date:2017-09-20 01:33:13,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505871192876855,date:2017-09-20 01:33:13,qt:login,msg:query info : null
+req_id:1505871508189871,date:2017-09-20 09:38:28,qt:login,msg:query info : null
+req_id:1505871523812387,date:2017-09-20 09:38:44,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505871523812387,date:2017-09-20 09:38:44,qt:login,msg:SELECT `account`, `passwd`, `name`, `level` FROM `eval_admin` WHERE account = 'admin' 
+req_id:1505871523812387,date:2017-09-20 09:38:44,qt:login,msg:query info : null
+req_id:1505874048426721,date:2017-09-20 10:20:49,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505874048426721,date:2017-09-20 10:20:49,qt:login,msg:SELECT `account`, `passwd`, `name`, `level` FROM `eval_admin` WHERE account = 'admin' 
+req_id:1505874048426721,date:2017-09-20 10:20:49,qt:login,msg:query info : null
+req_id:1505876332869476,date:2017-09-20 10:58:52,qt:login,msg:query info : null
+req_id:1505876343210477,date:2017-09-20 10:59:04,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505876343210477,date:2017-09-20 10:59:04,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505876343210477,date:2017-09-20 10:59:04,qt:login,msg:query info : null
+req_id:1505876344509027,date:2017-09-20 10:59:04,qt:login,msg:query info : null
+req_id:1505876349767726,date:2017-09-20 10:59:10,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1505876349767726,date:2017-09-20 10:59:10,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1505876349767726,date:2017-09-20 10:59:11,qt:list,msg:query info : null
+req_id:1505876353307511,date:2017-09-20 10:59:13,qt:login,msg:query info : null
+req_id:1505876402261008,date:2017-09-20 11:00:02,qt:login,msg:query info : null
+req_id:1505876403638994,date:2017-09-20 11:00:04,qt:list,msg:db_conf_key db1 Connect success !
+req_id:1505876403638994,date:2017-09-20 11:00:04,qt:list,msg:SELECT `id`, `content`, `weight`, `parent_id` FROM `eval_index`
+req_id:1505876403638994,date:2017-09-20 11:00:04,qt:list,msg:query info : null
+req_id:150587640724174,date:2017-09-20 11:00:07,qt:login,msg:query info : null
+req_id:1505876407815796,date:2017-09-20 11:00:07,qt:login,msg:query info : null
+req_id:1505876408703530,date:2017-09-20 11:00:08,qt:login,msg:query info : null
+req_id:1505876410582985,date:2017-09-20 11:00:10,qt:login,msg:query info : null
+req_id:1505876411624612,date:2017-09-20 11:00:11,qt:login,msg:query info : null
+req_id:1505876480167652,date:2017-09-20 11:01:20,qt:login,msg:query info : null
+req_id:150587648170716,date:2017-09-20 11:01:21,qt:login,msg:query info : null
+req_id:1505876744657102,date:2017-09-20 11:05:44,qt:default,msg:query info : null
+req_id:1505876933495104,date:2017-09-20 11:08:53,qt:login,msg:query info : null
+req_id:1505876939565550,date:2017-09-20 11:08:59,qt:login,msg:query info : null
+req_id:1505877059483762,date:2017-09-20 03:10:59,qt:login,msg:query info : null
+req_id:1505877094630396,date:2017-09-20 03:11:35,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505877094630396,date:2017-09-20 03:11:35,qt:login,msg:SELECT `account`, `passwd`, `name` FROM `eval_student` WHERE account = 'yanshi' 
+req_id:1505877094630396,date:2017-09-20 03:11:35,qt:login,msg:query info : null
+req_id:1505877113389180,date:2017-09-20 03:11:54,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505877113389180,date:2017-09-20 03:11:54,qt:login,msg:SELECT `account`, `passwd`, `name` FROM `eval_student` WHERE account = 'yanshi' 
+req_id:1505877113389180,date:2017-09-20 03:11:54,qt:login,msg:query info : null
+req_id:1505877176720802,date:2017-09-20 03:12:56,qt:login,msg:query info : null
+req_id:1505877197262497,date:2017-09-20 03:13:18,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505877197262497,date:2017-09-20 03:13:18,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505877197262497,date:2017-09-20 03:13:18,qt:login,msg:query info : null
+req_id:1505877215228903,date:2017-09-20 03:13:36,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505877215228903,date:2017-09-20 03:13:36,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505877215228903,date:2017-09-20 03:13:36,qt:login,msg:query info : null
+req_id:1505877266483755,date:2017-09-20 03:14:26,qt:login,msg:query info : null
+req_id:1505877282549871,date:2017-09-20 03:14:43,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505877282549871,date:2017-09-20 03:14:43,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505877282549871,date:2017-09-20 03:14:43,qt:login,msg:query info : null
+req_id:1505877342198954,date:2017-09-20 03:15:42,qt:login,msg:query info : null
+req_id:1505877734873171,date:2017-09-20 03:22:14,qt:login,msg:query info : null
+req_id:1505877750926922,date:2017-09-20 03:22:30,qt:login,msg:query info : null
+req_id:1505877763118159,date:2017-09-20 03:22:43,qt:login,msg:query info : null
+req_id:1505877777981043,date:2017-09-20 03:22:58,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505877777981043,date:2017-09-20 03:22:59,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505877777981043,date:2017-09-20 03:22:59,qt:login,msg:query info : null
+req_id:1505878035802077,date:2017-09-20 03:27:16,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505878035802077,date:2017-09-20 03:27:16,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505878035802077,date:2017-09-20 03:27:16,qt:login,msg:query info : null
+req_id:1505895464666864,date:2017-09-20 08:17:44,qt:login,msg:query info : null
+req_id:1505895473656876,date:2017-09-20 08:17:53,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505895473656876,date:2017-09-20 08:17:53,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505895473656876,date:2017-09-20 08:17:53,qt:login,msg:query info : null
+req_id:1505895482262466,date:2017-09-20 08:18:02,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505895482262466,date:2017-09-20 08:18:02,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505895482262466,date:2017-09-20 08:18:02,qt:login,msg:query info : null
+req_id:150589551262543,date:2017-09-20 08:18:32,qt:login,msg:db_conf_key db1 Connect success !
+req_id:150589551262543,date:2017-09-20 08:18:32,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:150589551262543,date:2017-09-20 08:18:32,qt:login,msg:query info : null
+req_id:15059080476918,date:2017-09-20 11:47:27,qt:login,msg:query info : null
+req_id:1505908057556747,date:2017-09-20 11:47:37,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505908057556747,date:2017-09-20 11:47:37,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505908057556747,date:2017-09-20 11:47:37,qt:login,msg:query info : null
+req_id:1505909075922847,date:2017-09-20 20:04:35,qt:login,msg:query info : null
+req_id:1505909080199629,date:2017-09-20 20:04:40,qt:login,msg:query info : null
+req_id:1505909093669701,date:2017-09-20 20:04:53,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505909093669701,date:2017-09-20 20:04:53,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505909093669701,date:2017-09-20 20:04:53,qt:login,msg:query info : null
+req_id:1505909358527,date:2017-09-20 20:09:18,qt:login,msg:query info : null
+req_id:1505909378456458,date:2017-09-20 20:09:38,qt:login,msg:query info : null
+req_id:1505909388944308,date:2017-09-20 20:09:48,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505909388944308,date:2017-09-20 20:09:48,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505909388944308,date:2017-09-20 20:09:49,qt:login,msg:query info : null
+req_id:1505909399252524,date:2017-09-20 20:09:59,qt:login,msg:query info : null
+req_id:1505909407648712,date:2017-09-20 20:10:07,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505909407648712,date:2017-09-20 20:10:07,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505909407648712,date:2017-09-20 20:10:07,qt:login,msg:query info : null
+req_id:1505909411248456,date:2017-09-20 20:10:11,qt:login,msg:query info : null
+req_id:150590942156772,date:2017-09-20 20:10:21,qt:login,msg:db_conf_key db1 Connect success !
+req_id:150590942156772,date:2017-09-20 20:10:21,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:150590942156772,date:2017-09-20 20:10:21,qt:login,msg:query info : null
+req_id:1505910395920893,date:2017-09-20 20:26:35,qt:login,msg:query info : null
+req_id:1505910395980860,date:2017-09-20 20:26:35,qt:login,msg:query info : null
+req_id:150591039688702,date:2017-09-20 20:26:36,qt:login,msg:query info : null
+req_id:150591041370518,date:2017-09-20 20:26:53,qt:login,msg:db_conf_key db1 Connect success !
+req_id:150591041370518,date:2017-09-20 20:26:53,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:150591041370518,date:2017-09-20 20:26:53,qt:login,msg:query info : null
+req_id:1505910497493461,date:2017-09-20 20:28:17,qt:login,msg:query info : null
+req_id:1505910506377126,date:2017-09-20 20:28:26,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505910506377126,date:2017-09-20 20:28:26,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505910506377126,date:2017-09-20 20:28:26,qt:login,msg:query info : null
+req_id:1505910515929787,date:2017-09-20 20:28:35,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505910515929787,date:2017-09-20 20:28:35,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505910515929787,date:2017-09-20 20:28:35,qt:login,msg:query info : null
+req_id:1505910723233331,date:2017-09-20 20:32:03,qt:login,msg:query info : null
+req_id:1505910738572858,date:2017-09-20 20:32:18,qt:login,msg:query info : null
+req_id:1505910758180177,date:2017-09-20 20:32:38,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505910758180177,date:2017-09-20 20:32:38,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505910758180177,date:2017-09-20 20:32:38,qt:login,msg:query info : null
+req_id:1505912662397171,date:2017-09-20 21:04:22,qt:login,msg:query info : null
+req_id:1505912668241218,date:2017-09-20 21:04:28,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505912668241218,date:2017-09-20 21:04:28,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505912668241218,date:2017-09-20 21:04:28,qt:login,msg:query info : null
+req_id:1505912689454651,date:2017-09-20 21:04:49,qt:login,msg:query info : null
+req_id:1505912703848318,date:2017-09-20 21:05:03,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505912703848318,date:2017-09-20 21:05:03,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505912703848318,date:2017-09-20 21:05:03,qt:login,msg:query info : null
+req_id:15059127719339,date:2017-09-20 21:06:11,qt:login,msg:query info : null
+req_id:1505912779976816,date:2017-09-20 21:06:19,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505912779976816,date:2017-09-20 21:06:19,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505912779976816,date:2017-09-20 21:06:20,qt:login,msg:query info : null
+req_id:1505913598428081,date:2017-09-20 21:19:58,qt:login,msg:query info : null
+req_id:1505913610362807,date:2017-09-20 21:20:10,qt:login,msg:db_conf_key db1 Connect success !
+req_id:1505913610362807,date:2017-09-20 21:20:10,qt:login,msg:SELECT `id`, `account`, `passwd`, `name`, `parent_id` FROM `eval_department` WHERE account = 'yanshi' 
+req_id:1505913610362807,date:2017-09-20 21:20:10,qt:login,msg:query info : null
+req_id:1505913654591315,date:2017-09-20 21:20:54,qt:login,msg:query info : null
+req_id:1505913706143036,date:2017-09-20 21:21:46,qt:login,msg:query info : null

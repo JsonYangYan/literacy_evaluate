@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="css/base.css" />
+		<link rel="stylesheet" href="css/question.css" />
+		<link rel="stylesheet" href="css/page.css" />
+		<script type="text/javascript" src="js/jquery1.8.2.min.js" ></script>
+		<script type="text/javascript" src="js/base.js" ></script>
+		<script type="text/javascript" src="js/trimpath.js" ></script>
+		<script type="text/javascript" src="js/paging.js" ></script>
+		<title></title>
+	</head>
+	<body>
+		<div class="header">
+			<h1 class="">高中生信息素养测评系统</h1>
+			<span id="go_cancel" onclick="goCancle()">退出</span>
+			<span id="go_back" onclick="comeBack()">返回</span>
+			<span id="type">欢迎您</span>
+		</div>
+		
+		<div id="container"> 
+			<div class="header_title"></div>
+			 <input type="hidden" name="flag" value="0">
+			<div class="tab_content2">
+				<div id="question"></div>
+				<div id="page_numbers"></div>
+			</div>
+			
+		</div>
+		
+		<div class="bottom_content">
+			<!--倒计时-->
+			<div></div>
+			<!--进度条-->
+          <div class="barbox">
+              <div class="barline">
+              	<div style="width:0px;" class="charts"> </div>
+              </div>
+              <div class="last">0%</div>
+          </div>
+	
+		<!-- 	提交问卷		 -->
+		
+		<div class="answer_button" >
+			<button type="submit" name="submit_button" id="submit_button">提&nbsp;&nbsp;&nbsp;&nbsp;交</button>
+		</div>
+	</div>
+		<div id="footer">
+			<div style="line-height: 30px;text-align: center;color: #fff;padding-top: 20px;font-size:14px">
+			教育部教育信息化战略研究基地（华中） <br />
+			联系地址：湖北 武汉 珞喻路152号 华中师范大学科学会堂501 邮编：430079
+			</div>
+		</div>
+		
+		<!--trippath 模板-->
+		<div id="list_template" style="display:none">
+			{for s in schoolData}
+				{if s.type ==2}<!--多选题-->
+			 <ul class="ques_contain" style="vertical-align: top">                                    
+		              <li class="question_title">
+		                  <span>${s.num}、${s.content}?</span> 
+		             </li>  
+		            <div class="clear"> </div>
+		               <ul class="checkbox_contain">
+						<!--多选显示形式-->
+						{for q in s.options}
+		                  <li class="multi_content">
+		                     <span>
+		                     	<input type="checkbox" value="${q.order}" name="${s.question_id}" class="multi_choice" onclick="textbox_change(this); "></span>                                                                                                                      
+		                      <span>${q.order}.${q.content}</span>
+		                 </li>
+						{/for}
+		        	</ul>
+		        <div class="clear"> </div>
+		        <div class="errorAnswer"> </div>
+	        </ul>
+        {/if}
+        <!--单选题-->
+        {if s.type==1}
+	        <ul class="ques_contain"  num="0" style="vertical-align: top">                                    
+	              <li class="question_title">  
+	                  <span>${s.num}、${s.content}?</span> 
+	             </li>                      
+		        <div class="clear"> </div>
+		        <ul class="radio_contain">
+				<!--单选显示形式-->  
+				{for q in s.options}
+		              <li>    
+		                  <span>
+		                   <input type="radio" value="${q.order}" name="${s.question_id}" onclick="radio_change(this); ">
+		                  </span>                           
+		                <span>${q.order}.${q.content}</span>
+		              </li>
+					{/for}
+		        </ul>
+	        </ul>
+	        {/if}
+	        {/for}
+		</div>
+		<script type="text/javascript" src="js/question.js" ></script>
+	</body>
+</html>

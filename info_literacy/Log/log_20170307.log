@@ -1,0 +1,3 @@
+req_id:1488850691568132,date:2017-03-07 09:38:11,qt:register,msg:db_conf_key db1 Connect success !
+req_id:1488850691568132,date:2017-03-07 09:38:11,qt:register,msg:INSERT INTO `eval_student`(`account`, `passwd`, `gender`, `school_id`, `grade`, `class`, `create_time`) VALUES('huashi','huashi','男','12','高一','高一（3）','2017-03-07 09:38:11')
+req_id:1488850691568132,date:2017-03-07 09:38:11,qt:register,msg:query info : null

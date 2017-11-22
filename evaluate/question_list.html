@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="css/qu_base.css" />
+		<link rel="stylesheet" href="css/question_list.css" />
+		<link rel="stylesheet" href="css/page.css" />
+		<script type="text/javascript" src="js/base.js" ></script>
+		<script type="text/javascript" src="js/jquery1.8.2.min.js" ></script>
+		<script type="text/javascript" src="js/trimpath.js" ></script>
+		<script type="text/javascript" src="js/paging.js" ></script>
+		<title>问题列表</title>
+	</head>
+	<body>
+		<div class="header">
+			<h1>高中生信息素养测评系统</h1>
+			<span class="nav"><a href="qu_paper.html" target="_self">试卷列表</a></span>
+			<span class="nav nav_active"><a href="question_list.html" target="_self">问题列表</a></span>
+			<span class="nav"><a href="add_question.html">添加问题</a></span>
+			<span id="go_cancel" onclick="goCancle()">退出</span>
+			<span id="type">欢迎您</span>
+		</div>
+		<div id="container">
+			<div class="tab_content2">
+				<div id="question">
+		        	<div id="ques_content"></div>
+		        </div>
+				<div id="page_numbers"></div>
+			</div>
+		</div>
+		<footer id="footer">
+			<div style="line-height: 30px;text-align: center;color: #fff;padding-top: 20px;font-size:14px">
+			教育部教育信息化战略研究基地（华中） <br />
+			联系地址：湖北 武汉 珞喻路152号 华中师范大学科学会堂501 邮编：430079
+			</div>
+		</footer>
+		<div id="list_template" style="display: none;">
+						
+			{var i=1}
+			{for qu in schoolData}
+			<div class="ques_part">
+				<div class="question_title">
+					<span>${qu.question_id}.</span>
+					<span>${qu.content}</span>
+					<span class="hide"><input type="text" value="${qu.content}" class="input_title"></span>
+					<span>?({if qu.type==1}单选{else}多选{/if})</span>
+					<span class="hide"><select class="select">{if qu.type==1}<option value="1" selected="selected">单选</option><option value="2">多选</option>{else}<option value="1" >单选</option><option value="2" selected="selected">多选</option>{/if}</select></span>
+					<span class="btn edit_title" onclick="editTitle(this)">编辑题目</span>
+					<span class="btn hide save_title" que_id="${qu.question_id}" onclick="saveTitle(this)">保存</span>
+					<span class="btn hide cancel_title" onclick="cancelTitle(this)">取消</span>
+					<span class="btn add_option" onclick="addOption(this)">添加选项</span>
+				</div>
+				{for option in qu.options}
+					<div class="question_opt" que_id="${qu.question_id}">
+						<span>${option.order}、</span>
+						<span class="hide order"><input type="text" value="${option.order}"></span>
+						<span>${option.content}</span>
+						<span class="hide option"><input type="text" value="${option.content}"></span>
+						<span class="btn edit_option" onclick="editOption(this)">编辑</span>
+						<span class="btn hide" option_id="${option.option_id}" que_id="${qu.question_id}" onclick="saveOption(this)">保存</span>
+						<span class="hide btn inpu_cancel" onclick="inpuCancel(this)">取消</span>
+						<span class="btn" option_id="${option.option_id}" onclick="delOption(this)">删除</span>
+					</div>
+				{/for}
+				<!--<div class="question_opt">
+					<span class="order"><input type="text" ></span>
+					<span class="option"><input type="text"/></span>
+					<span class="btn save">保存</span>
+					<span class="btn cancel">取消</span>
+				</div>-->
+			</div>
+			{/for}
+		</div>
+	<script type="text/javascript" src="js/question_list.js" ></script>
+	</body>
+</html>

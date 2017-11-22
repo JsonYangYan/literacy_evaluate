@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="css/qu_base.css" />
+		<link rel="stylesheet" href="css/org_paper.css" />
+		<link rel="stylesheet" href="css/page.css" />
+		<script type="text/javascript" src="js/jquery1.8.2.min.js" ></script>
+		<script type="text/javascript" src="js/base.js" ></script>
+		<script type="text/javascript" src="js/paging.js" ></script>
+		<script type="text/javascript" src="js/trimpath.js" ></script>
+		<title></title>
+	</head>
+	<body>
+		<div class="header">
+			<h1 >高中生信息素养测评系统</h1>
+			<span id="go_cancel" onclick="goCancle()">退出</span>
+			<span id="type">欢迎您</span>
+		</div>
+		
+		<div id="container" style="width: 974px;">
+			<h2 id="title"></h2>
+			<!--已有的问题-->
+			<div class="have_ques">
+				已有的问题
+				<div class="bun del">删除</div>
+				
+				<div id="question"></div>
+				<div id="page_numbers" style="margin-bottom: 20px;"></div>
+			</div>
+			
+			<!--未添加的问题-->
+			<div class="no_ques">
+				没有的问题
+				<div class="bun add">添加</div>			
+				<div id="question_after"></div>
+				<div id="page_numbers_after" style="margin:20px auto;text-align: center;"></div>
+				
+			</div>
+			<div class="clear"></div>
+		</div>
+		<footer id="footer">
+			<div style="line-height: 30px;text-align: center;color: #fff;padding-top: 20px;font-size:14px">
+			教育部教育信息化战略研究基地（华中） <br />
+			联系地址：湖北 武汉 珞喻路152号 华中师范大学科学会堂501 邮编：430079
+			</div>
+		</footer>
+		<div id="list_template" style="display: none;">
+			{for qu in schoolData}
+			<div class="option">
+				<div class="que_content">
+					<div class="que_checkbox">
+						<input type="checkbox" quesion="${qu.question_id}">
+						${qu.num}、${qu.content}?({if qu.type==1}单选{else}多选{/if})
+					</div>
+				<div class="clear"></div>
+			</div>
+			</div>
+		{/for}
+		</div>
+		
+		<div id="list_template_after" style="display: none;">
+			{for que in aschoolData}
+				<div class="option">
+					<!--<div class="que_checkbox">
+						<input type="checkbox" quesion="${que.question_id}">
+					</div>-->
+					<div class="que_content">
+						<input type="checkbox" quesion="${que.question_id}">
+						${que.num}、${que.content}?({if que.type==1}单选{else}多选{/if})
+					</div>
+					<div class="clear"></div>
+				</div>
+			{/for}
+		</div>
+		<script type="text/javascript" src="js/org_paper.js" ></script>
+	</body>
+</html>

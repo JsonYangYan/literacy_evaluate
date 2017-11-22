@@ -1,0 +1,126 @@
+a{
+	cursor: pointer;
+}
+.add_ques,.search_question{
+	width: 100%;
+	height: 80px;
+	margin: 0 0 25px 0;
+}
+
+.ques_title,.opt_font{
+	border-bottom: 1px solid #D1D1D1;
+	color: #00677d;
+	font-size: 18px;
+	font-weight: 800;
+	height: 32px;
+	padding: 0 10px;
+}
+.opt_font1{
+	font-size:16px;
+	font-weight:bold;
+	float:left;
+	width:100%;
+	height:26px;
+}
+.question_font{
+	display: inline-block;
+	float: left;
+	margin-right: 5px;
+}
+.add_question,.query_question{
+	width: 400px;
+}
+.add_standard{
+	float:left;
+	display: inline-block;
+	height: 25px;
+	line-height: 25px;
+	margin-right: 15px;
+}
+#add_index{
+	width: 120px;
+}
+.add_question, .add_question_category, #add_ques_type,.query_question,#add_index{	
+	height:25px;
+	line-height:25px;
+	float:left;
+	display: inline-block;
+	margin: 0 10px 0 0 ;
+}
+.ques_content{
+	float: left;
+}
+.ques_list{
+	font-size: 16px;
+	line-height: 30px;
+	margin-left: 50px;
+	width: 500px;
+	color: #000000;
+}
+.ques_list li:hover{
+	background-color: #426b96 ;
+}
+.paper_title{
+	float: left;
+}
+.paper_title a:hover{
+	color: #FFFFFF;
+}
+.paper_upd,.paper_del{
+	font-weight: normal;
+	float: right;
+	font-size: 14px;
+	margin-right: 20px;
+}
+.paper_del a:hover{
+	color: #FFFFFF;
+}
+.paper_upd a:hover{
+	color: #FFFFFF;
+}
+.add_paper{
+	float: right;
+	margin-right: 70px;
+	margin-top: 20px;
+}
+.quiz,.quiz input{
+	width: 200px;
+	height: 20px;
+}
+.btn1{
+	width: 100px;
+	text-align: center;
+	background-color: #3bb2d0;
+	color: #FFFFFF;
+	margin: 20px auto 0 auto;
+	cursor: pointer;
+	height: 20px;
+	line-height: 20px;
+}
+.qu_content{
+	margin: 10px 10px;
+}
+.qu_title{
+
+}
+.qu_option{
+	margin: 5px 10px;
+}
+
+/*弹出对话框样式*/
+.upd_title{
+	width: 200px;
+	height: 25px;
+}
+.ui-widget-header{
+	background-color: #426b96;
+	color: white;
+}
+#dialog{
+	text-align: center;
+	padding-top: 20px;
+}
+.ui-dialog .ui-dialog-buttonpane button{
+	margin-right: 48px;
+}
+

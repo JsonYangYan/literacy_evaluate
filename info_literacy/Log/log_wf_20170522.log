@@ -1,0 +1,4 @@
+req_id:1495425228526367,date:2017-05-22 11:53:49,qt:login,msg:db_conf_key db1 Connect Error (2002) 由于目标计算机积极拒绝，无法连接。
+req_id:1495425253401367,date:2017-05-22 11:54:14,qt:login,msg:db_conf_key db1 Connect Error (2002) 由于目标计算机积极拒绝，无法连接。
+req_id:1495425256932617,date:2017-05-22 11:54:17,qt:login,msg:db_conf_key db1 Connect Error (2002) 由于目标计算机积极拒绝，无法连接。
+req_id:1495441579416992,date:2017-05-22 16:26:20,qt:result,msg:db_conf_key db1 Connect Error (2002) 由于目标计算机积极拒绝，无法连接。

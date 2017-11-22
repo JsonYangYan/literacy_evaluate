@@ -1,0 +1,114 @@
+.flex-container {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	padding: 20px 15% 0px 15%;
+	font-size: 16px;
+}
+
+.flex-item {
+	margin: 0 auto;
+	padding: 15px;
+	cursor: pointer;
+	border: 1px solid #3bb2d0;
+}
+
+.flex-item-active {
+	background: #FFFFFF;
+	color: #3bb2d0;
+}
+
+.flex-item-normal {
+	background: #3bb2d0;
+	color: #FFFFFF;
+}
+
+.tab_btn {
+	float: left;
+	padding: 5px;
+	cursor: pointer;
+	margin-left: 10px;
+	border: 1px solid #3bb2d0;
+	margin-top: 2px;
+}
+
+#wrap {
+	height: 32px;
+	width: 70%;
+	margin: 10px auto 0px auto;
+}
+
+.normal {
+	color: #3bb2d0;
+}
+
+.active {
+	background: #3bb2d0;
+	color: #FFFFFF;
+}
+
+#ensure {
+	background: #3bb2d0;
+	width: 30px;
+	padding: 5px;
+	color: white;
+	float: right;
+	margin-right: 10%;
+	cursor: pointer;
+	margin-top:-28px
+}
+
+table {
+	font: 12px "微软雅黑";
+	margin-left: auto; 
+	margin-right: auto; 
+}
+table tbody tr:nth-child(odd){background:#DCE9F9;}
+table tbody tr:nth-child(even){background: #FFFFFF;}
+
+.back1 {
+	background-image: url(images/tbbg2.gif);
+	background-repeat: repeat-x;
+	border: 1px solid #CCCCCC;
+	background-position: bottom;
+}
+
+.caption {
+	color: #026AAB;
+	font-weight: bold;
+}
+
+.maintable1 {
+	background-color: #3bb2d0;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-align: center;
+	height: 40px;
+	cursor: pointer;
+	font-size: 14px;
+}
+
+.maintable2 {
+	background-color: #E8F0FF;
+	font-weight: bold;
+	text-align: center;
+}
+.tab{
+	margin-top: 10px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.up{
+	background: url(../images/up.png) no-repeat 0px 0px;
+}
+.down{
+	background: url(../images/down.png) no-repeat 0px 0px;
+}
+.i_content{
+	display: inline-block;
+	width: 7px;
+	height: 11px;
+	margin-left: 10px;
+}
+

@@ -1,0 +1,234 @@
+req_id:1488337531993347,date:2017-03-01 11:05:32,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488337531993347,date:2017-03-01 11:05:32,qt:default,msg:INSERT INTO `eval_school`(`account`, `passwd`, `name`, `province`, `city`, `county`, `detail_addr`, `stu_count`, `tea_count`, `contacter`, `phone`, `edu_depart_id`, `create_time`) VALUES('','','','','','','','','','','','','')
+req_id:1488337531993347,date:2017-03-01 11:05:32,qt:default,msg:mysql connection is closed!
+req_id:1488337531993347,date:2017-03-01 11:05:32,qt:default,msg:query info : {"account":"huashi","passwd":"huashi","name":"\u534e\u5e08\u9644\u5c0f","province":"\u6e56\u5317","city":"\u6b66\u6c49","county":"\u6d2a\u5c71","detail_addr":"\u534e\u5e08","stu_count":"3000","tea_count":"200","contacter":"\u5e38\u6625\u6ce2","phone":"13545891316","edu_depart_id":"1","type":"school","create_time":"2017-03-01 11:05:32"}
+req_id:1488337534985518,date:2017-03-01 11:05:34,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488337534985518,date:2017-03-01 11:05:34,qt:default,msg:INSERT INTO `eval_school`(`account`, `passwd`, `name`, `province`, `city`, `county`, `detail_addr`, `stu_count`, `tea_count`, `contacter`, `phone`, `edu_depart_id`, `create_time`) VALUES('','','','','','','','','','','','','')
+req_id:1488337534985518,date:2017-03-01 11:05:34,qt:default,msg:mysql connection is closed!
+req_id:1488337534985518,date:2017-03-01 11:05:34,qt:default,msg:query info : {"account":"huashi","passwd":"huashi","name":"\u534e\u5e08\u9644\u5c0f","province":"\u6e56\u5317","city":"\u6b66\u6c49","county":"\u6d2a\u5c71","detail_addr":"\u534e\u5e08","stu_count":"3000","tea_count":"200","contacter":"\u5e38\u6625\u6ce2","phone":"13545891316","edu_depart_id":"1","type":"school","create_time":"2017-03-01 11:05:34"}
+req_id:1488339726715878,date:2017-03-01 11:42:06,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488339726715878,date:2017-03-01 11:42:06,qt:default,msg:INSERT INTO `eval_school`(`account`, `passwd`, `name`, `province`, `city`, `county`, `detail_addr`, `stu_count`, `tea_count`, `contacter`, `phone`, `edu_depart_id`, `create_time`) VALUES('','','','','','','','','','','','','')
+req_id:1488339726715878,date:2017-03-01 11:42:06,qt:default,msg:mysql connection is closed!
+req_id:1488339726715878,date:2017-03-01 11:42:06,qt:default,msg:query info : {"account":"huashi","passwd":"huashi","name":"\u534e\u5e08\u9644\u5c0f","province":"\u6e56\u5317","city":"\u6b66\u6c49","county":"\u6d2a\u5c71","detail_addr":"\u534e\u5e08","stu_count":"3000","tea_count":"200","contacter":"\u5e38\u6625\u6ce2","phone":"13545891316","edu_depart_id":"1","type":"school","create_time":"2017-03-01 11:42:06"}
+req_id:1488339857773374,date:2017-03-01 11:44:17,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488339857773374,date:2017-03-01 11:44:17,qt:default,msg:INSERT INTO `eval_school`(`account`, `passwd`, `name`, `province`, `city`, `county`, `detail_addr`, `stu_count`, `tea_count`, `contacter`, `phone`, `edu_depart_id`, `create_time`) VALUES('','','','','','','','','','','','','')
+req_id:1488339857773374,date:2017-03-01 11:44:17,qt:default,msg:mysql connection is closed!
+req_id:1488339857773374,date:2017-03-01 11:44:17,qt:default,msg:query info : {"account":"huashi","passwd":"huashi","name":"\u534e\u5e08\u9644\u5c0f","province":"\u6e56\u5317","city":"\u6b66\u6c49","county":"\u6d2a\u5c71","detail_addr":"\u534e\u5e08","stu_count":"3000","tea_count":"200","contacter":"\u5e38\u6625\u6ce2","phone":"13545891316","edu_depart_id":"1","type":"school","create_time":"2017-03-01 11:44:17"}
+req_id:14883399197877,date:2017-03-01 11:45:19,qt:default,msg:db_conf_key db1 Connect success !
+req_id:14883399197877,date:2017-03-01 11:45:19,qt:default,msg:INSERT INTO `eval_school`(`account`, `passwd`, `name`, `province`, `city`, `county`, `detail_addr`, `stu_count`, `tea_count`, `contacter`, `phone`, `edu_depart_id`, `create_time`) VALUES('huashi','huashi','华师附小','湖北','武汉','洪山','华师',3000,200,'常春波',13545891316,1,'2017-03-01 11:45:19')
+req_id:14883399197877,date:2017-03-01 11:45:19,qt:default,msg:mysql connection is closed!
+req_id:14883399197877,date:2017-03-01 11:45:19,qt:default,msg:query info : {"account":"huashi","passwd":"huashi","name":"\u534e\u5e08\u9644\u5c0f","province":"\u6e56\u5317","city":"\u6b66\u6c49","county":"\u6d2a\u5c71","detail_addr":"\u534e\u5e08","stu_count":"3000","tea_count":"200","contacter":"\u5e38\u6625\u6ce2","phone":"13545891316","edu_depart_id":"1","type":"school","create_time":"2017-03-01 11:45:19"}
+req_id:1488340022102773,date:2017-03-01 11:47:02,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488340022102773,date:2017-03-01 11:47:02,qt:default,msg:INSERT INTO `eval_school`(`account`, `passwd`, `name`, `province`, `city`, `county`, `detail_addr`, `stu_count`, `tea_count`, `contacter`, `phone`, `edu_depart_id`, `create_time`) VALUES('huashi','huashi','华师附小','湖北','武汉','洪山','华师',3000,200,'常春波',13545891316,1,'2017-03-01 11:47:02')
+req_id:1488340022102773,date:2017-03-01 11:47:02,qt:default,msg:mysql connection is closed!
+req_id:1488340022102773,date:2017-03-01 11:47:02,qt:default,msg:query info : {"account":"huashi","passwd":"huashi","name":"\u534e\u5e08\u9644\u5c0f","province":"\u6e56\u5317","city":"\u6b66\u6c49","county":"\u6d2a\u5c71","detail_addr":"\u534e\u5e08","stu_count":"3000","tea_count":"200","contacter":"\u5e38\u6625\u6ce2","phone":"13545891316","edu_depart_id":"1","type":"school","create_time":"2017-03-01 11:47:02"}
+req_id:1488340092158780,date:2017-03-01 11:48:12,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488340092158780,date:2017-03-01 11:48:12,qt:default,msg:INSERT INTO `eval_school`(`account`, `passwd`, `name`, `province`, `city`, `county`, `detail_addr`, `stu_count`, `tea_count`, `contacter`, `phone`, `edu_depart_id`, `create_time`) VALUES('huashi','huashi','华师附小','湖北','武汉','洪山','华师',3000,200,'常春波',13545891316,1,'2017-03-01 11:48:12')
+req_id:1488340092158780,date:2017-03-01 11:48:12,qt:default,msg:mysql connection is closed!
+req_id:1488340092158780,date:2017-03-01 11:48:12,qt:default,msg:query info : {"account":"huashi","passwd":"huashi","name":"\u534e\u5e08\u9644\u5c0f","province":"\u6e56\u5317","city":"\u6b66\u6c49","county":"\u6d2a\u5c71","detail_addr":"\u534e\u5e08","stu_count":"3000","tea_count":"200","contacter":"\u5e38\u6625\u6ce2","phone":"13545891316","edu_depart_id":"1","type":"school","create_time":"2017-03-01 11:48:12"}
+req_id:1488340206250306,date:2017-03-01 11:50:06,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488340206250306,date:2017-03-01 11:50:06,qt:default,msg:INSERT INTO `eval_school`(`account`, `passwd`, `name`, `province`, `city`, `county`, `detail_addr`, `stu_count`, `tea_count`, `contacter`, `phone`, `edu_depart_id`, `create_time`) VALUES('huashi','huashi','华师附小','湖北','武汉','洪山','华师',3000,200,'常春波',13545891316,1,'2017-03-01 11:50:06')
+req_id:1488340206250306,date:2017-03-01 11:50:06,qt:default,msg:query info : {"account":"huashi","passwd":"huashi","name":"\u534e\u5e08\u9644\u5c0f","province":"\u6e56\u5317","city":"\u6b66\u6c49","county":"\u6d2a\u5c71","detail_addr":"\u534e\u5e08","stu_count":"3000","tea_count":"200","contacter":"\u5e38\u6625\u6ce2","phone":"13545891316","edu_depart_id":"1","type":"school","create_time":"2017-03-01 11:50:06"}
+req_id:1488340207423373,date:2017-03-01 11:50:07,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488340207423373,date:2017-03-01 11:50:07,qt:default,msg:INSERT INTO `eval_school`(`account`, `passwd`, `name`, `province`, `city`, `county`, `detail_addr`, `stu_count`, `tea_count`, `contacter`, `phone`, `edu_depart_id`, `create_time`) VALUES('huashi','huashi','华师附小','湖北','武汉','洪山','华师',3000,200,'常春波',13545891316,1,'2017-03-01 11:50:07')
+req_id:1488340207423373,date:2017-03-01 11:50:07,qt:default,msg:query info : {"account":"huashi","passwd":"huashi","name":"\u534e\u5e08\u9644\u5c0f","province":"\u6e56\u5317","city":"\u6b66\u6c49","county":"\u6d2a\u5c71","detail_addr":"\u534e\u5e08","stu_count":"3000","tea_count":"200","contacter":"\u5e38\u6625\u6ce2","phone":"13545891316","edu_depart_id":"1","type":"school","create_time":"2017-03-01 11:50:07"}
+req_id:1488340208517436,date:2017-03-01 11:50:08,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488340208517436,date:2017-03-01 11:50:08,qt:default,msg:INSERT INTO `eval_school`(`account`, `passwd`, `name`, `province`, `city`, `county`, `detail_addr`, `stu_count`, `tea_count`, `contacter`, `phone`, `edu_depart_id`, `create_time`) VALUES('huashi','huashi','华师附小','湖北','武汉','洪山','华师',3000,200,'常春波',13545891316,1,'2017-03-01 11:50:08')
+req_id:1488340208517436,date:2017-03-01 11:50:08,qt:default,msg:query info : {"account":"huashi","passwd":"huashi","name":"\u534e\u5e08\u9644\u5c0f","province":"\u6e56\u5317","city":"\u6b66\u6c49","county":"\u6d2a\u5c71","detail_addr":"\u534e\u5e08","stu_count":"3000","tea_count":"200","contacter":"\u5e38\u6625\u6ce2","phone":"13545891316","edu_depart_id":"1","type":"school","create_time":"2017-03-01 11:50:08"}
+req_id:1488340209282479,date:2017-03-01 11:50:09,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488340209282479,date:2017-03-01 11:50:09,qt:default,msg:INSERT INTO `eval_school`(`account`, `passwd`, `name`, `province`, `city`, `county`, `detail_addr`, `stu_count`, `tea_count`, `contacter`, `phone`, `edu_depart_id`, `create_time`) VALUES('huashi','huashi','华师附小','湖北','武汉','洪山','华师',3000,200,'常春波',13545891316,1,'2017-03-01 11:50:09')
+req_id:1488340209282479,date:2017-03-01 11:50:09,qt:default,msg:query info : {"account":"huashi","passwd":"huashi","name":"\u534e\u5e08\u9644\u5c0f","province":"\u6e56\u5317","city":"\u6b66\u6c49","county":"\u6d2a\u5c71","detail_addr":"\u534e\u5e08","stu_count":"3000","tea_count":"200","contacter":"\u5e38\u6625\u6ce2","phone":"13545891316","edu_depart_id":"1","type":"school","create_time":"2017-03-01 11:50:09"}
+req_id:1488340210351541,date:2017-03-01 11:50:10,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488340210351541,date:2017-03-01 11:50:10,qt:default,msg:INSERT INTO `eval_school`(`account`, `passwd`, `name`, `province`, `city`, `county`, `detail_addr`, `stu_count`, `tea_count`, `contacter`, `phone`, `edu_depart_id`, `create_time`) VALUES('huashi','huashi','华师附小','湖北','武汉','洪山','华师',3000,200,'常春波',13545891316,1,'2017-03-01 11:50:10')
+req_id:1488340210351541,date:2017-03-01 11:50:10,qt:default,msg:query info : {"account":"huashi","passwd":"huashi","name":"\u534e\u5e08\u9644\u5c0f","province":"\u6e56\u5317","city":"\u6b66\u6c49","county":"\u6d2a\u5c71","detail_addr":"\u534e\u5e08","stu_count":"3000","tea_count":"200","contacter":"\u5e38\u6625\u6ce2","phone":"13545891316","edu_depart_id":"1","type":"school","create_time":"2017-03-01 11:50:10"}
+req_id:1488340283811742,date:2017-03-01 11:51:23,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488340283811742,date:2017-03-01 11:51:23,qt:default,msg:INSERT INTO `eval_school`(`account`, `passwd`, `name`, `province`, `city`, `county`, `detail_addr`, `stu_count`, `tea_count`, `contacter`, `phone`, `edu_depart_id`, `create_time`) VALUES('huashi','huashi','华师附小','湖北','武汉','洪山','华师',3000,200,'常春波',13545891316,1,'2017-03-01 11:51:23')
+req_id:1488340283811742,date:2017-03-01 11:51:23,qt:default,msg:query info : {"account":"huashi","passwd":"huashi","name":"\u534e\u5e08\u9644\u5c0f","province":"\u6e56\u5317","city":"\u6b66\u6c49","county":"\u6d2a\u5c71","detail_addr":"\u534e\u5e08","stu_count":"3000","tea_count":"200","contacter":"\u5e38\u6625\u6ce2","phone":"13545891316","edu_depart_id":"1","type":"school","create_time":"2017-03-01 11:51:23"}
+req_id:1488340445236975,date:2017-03-01 11:54:05,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488340445236975,date:2017-03-01 11:54:05,qt:default,msg:INSERT INTO `eval_school`(`account`, `passwd`, `name`, `province`, `city`, `county`, `detail_addr`, `stu_count`, `tea_count`, `contacter`, `phone`, `create_time`) VALUES('huashi','huashi','华师附小','湖北','武汉','洪山','华师',3000,200,'常春波',13545891316,'2017-03-01 11:54:05')
+req_id:148834045123306,date:2017-03-01 11:54:11,qt:default,msg:db_conf_key db1 Connect success !
+req_id:148834045123306,date:2017-03-01 11:54:11,qt:default,msg:INSERT INTO `eval_school`(`account`, `passwd`, `name`, `province`, `city`, `county`, `detail_addr`, `stu_count`, `tea_count`, `contacter`, `edu_depart_id`, `create_time`) VALUES('huashi','huashi','华师附小','湖北','武汉','洪山','华师',3000,200,'常春波',1,'2017-03-01 11:54:11')
+req_id:1488340687175813,date:2017-03-01 11:58:07,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488340687175813,date:2017-03-01 11:58:07,qt:default,msg:INSERT INTO `eval_student`(`account`, `passwd`, `gender`, `school_id`, `grade`, `create_time`) VALUES('','','','','','')
+req_id:1488340690710016,date:2017-03-01 11:58:10,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488340690710016,date:2017-03-01 11:58:10,qt:default,msg:INSERT INTO `eval_student`(`account`, `passwd`, `gender`, `school_id`, `grade`, `create_time`) VALUES('','','','','','')
+req_id:1488340693537177,date:2017-03-01 11:58:13,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488340693537177,date:2017-03-01 11:58:13,qt:default,msg:INSERT INTO `eval_student`(`account`, `passwd`, `gender`, `school_id`, `grade`, `class`, `create_time`) VALUES('','','','','','','')
+req_id:1488340693537177,date:2017-03-01 11:58:13,qt:default,msg:query info : {"account":"huashi","passwd":"huashi","gender":"\u7537","school_id":"12","grade":"\u9ad8\u4e00","class":"\u9ad8\u4e00\uff083\uff09","type":"student","create_time":"2017-03-01 11:58:13"}
+req_id:1488340739296795,date:2017-03-01 11:58:59,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488340739296795,date:2017-03-01 11:58:59,qt:default,msg:INSERT INTO `eval_student`(`account`, `passwd`, `gender`, `school_id`, `grade`, `class`, `create_time`) VALUES('','','','','','','')
+req_id:1488340739296795,date:2017-03-01 11:58:59,qt:default,msg:query info : {"account":"huashi","passwd":"huashi","gender":"\u7537","school_id":"12","grade":"\u9ad8\u4e00","class":"\u9ad8\u4e00\uff083\uff09","type":"student","create_time":"2017-03-01 11:58:59"}
+req_id:1488340781931233,date:2017-03-01 11:59:41,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488340781931233,date:2017-03-01 11:59:41,qt:default,msg:INSERT INTO `eval_student`(`account`, `passwd`, `gender`, `school_id`, `grade`, `class`, `create_time`) VALUES('huashi','huashi','男',12,'高一','高一（3）','2017-03-01 11:59:41')
+req_id:1488340781931233,date:2017-03-01 11:59:41,qt:default,msg:query info : {"account":"huashi","passwd":"huashi","gender":"\u7537","school_id":"12","grade":"\u9ad8\u4e00","class":"\u9ad8\u4e00\uff083\uff09","type":"student","create_time":"2017-03-01 11:59:41"}
+req_id:1488340832276113,date:2017-03-01 12:00:32,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488340832276113,date:2017-03-01 12:00:32,qt:default,msg:INSERT INTO `eval_student`(`account`, `passwd`, `gender`, `school_id`, `grade`, `class`, `create_time`) VALUES('huashi','huashi','男',12,'高一','高一（3）','2017-03-01 12:00:32')
+req_id:1488340832276113,date:2017-03-01 12:00:32,qt:default,msg:query info : {"account":"huashi","passwd":"huashi","gender":"\u7537","school_id":"12","grade":"\u9ad8\u4e00","class":"\u9ad8\u4e00\uff083\uff09","type":"student","create_time":"2017-03-01 12:00:32"}
+req_id:1488340846314916,date:2017-03-01 12:00:46,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488340846314916,date:2017-03-01 12:00:46,qt:default,msg:INSERT INTO `eval_student`(`account`, `passwd`, `gender`, `school_id`, `class`, `create_time`) VALUES('huashi','huashi','男',12,'高一（3）','2017-03-01 12:00:46')
+req_id:1488340850990183,date:2017-03-01 12:00:50,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488340850990183,date:2017-03-01 12:00:50,qt:default,msg:INSERT INTO `eval_student`(`account`, `passwd`, `gender`, `grade`, `class`, `create_time`) VALUES('huashi','huashi','男','高一','高一（3）','2017-03-01 12:00:50')
+req_id:148834085690475,date:2017-03-01 12:00:56,qt:default,msg:db_conf_key db1 Connect success !
+req_id:148834085690475,date:2017-03-01 12:00:56,qt:default,msg:INSERT INTO `eval_student`(`account`, `passwd`, `gender`, `school_id`, `grade`, `class`, `create_time`) VALUES('huashi','huashi','男',12,'高一','高一（3）','2017-03-01 12:00:56')
+req_id:148834085690475,date:2017-03-01 12:00:56,qt:default,msg:query info : {"account":"huashi","passwd":"huashi","gender":"\u7537","school_id":"12","grade":"\u9ad8\u4e00","class":"\u9ad8\u4e00\uff083\uff09","type":"student","create_time":"2017-03-01 12:00:56"}
+req_id:1488341003349898,date:2017-03-01 12:03:23,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488341003349898,date:2017-03-01 12:03:23,qt:default,msg:INSERT INTO `eval_student`(`account`, `passwd`, `gender`, `school_id`, `grade`, `class`, `create_time`) VALUES('huashi','huashi','男',12,'高一','高一（3）','2017-03-01 12:03:23')
+req_id:1488341003349898,date:2017-03-01 12:03:23,qt:default,msg:query info : {"account":"huashi","passwd":"huashi","gender":"\u7537","school_id":"12","grade":"\u9ad8\u4e00","class":"\u9ad8\u4e00\uff083\uff09","type":"student","create_time":"2017-03-01 12:03:23"}
+req_id:1488341147336133,date:2017-03-01 12:05:47,qt:default,msg:db_conf_key db1 Connect success !
+req_id:1488341147336133,date:2017-03-01 12:05:47,qt:default,msg:INSERT INTO `eval_student`(`account`, `passwd`, `gender`, `school_id`, `grade`, `class`, `create_time`) VALUES('huashi','huashi','男',12,'高一','高一（3）','2017-03-01 12:05:47')
+req_id:1488341147336133,date:2017-03-01 12:05:47,qt:default,msg:query info : {"account":"huashi","passwd":"huashi","gender":"\u7537","school_id":"12","grade":"\u9ad8\u4e00","class":"\u9ad8\u4e00\uff083\uff09","type":"student","create_time":"2017-03-01 12:05:47"}
+req_id:1488347901275436,date:2017-03-01 13:58:21,qt:default,msg:query info : null
+req_id:1488348181963491,date:2017-03-01 14:03:01,qt:default,msg:query info : null
+req_id:1488348557766985,date:2017-03-01 14:09:17,qt:questionnaire,msg:query info : null
+req_id:1488348577736128,date:2017-03-01 14:09:37,qt:questionnaire,msg:query info : null
+req_id:1488355519430170,date:2017-03-01 16:05:19,qt:questionnaire,msg:query info : {"account":"huashi","passwd":"huashi","gender":"\u7537","title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","type":"add_title","create_time":"2017-03-01 16:05:19"}
+req_id:1488355522705357,date:2017-03-01 16:05:22,qt:questionnaire,msg:query info : {"account":"huashi","passwd":"huashi","gender":"\u7537","title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","type":"add_title","create_time":"2017-03-01 16:05:22"}
+req_id:1488355523699414,date:2017-03-01 16:05:23,qt:questionnaire,msg:query info : {"account":"huashi","passwd":"huashi","gender":"\u7537","title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","type":"add_title","create_time":"2017-03-01 16:05:23"}
+req_id:1488355530645811,date:2017-03-01 16:05:30,qt:questionnaire,msg:query info : {"account":"huashi","passwd":"huashi","gender":"\u7537","title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","type":"add_title","create_time":"2017-03-01 16:05:30"}
+req_id:1488355547998804,date:2017-03-01 16:05:48,qt:questionnaire,msg:query info : {"account":"huashi","passwd":"huashi","gender":"\u7537","title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","type":"add_title","create_time":"2017-03-01 16:05:48"}
+req_id:1488355591167273,date:2017-03-01 16:06:31,qt:questionnaire,msg:query info : {"account":"huashi","passwd":"huashi","gender":"\u7537","title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","type":"add_title","create_time":"2017-03-01 16:06:31"}
+req_id:1488355592436346,date:2017-03-01 16:06:32,qt:questionnaire,msg:query info : {"account":"huashi","passwd":"huashi","gender":"\u7537","title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","type":"add_title","create_time":"2017-03-01 16:06:32"}
+req_id:1488355593599412,date:2017-03-01 16:06:33,qt:questionnaire,msg:query info : {"account":"huashi","passwd":"huashi","gender":"\u7537","title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","type":"add_title","create_time":"2017-03-01 16:06:33"}
+req_id:1488355634212735,date:2017-03-01 16:07:14,qt:questionnaire,msg:query info : {"title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","type":"add_title","create_time":"2017-03-01 16:07:14"}
+req_id:1488355637304912,date:2017-03-01 16:07:17,qt:questionnaire,msg:query info : {"title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","type":"add_title","create_time":"2017-03-01 16:07:17"}
+req_id:1488355643519267,date:2017-03-01 16:07:23,qt:questionnaire,msg:query info : {"title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","type":"add_title","create_time":"2017-03-01 16:07:23"}
+req_id:1488355648783568,date:2017-03-01 16:07:28,qt:questionnaire,msg:query info : {"title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","type":"add_title","create_time":"2017-03-01 16:07:28"}
+req_id:1488355839473475,date:2017-03-01 16:10:39,qt:questionnaire,msg:query info : {"title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","type":"add_title","create_time":"2017-03-01 16:10:39"}
+req_id:1488355975905279,date:2017-03-01 16:12:55,qt:questionnaire,msg:query info : {"title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","type":"add_title","create_time":"2017-03-01 16:12:55"}
+req_id:1488355979663494,date:2017-03-01 16:12:59,qt:questionnaire,msg:query info : {"title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","type":"add_title","create_time":"2017-03-01 16:12:59"}
+req_id:1488355981701610,date:2017-03-01 16:13:01,qt:questionnaire,msg:query info : {"title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","type":"add_title","create_time":"2017-03-01 16:13:01"}
+req_id:1488357363593650,date:2017-03-01 16:36:03,qt:questionnaire,msg:query info : {"title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","type":"add_title","create_time":"2017-03-01 16:36:03"}
+req_id:1488358094324445,date:2017-03-01 16:48:14,qt:questionnaire,msg:query info : {"title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","type":"add_title","create_time":"2017-03-01 16:48:14"}
+req_id:1488358250604384,date:2017-03-01 16:50:50,qt:questionnaire,msg:query info : {"content":"\u5bf9\u4fe1\u606f\u7d20\u517b\u7684\u7406\u89e3","type":"add_qeustion","create_time":"2017-03-01 16:50:50"}
+req_id:1488358256499721,date:2017-03-01 16:50:56,qt:questionnaire,msg:query info : {"content":"\u5bf9\u4fe1\u606f\u7d20\u517b\u7684\u7406\u89e3","type":"add_qeustion","create_time":"2017-03-01 16:50:56"}
+req_id:1488358258556839,date:2017-03-01 16:50:58,qt:questionnaire,msg:query info : {"content":"\u5bf9\u4fe1\u606f\u7d20\u517b\u7684\u7406\u89e3","type":"add_qeustion","create_time":"2017-03-01 16:50:58"}
+req_id:1488358383814003,date:2017-03-01 16:53:03,qt:questionnaire,msg:query info : {"content":"\u5bf9\u4fe1\u606f\u7d20\u517b\u7684\u7406\u89e3","type":"1","operation":"add_qeustion","create_time":"2017-03-01 16:53:03"}
+req_id:1488358388533273,date:2017-03-01 16:53:08,qt:questionnaire,msg:query info : {"content":"\u5bf9\u4fe1\u606f\u7d20\u517b\u7684\u7406\u89e3","type":"1","operation":"add_qeustion","create_time":"2017-03-01 16:53:08"}
+req_id:14883583912414,date:2017-03-01 16:53:11,qt:questionnaire,msg:query info : {"content":"\u5bf9\u4fe1\u606f\u7d20\u517b\u7684\u7406\u89e3","type":"1","operation":"add_qeustion","create_time":"2017-03-01 16:53:11"}
+req_id:1488358401468013,date:2017-03-01 16:53:21,qt:questionnaire,msg:query info : {"type":"1","operation":"add_qeustion","create_time":"2017-03-01 16:53:21"}
+req_id:1488358425332378,date:2017-03-01 16:53:45,qt:questionnaire,msg:query info : {"content":"\u5bf9\u4fe1\u606f\u7d20\u517b\u7684\u7406\u89e3","type":"1","operation":"add_question","create_time":"2017-03-01 16:53:45"}
+req_id:1488358432324778,date:2017-03-01 16:53:52,qt:questionnaire,msg:query info : {"content":"\u5bf9\u4fe1\u606f\u7d20\u517b\u7684\u7406\u89e3","type":"1","operation":"add_question","create_time":"2017-03-01 16:53:52"}
+req_id:1488358450866838,date:2017-03-01 16:54:10,qt:questionnaire,msg:query info : {"title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","operation":"add_title","create_time":"2017-03-01 16:54:10"}
+req_id:1488358456753175,date:2017-03-01 16:54:16,qt:questionnaire,msg:query info : {"title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","operation":"add_title","create_time":"2017-03-01 16:54:16"}
+req_id:1488358605497683,date:2017-03-01 16:56:45,qt:questionnaire,msg:query info : {"content":"\u4e00\u822c","operation":"add_option","create_time":"2017-03-01 16:56:45"}
+req_id:1488359807994462,date:2017-03-01 17:16:47,qt:questionnaire,msg:query info : {"content":"\u4e00\u822c","question_id":"1","operation":"add_option","create_time":"2017-03-01 17:16:47"}
+req_id:1488359809381541,date:2017-03-01 17:16:49,qt:questionnaire,msg:query info : {"content":"\u4e00\u822c","question_id":"1","operation":"add_option","create_time":"2017-03-01 17:16:49"}
+req_id:1488359813957803,date:2017-03-01 17:16:53,qt:questionnaire,msg:query info : {"content":"\u4e00\u822c","question_id":"1","operation":"add_option","create_time":"2017-03-01 17:16:53"}
+req_id:1488359814810852,date:2017-03-01 17:16:54,qt:questionnaire,msg:query info : {"content":"\u4e00\u822c","question_id":"1","operation":"add_option","create_time":"2017-03-01 17:16:54"}
+req_id:1488361879330935,date:2017-03-01 17:51:19,qt:questionnaire,msg:query info : {"title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","operation":"add_title","create_time":"2017-03-01 17:51:19"}
+req_id:1488362494489120,date:2017-03-01 18:01:34,qt:questionnaire,msg:query info : {"title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","operation":"add_title","create_time":"2017-03-01 18:01:34"}
+req_id:1488362545888060,date:2017-03-01 18:02:25,qt:questionnaire,msg:query info : {"title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","operation":"add_title","create_time":"2017-03-01 18:02:25"}
+req_id:1488362614864005,date:2017-03-01 18:03:34,qt:questionnaire,msg:query info : {"title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","operation":"add_title","create_time":"2017-03-01 18:03:34"}
+req_id:1488362710166456,date:2017-03-01 18:05:10,qt:questionnaire,msg:query info : {"title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","operation":"add_title","create_time":"2017-03-01 18:05:10"}
+req_id:148836274126221,date:2017-03-01 18:05:41,qt:questionnaire,msg:query info : {"title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","operation":"add_title","create_time":"2017-03-01 18:05:41"}
+req_id:14883629097829,date:2017-03-01 18:08:29,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:14883629097829,date:2017-03-01 18:08:29,qt:questionnaire,msg:INSERT INTO `que_title`(`title`, `create_time`) VALUES('信息素养测评问卷','2017-03-01 18:08:29')
+req_id:14883629097829,date:2017-03-01 18:08:29,qt:questionnaire,msg:query info : {"title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","operation":"add_title","create_time":"2017-03-01 18:08:29"}
+req_id:1488362944681870,date:2017-03-01 18:09:04,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488362944681870,date:2017-03-01 18:09:04,qt:questionnaire,msg:INSERT INTO `que_title`(`title`, `create_time`) VALUES('信息素养测评问卷','2017-03-01 18:09:04')
+req_id:1488362944681870,date:2017-03-01 18:09:04,qt:questionnaire,msg:query info : {"title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","operation":"add_title","create_time":"2017-03-01 18:09:04"}
+req_id:148836294776007,date:2017-03-01 18:09:07,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:148836294776007,date:2017-03-01 18:09:07,qt:questionnaire,msg:INSERT INTO `que_title`(`title`, `create_time`) VALUES('信息素养测评问卷','2017-03-01 18:09:07')
+req_id:148836294776007,date:2017-03-01 18:09:07,qt:questionnaire,msg:query info : {"title":"\u4fe1\u606f\u7d20\u517b\u6d4b\u8bc4\u95ee\u5377","operation":"add_title","create_time":"2017-03-01 18:09:07"}
+req_id:1488363034475006,date:2017-03-01 18:10:34,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488363034475006,date:2017-03-01 18:10:34,qt:questionnaire,msg:INSERT INTO `que_question`(`content`, `type`, `create_time`) VALUES('对信息素养的理解',1,'2017-03-01 18:10:34')
+req_id:1488363034475006,date:2017-03-01 18:10:34,qt:questionnaire,msg:query info : {"content":"\u5bf9\u4fe1\u606f\u7d20\u517b\u7684\u7406\u89e3","type":"1","operation":"add_question","create_time":"2017-03-01 18:10:34"}
+req_id:1488363120180908,date:2017-03-01 18:12:00,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488363120180908,date:2017-03-01 18:12:00,qt:questionnaire,msg:INSERT INTO `que_question`(`content`, `type`, `create_time`) VALUES('终端有哪些？',2,'2017-03-01 18:12:00')
+req_id:1488363120180908,date:2017-03-01 18:12:00,qt:questionnaire,msg:query info : {"content":"\u7ec8\u7aef\u6709\u54ea\u4e9b\uff1f","type":"2","operation":"add_question","create_time":"2017-03-01 18:12:00"}
+req_id:1488363123401092,date:2017-03-01 18:12:03,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488363123401092,date:2017-03-01 18:12:03,qt:questionnaire,msg:INSERT INTO `que_question`(`content`, `create_time`) VALUES('终端有哪些？','2017-03-01 18:12:03')
+req_id:1488363127177308,date:2017-03-01 18:12:07,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488363127177308,date:2017-03-01 18:12:07,qt:questionnaire,msg:INSERT INTO `que_question`(`type`, `create_time`) VALUES(2,'2017-03-01 18:12:07')
+req_id:1488363147104448,date:2017-03-01 18:12:27,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488363147104448,date:2017-03-01 18:12:27,qt:questionnaire,msg:INSERT INTO `que_question`(`type`, `create_time`) VALUES(2,'2017-03-01 18:12:27')
+req_id:1488363165881522,date:2017-03-01 18:12:45,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488363165881522,date:2017-03-01 18:12:45,qt:questionnaire,msg:INSERT INTO `que_question`(`content`, `create_time`) VALUES('终端有哪些？','2017-03-01 18:12:45')
+req_id:148836437736796,date:2017-03-01 18:32:57,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:148836437736796,date:2017-03-01 18:32:57,qt:questionnaire,msg:INSERT INTO `que_question`(`content`, `create_time`) VALUES('终端有哪些？','2017-03-01 18:32:57')
+req_id:1488364378704891,date:2017-03-01 18:32:58,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488364378704891,date:2017-03-01 18:32:58,qt:questionnaire,msg:INSERT INTO `que_question`(`content`, `create_time`) VALUES('终端有哪些？','2017-03-01 18:32:58')
+req_id:1488364390304555,date:2017-03-01 18:33:10,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488364390304555,date:2017-03-01 18:33:10,qt:questionnaire,msg:INSERT INTO `que_question`(`type`, `create_time`) VALUES(2,'2017-03-01 18:33:10')
+req_id:1488365066356223,date:2017-03-01 18:44:26,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488365066356223,date:2017-03-01 18:44:26,qt:questionnaire,msg:INSERT INTO `que_question`(`content`, `type`, `create_time`) VALUES('终端有哪些？',2,'2017-03-01 18:44:26')
+req_id:1488365066356223,date:2017-03-01 18:44:26,qt:questionnaire,msg:query info : {"content":"\u7ec8\u7aef\u6709\u54ea\u4e9b\uff1f","type":"2","operation":"add_question","create_time":"2017-03-01 18:44:26"}
+req_id:1488365267372720,date:2017-03-01 18:47:47,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488365267372720,date:2017-03-01 18:47:47,qt:questionnaire,msg:INSERT INTO `que_question`(`content`, `type`, `create_time`) VALUES('终端有哪些？',2,'2017-03-01 18:47:47')
+req_id:1488365267372720,date:2017-03-01 18:47:47,qt:questionnaire,msg:query info : null
+req_id:1488365323493930,date:2017-03-01 18:48:43,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488365323493930,date:2017-03-01 18:48:43,qt:questionnaire,msg:INSERT INTO `que_question`(`content`, `type`, `create_time`) VALUES('终端有哪些？',2,'2017-03-01 18:48:43')
+req_id:1488365323493930,date:2017-03-01 18:48:43,qt:questionnaire,msg:query info : null
+req_id:1488365372353725,date:2017-03-01 18:49:32,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488365372353725,date:2017-03-01 18:49:32,qt:questionnaire,msg:INSERT INTO `que_title`(`title`, `create_time`) VALUES('信息素养测评问卷','2017-03-01 18:49:32')
+req_id:1488365372353725,date:2017-03-01 18:49:32,qt:questionnaire,msg:query info : null
+req_id:1488365405346612,date:2017-03-01 18:50:05,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488365444762866,date:2017-03-01 18:50:44,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488365444762866,date:2017-03-01 18:50:44,qt:questionnaire,msg:INSERT INTO `que_option`(`content`, `question_id`, `create_time`) VALUES('一般',1,'2017-03-01 18:50:44')
+req_id:1488365444762866,date:2017-03-01 18:50:44,qt:questionnaire,msg:query info : null
+req_id:1488365466360102,date:2017-03-01 18:51:06,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488365466360102,date:2017-03-01 18:51:06,qt:questionnaire,msg:INSERT INTO `que_option`(`content`, `question_id`, `create_time`) VALUES('一般',2,'2017-03-01 18:51:06')
+req_id:1488365466360102,date:2017-03-01 18:51:06,qt:questionnaire,msg:query info : null
+req_id:1488365779606018,date:2017-03-01 18:56:19,qt:register,msg:db_conf_key db1 Connect success !
+req_id:1488365779606018,date:2017-03-01 18:56:19,qt:register,msg:INSERT INTO `eval_student`(`account`, `passwd`, `gender`, `school_id`, `grade`, `class`, `create_time`) VALUES('huashi','huashi','男',12,'高一','高一（3）','2017-03-01 18:56:19')
+req_id:1488365779606018,date:2017-03-01 18:56:19,qt:register,msg:query info : null
+req_id:148836581631102,date:2017-03-01 18:56:56,qt:register,msg:db_conf_key db1 Connect success !
+req_id:148836581631102,date:2017-03-01 18:56:56,qt:register,msg:INSERT INTO `eval_student`(`account`, `passwd`, `gender`, `school_id`, `grade`, `class`, `create_time`) VALUES('huashi1','huashi','男',12,'高一','高一（3）','2017-03-01 18:56:56')
+req_id:148836581631102,date:2017-03-01 18:56:56,qt:register,msg:query info : null
+req_id:1488365847926926,date:2017-03-01 18:57:27,qt:register,msg:db_conf_key db1 Connect success !
+req_id:1488365847926926,date:2017-03-01 18:57:27,qt:register,msg:INSERT INTO `eval_student`(`account`, `passwd`, `gender`, `school_id`, `grade`, `class`, `create_time`) VALUES('huashi1','huashi','男',12,'高一','高一（3）','2017-03-01 18:57:27')
+req_id:1488365847926926,date:2017-03-01 18:57:27,qt:register,msg:query info : null
+req_id:1488365869278147,date:2017-03-01 18:57:49,qt:register,msg:db_conf_key db1 Connect success !
+req_id:1488365869278147,date:2017-03-01 18:57:49,qt:register,msg:INSERT INTO `eval_school`(`account`, `passwd`, `name`, `province`, `city`, `county`, `detail_addr`, `stu_count`, `tea_count`, `contacter`, `phone`, `edu_depart_id`, `create_time`) VALUES('huashi','huashi','华师附小','湖北','武汉','洪山','华师',3000,200,'常春波',13545891316,1,'2017-03-01 18:57:49')
+req_id:1488365869278147,date:2017-03-01 18:57:49,qt:register,msg:query info : null
+req_id:1488365876974587,date:2017-03-01 18:57:56,qt:register,msg:db_conf_key db1 Connect success !
+req_id:1488365876974587,date:2017-03-01 18:57:56,qt:register,msg:INSERT INTO `eval_school`(`account`, `passwd`, `name`, `province`, `city`, `county`, `detail_addr`, `stu_count`, `tea_count`, `contacter`, `phone`, `edu_depart_id`, `create_time`) VALUES('huashi1','huashi','华师附小','湖北','武汉','洪山','华师',3000,200,'常春波',13545891316,1,'2017-03-01 18:57:56')
+req_id:1488365876974587,date:2017-03-01 18:57:56,qt:register,msg:query info : null
+req_id:1488365909928472,date:2017-03-01 18:58:29,qt:open_account,msg:db_conf_key db1 Connect success !
+req_id:1488365909928472,date:2017-03-01 18:58:29,qt:open_account,msg:INSERT INTO `eval_department`(`account`, `passwd`, `name`, `province`, `city`, `county`, `parent_id`, `create_time`) VALUES('xujian','xujian','xujian','北京','北京','海淀',0,'2017-03-01 18:58:29')
+req_id:1488365909928472,date:2017-03-01 18:58:29,qt:open_account,msg:query info : null
+req_id:1488365946942589,date:2017-03-01 18:59:06,qt:open_account,msg:db_conf_key db1 Connect success !
+req_id:1488365946942589,date:2017-03-01 18:59:06,qt:open_account,msg:INSERT INTO `eval_department`(`account`, `passwd`, `name`, `province`, `city`, `county`, `parent_id`, `create_time`) VALUES('xujian1','xujian','xujian','北京','北京','海淀',0,'2017-03-01 18:59:06')
+req_id:1488365946942589,date:2017-03-01 18:59:06,qt:open_account,msg:query info : null
+req_id:1488365981521567,date:2017-03-01 18:59:41,qt:open_account,msg:db_conf_key db1 Connect success !
+req_id:1488365981521567,date:2017-03-01 18:59:41,qt:open_account,msg:INSERT INTO `eval_department`(`account`, `passwd`, `name`, `province`, `city`, `county`, `parent_id`, `create_time`) VALUES('zhoupeng','xujian','xujian','北京','北京','海淀',0,'2017-03-01 18:59:41')
+req_id:1488365981521567,date:2017-03-01 18:59:41,qt:open_account,msg:query info : null
+req_id:1488366072142750,date:2017-03-01 19:01:12,qt:open_account,msg:db_conf_key db1 Connect success !
+req_id:1488366072142750,date:2017-03-01 19:01:12,qt:open_account,msg:INSERT INTO `eval_department`(`account`, `passwd`, `name`, `province`, `city`, `county`, `parent_id`, `create_time`) VALUES('zhoupeng','xujian','xujian','北京','北京','海淀',0,'2017-03-01 19:01:12')
+req_id:1488366072142750,date:2017-03-01 19:01:12,qt:open_account,msg:query info : null
+req_id:1488366208575554,date:2017-03-01 19:03:28,qt:open_account,msg:db_conf_key db1 Connect success !
+req_id:1488366208575554,date:2017-03-01 19:03:28,qt:open_account,msg:INSERT INTO `eval_admin`(`account`, `passwd`, `name`, `level`) VALUES('zhoupeng','xujian','xujian',1)
+req_id:1488366208575554,date:2017-03-01 19:03:28,qt:open_account,msg:query info : null
+req_id:1488366231356857,date:2017-03-01 19:03:51,qt:open_account,msg:db_conf_key db1 Connect success !
+req_id:1488366231356857,date:2017-03-01 19:03:51,qt:open_account,msg:INSERT INTO `eval_admin`(`account`, `passwd`, `name`, `level`) VALUES('zhoupeng1','xujian','xujian',1)
+req_id:1488366231356857,date:2017-03-01 19:03:51,qt:open_account,msg:query info : null
+req_id:1488366238979293,date:2017-03-01 19:03:58,qt:open_account,msg:db_conf_key db1 Connect success !
+req_id:1488366238979293,date:2017-03-01 19:03:58,qt:open_account,msg:INSERT INTO `eval_admin`(`account`, `passwd`, `name`, `level`) VALUES('zhoupeng1','xujian','xujian',1)
+req_id:1488366238979293,date:2017-03-01 19:03:59,qt:open_account,msg:query info : null
+req_id:1488370259116232,date:2017-03-01 20:10:59,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488370259116232,date:2017-03-01 20:10:59,qt:questionnaire,msg:INSERT INTO `que_option`(`content`, `question_id`, `create_time`) VALUES('较好',1,'2017-03-01 20:10:59')
+req_id:1488370259116232,date:2017-03-01 20:10:59,qt:questionnaire,msg:query info : null
+req_id:1488370307326989,date:2017-03-01 20:11:47,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488370307326989,date:2017-03-01 20:11:47,qt:questionnaire,msg:INSERT INTO `que_option`(`content`, `question_id`, `create_time`) VALUES('智能手机',2,'2017-03-01 20:11:47')
+req_id:1488370307326989,date:2017-03-01 20:11:47,qt:questionnaire,msg:query info : null
+req_id:1488370337700726,date:2017-03-01 20:12:17,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488370337700726,date:2017-03-01 20:12:17,qt:questionnaire,msg:INSERT INTO `que_option`(`content`, `question_id`, `create_time`) VALUES('显示器',2,'2017-03-01 20:12:17')
+req_id:1488370337700726,date:2017-03-01 20:12:17,qt:questionnaire,msg:query info : null
+req_id:1488370344345106,date:2017-03-01 20:12:24,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488370344345106,date:2017-03-01 20:12:24,qt:questionnaire,msg:INSERT INTO `que_option`(`content`, `question_id`, `create_time`) VALUES('打印机',2,'2017-03-01 20:12:24')
+req_id:1488370344345106,date:2017-03-01 20:12:24,qt:questionnaire,msg:query info : null
+req_id:1488372066918632,date:2017-03-01 20:41:06,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488372066918632,date:2017-03-01 20:41:06,qt:questionnaire,msg:INSERT INTO `que_option`(`content`, `question_id`, `create_time`) VALUES('一般',1,'2017-03-01 20:41:06')
+req_id:1488372066918632,date:2017-03-01 20:41:06,qt:questionnaire,msg:query info : null
+req_id:1488372104714794,date:2017-03-01 20:41:44,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488372104714794,date:2017-03-01 20:41:44,qt:questionnaire,msg:INSERT INTO `que_option`(`content`, `question_id`, `create_time`) VALUES('一般',1,'2017-03-01 20:41:44')
+req_id:1488372104714794,date:2017-03-01 20:41:44,qt:questionnaire,msg:query info : null
+req_id:1488373010250588,date:2017-03-01 20:56:50,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488373010250588,date:2017-03-01 20:56:50,qt:questionnaire,msg:INSERT INTO `que_option`(`content`, `question_id`, `order`, `create_time`) VALUES('显示器',2,'e','2017-03-01 20:56:50')
+req_id:1488373010250588,date:2017-03-01 20:56:50,qt:questionnaire,msg:query info : null
+req_id:1488374647592238,date:2017-03-01 21:24:07,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488374647592238,date:2017-03-01 21:24:07,qt:questionnaire,msg:INSERT INTO `que_title_question`(`questionnaire_id`, `question_id`, `create_time`) VALUES(1,2,'2017-03-01 21:24:07'),(1,1,'2017-03-01 21:24:07')
+req_id:1488374647592238,date:2017-03-01 21:24:07,qt:questionnaire,msg:query info : null
+req_id:1488374674733791,date:2017-03-01 21:24:34,qt:questionnaire,msg:db_conf_key db1 Connect success !
+req_id:1488374674733791,date:2017-03-01 21:24:34,qt:questionnaire,msg:INSERT INTO `que_title_question`(`questionnaire_id`, `question_id`, `create_time`) VALUES(1,2,'2017-03-01 21:24:34'),(1,1,'2017-03-01 21:24:34')
+req_id:1488374674733791,date:2017-03-01 21:24:34,qt:questionnaire,msg:query info : null

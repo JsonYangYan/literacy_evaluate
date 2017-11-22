@@ -1,0 +1,108 @@
+.flex-container{
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   padding: 20px 15% 0px 15%;
+   font-size: 16px;
+}
+.flex-item {
+ margin: 0 auto;
+ padding: 15px;
+ cursor: pointer;
+ border: 1px solid #3bb2d0;
+}
+.flex-item-active{
+	background: #FFFFFF;
+	color: #3bb2d0;
+}
+.flex-item-normal{
+	background: #3bb2d0;
+	color: #FFFFFF;
+}
+/*选中的标签*/
+.checked{
+	width: 80%;
+	margin: 20px auto;
+	font-size: 14px;
+}
+.check_container{
+	display: inline-block;
+}
+.check_item{
+	display: inline-block;
+	margin-right: 5px;
+	background: #E3E3E3;
+}
+.tab_btn{
+	float: right;
+	padding: 5px;
+	cursor: pointer;
+	background: #3bb2d0;
+	margin-left: 10px;
+	color: #FFFFFF;
+}
+.tab{
+	border: 1px solid #3bb2d0;
+	width: 80%;
+	margin:0 auto;
+	position: relative;
+	padding: 10px;
+	overflow: hidden;
+}
+.btn_container{
+	width: 80%;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+.tab_item{
+	display: inline-block;
+	font-size: 14px;
+	padding: 10px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	cursor: pointer;
+	min-width:80px;
+	text-align: center;
+	font-family: "微软雅黑";
+	line-height: 20px;
+}
+
+.active{
+	color:#FFFFFF;
+	background:#ffc300;
+	
+}
+.normal{
+		background: #E3E3E3;
+		color: #000000;
+}
+.eva_container{
+	width: 80%;
+	border: 1px solid #3bb2d0;
+	margin: 0 auto;
+	min-height: 600px;
+	padding: 10px;
+}
+.item_title{
+	display: inline-block;
+	width: 40px;
+}
+.tab_title{
+	float: left;
+	width: 5%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.tab_cont{
+	float: left;
+	width: 95%;
+}
+.tab_contt{
+	float: left;
+	width: 95%;
+}
+.echarts{
+	width: 80%;
+	height: 400px;
+	margin: 0 auto;
+}

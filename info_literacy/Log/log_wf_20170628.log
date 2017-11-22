@@ -1,0 +1,11 @@
+req_id:1498616106961750,date:2017-06-28 10:15:08,qt:navigate,msg:redis connect failed . host:127.0.0.1 port:6379
+req_id:1498616109602375,date:2017-06-28 10:15:09,qt:evaluation,msg:params are illegal
+req_id:1498616170602375,date:2017-06-28 10:16:11,qt:navigate,msg:redis connect failed . host:127.0.0.1 port:6379
+req_id:1498616173196125,date:2017-06-28 10:16:13,qt:evaluation,msg:params are illegal
+req_id:1498616188696125,date:2017-06-28 10:16:29,qt:navigate,msg:redis connect failed . host:127.0.0.1 port:6379
+req_id:1498616190930500,date:2017-06-28 10:16:30,qt:evaluation,msg:params are illegal
+req_id:1498616240961750,date:2017-06-28 10:17:22,qt:navigate,msg:redis connect failed . host:127.0.0.1 port:6379
+req_id:1498616243508625,date:2017-06-28 10:17:23,qt:evaluation,msg:params are illegal
+req_id:1498616293180500,date:2017-06-28 10:18:14,qt:navigate,msg:redis connect failed . host:127.0.0.1 port:6379
+req_id:1498616295446125,date:2017-06-28 10:18:16,qt:evaluation,msg:redis connect failed . host:127.0.0.1 port:6379
+req_id:1498616303461750,date:2017-06-28 10:18:23,qt:evaluation,msg:params are illegal

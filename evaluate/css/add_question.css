@@ -1,0 +1,40 @@
+.tab_content2{
+	font-size: 16px;
+	width: 300px;
+	margin: 50px auto;
+}
+.tab_content2 table{
+	width: 400px;
+}
+
+.tab_content2 table tr{
+	height: 30px;
+}
+.btn{
+	background-color: #3bb2d0;
+	cursor: pointer;
+	color: white;
+	font-size: 14px;
+	display: inline-block;
+	padding: 0px 5px;
+	margin-left: 45px;
+	margin-bottom: 20px;
+}
+.order{
+	width: 40px;
+}
+.content{
+	width: 200px;
+}
+.title{
+	width: 240px;
+}
+.del_btn{
+	background-color: #3bb2d0;
+	cursor: pointer;
+	color: white;
+	font-size: 14px;
+	display: inline-block;
+	padding: 0px 5px;
+	margin-left: 5px;
+}

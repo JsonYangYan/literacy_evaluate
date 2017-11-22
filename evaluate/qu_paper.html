@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="css/qu_base.css" />
+		<link rel="stylesheet" href="css/page.css" />
+		<link rel="stylesheet" href="css/jquery-ui.css" />
+		<link rel="stylesheet" href="css/qu_question.css" />
+		<script type="text/javascript" src="js/jquery1.8.2.min.js" ></script>
+		<script type="text/javascript" src="js/base.js" ></script>
+		<script type="text/javascript" src="js/trimpath.js" ></script>
+		<script type="text/javascript" src="js/paging.js" ></script>
+		<script type="text/javascript" src="js/jquery-ui.js" ></script>
+		<title>试卷列表</title>
+	</head>
+	<body>
+		<div class="header">
+			<h1>高中生信息素养测评系统</h1>
+			<span class="nav nav_active"><a href="" target="_self">试卷列表</a></span>
+			<span class="nav"><a href="question_list.html" target="_self">问题列表</a></span>
+			<span id="go_cancel" onclick="goCancle()">退出</span>
+			<span id="type">欢迎您</span>
+		</div>
+			
+		<div id="container">
+			<!-- 	试卷列表		 -->
+			<div class="add_quiz">
+				<div class="ques_content">
+				</div>
+				<div class="add_paper">
+					<div class="quiz">
+						<input type="text" name="quiz"/>
+					</div>
+					<div id="quiz_btn" class="btn1">
+						增加新问卷
+					</div>
+				</div>
+			</div>
+			<div class="clear"></div>
+			<div id="page_numbers" style="width: 60%;margin-right:250px ;"></div>
+		</div>
+		<footer id="footer">
+			<div style="line-height: 30px;text-align: center;color: #fff;padding-top: 20px;font-size:14px">
+			教育部教育信息化战略研究基地（华中） <br />
+			联系地址：湖北 武汉 珞喻路152号 华中师范大学科学会堂501 邮编：430079
+			</div>
+		</footer>
+		<!--trimpath 模板-->
+		<div id="list_template" style="display:none">
+			<ul class="ques_list">
+				{var i=1}
+				{for qu in schoolData}
+					<li>
+						<span class='paper_title'>
+							<a href="qu_question.html?paper_id=${qu.questionnaire_id}" target="_blank">${i++}、${qu.content}</a>
+						</span>
+						<!--<span class='paper_del'>
+							<a href='#' paper_id="${qu.questionnaire_id}" onclick="deleteTitle(this)">删除</a>
+						</span>-->
+						<span class='paper_upd'>
+							<a href="org_paper.html?paper_id=${qu.questionnaire_id}" target="_blank">修改试卷</a>
+						</span>
+						<span class='paper_upd'>
+							<a onclick="open_dialog(this)" title_id="${qu.questionnaire_id}" title_name="${qu.content}">修改题目</a>
+						</span>
+						<div class='clear'></div>
+					</li>
+				{/for}
+			</ul>
+			
+		</div>
+		<div id="dialog" title="修改试卷题目">
+ 		 	<input value="" class="upd_title" />
+		</div>
+		<input type="hidden" id="title_id" />
+	</body>
+	<script type="text/javascript" src="js/qu_paper.js" ></script>
+</html>
